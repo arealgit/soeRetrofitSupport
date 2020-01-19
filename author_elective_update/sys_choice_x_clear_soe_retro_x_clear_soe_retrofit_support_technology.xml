@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="technology" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pumps</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>70</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-09 16:38:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3c9acfe1b65c01466d6c91e1e4bcb68</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-09 16:38:55</sys_updated_on>
+            <value>Pumps</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>technology</element>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-09 20:52:26</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c2e3653e1be5845042ff0d01cd4bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>technology</sys_name>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_technology</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-09 20:52:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>687a55f16f4ff9004c327b2f5d3ee4e6</instance_id>
+        <instance_name>clrdev</instance_name>
+        <name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_technology</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="technology" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>technology</element><hint/><inactive>false</inactive><label>Pumps</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>70</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-09 16:38:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f3c9acfe1b65c01466d6c91e1e4bcb68</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-09 16:38:55</sys_updated_on><value>Pumps</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>technology</element><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-09 20:52:26</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>c2e3653e1be5845042ff0d01cd4bcba0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>technology</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_technology</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-09 20:52:26</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1648035684</payload_hash>
+        <record_name>SOE Retrofit Support Cases.Technology</record_name>
+        <reverted_from/>
+        <source>2657257f1b494810b40d10e58d4bcb09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-19 23:28:52</sys_created_on>
+        <sys_id>61e0ddcc1baa089066d6c91e1e4bcb0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fc0233d950000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-19 23:28:52</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>29e0ddcc4daa089086ff446a07aa1e09</update_guid>
+        <update_guid_history>29e0ddcc4daa089086ff446a07aa1e09:1648035684,e9e09dcc6faa0890b5d8d26cfdcaa4e4:1169489800,5de09dcc3faa089032c1a74d494198d2:-870690244,59e09dccd2aa0890fa29aabcea6fe6cf:-1672158875,5de09dcc62aa0890bc78a95d4f7243b8:503955814,9de09dccc3aa0890e783a2d5b9c077a2:631849965,99e09dccb8aa0890c11b33b26617bb92:409540626,c9e09dccedaa08904e7f181d2f80f772:-2054037775,cde09dccf0aa0890798a31247c306c68:691399098,c5e09dcc29aa089079f483a98c036f62:-1150116426,0de09dcce6aa089095bf98be96bd8249:406995154,1dd3613eb1e584506e937ff9dcf1e758:882630245,cdd3213effe58450e2140a90bf5e4ed3:997341909,33b32dfa11e58450c7188b22807c12f9:-1327212540,f7b32dfa7de58450df802c92da40a2be:-1655088887,a2b369faf5e58450d078fdaea4622086:-1672158875,79b329fac1e58450d55b35c7c49fd25d:349121132,6db3e5fa1fe5845028ca4f1191f387cb:-619288047,6cb365fab2e584503f072b6591497d9b:-1993110544,6633257686e5845075b6e9aaccb37aaa:-1198270022,d133a1768ce58450b934e986788d9233:247698875,c1336176eee584502e0026dadfaf6af6:-1537324078,383361766de584507b91f44ac9400583:1652341406,743361768ae5845089699142e06c5d5c:114740226</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-19 23:28:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>c2e3653e1be5845042ff0d01cd4bcba0</sys_id>
+        <sys_metadata>c2e3653e1be5845042ff0d01cd4bcba0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>technology</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_technology</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_technology">61e0ddcc1baa089066d6c91e1e4bcb0a</sys_update_version>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-19 23:28:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

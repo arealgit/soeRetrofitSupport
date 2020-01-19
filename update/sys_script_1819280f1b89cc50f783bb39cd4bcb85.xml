@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_clear_soe_retro_x_clear_soe_retrofit_support</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Auto resolve - no response</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[// This script automatically closes incidents that are resolved
+// and haven't been updated in the specified number of days.
+// This number is a property in System Properties.
+// To place a comment in the incident, uncomment the "gr.comments" line.
+autoClose();
+
+function autoClose() {
+	//var ps = gs.getProperty('glide.ui.autoclose.time');
+	var pn = parseInt(3);
+	var gr = new GlideRecord('x_clear_soe_retro_x_clear_soe_retrofit_support');
+	gr.addQuery('status', '3');
+	gr.addOrCondition('status', '4');
+	gr.addQuery('awaiting_date', '<', gs.daysAgoStart(pn));
+	gr.query();
+	while(gr.next()) {
+		gr.status = '5';
+		gr.u_journal_1 = 'Case automatically resolved after ' + pn + ' days in the Awaiting state.';
+		gr.update();
+	}
+	
+	
+}]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-11-15 14:46:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1819280f1b89cc50f783bb39cd4bcb85</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Auto resolve - no response</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_script_1819280f1b89cc50f783bb39cd4bcb85</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-11-15 15:01:05</sys_updated_on>
+        <template/>
+        <when>after</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=1819280f1b89cc50f783bb39cd4bcb85"/>
+</record_update>

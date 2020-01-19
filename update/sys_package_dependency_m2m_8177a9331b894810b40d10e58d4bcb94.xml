@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">c4aedd314f0331007c0cacb14210c749</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-11-18 03:10:27</sys_created_on>
+        <sys_id>8177a9331b894810b40d10e58d4bcb94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-11-18 03:10:27</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

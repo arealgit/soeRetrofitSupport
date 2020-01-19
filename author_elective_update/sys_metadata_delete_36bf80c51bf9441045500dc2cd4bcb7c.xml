@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="sector" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Place of Worship</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:53:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>faf490091b7d441045500dc2cd4bcbec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:53:56</sys_updated_on>
+            <value>Government / Public Institution - Place of Worship</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sector</element>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-01 01:21:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>36bf80c51bf9441045500dc2cd4bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sector</sys_name>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-01 01:21:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>607a55f16f4ff9004c327b2f5d3ee4d0</instance_id>
+        <instance_name>clr</instance_name>
+        <name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="sector" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>sector</element><hint/><inactive>false</inactive><label>Government / Public Institution - Place of Worship</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:53:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>faf490091b7d441045500dc2cd4bcbec</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:53:56</sys_updated_on><value>Government / Public Institution - Place of Worship</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>sector</element><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-11-01 01:21:33</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>36bf80c51bf9441045500dc2cd4bcb7c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sector</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-11-01 01:21:33</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>34069713</payload_hash>
+        <record_name>SOE Retrofit Support Cases.Sector</record_name>
+        <reverted_from/>
+        <source>2657257f1b494810b40d10e58d4bcb09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-18 04:30:11</sys_created_on>
+        <sys_id>dd6950ed1bbdc81003d2433fbd4bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f17453d1c0000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-12-18 04:30:11</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>956950ede2bdc810e1543e510fc81a7b</update_guid>
+        <update_guid_history>956950ede2bdc810e1543e510fc81a7b:34069713,916950ed0ebdc810d75f8f3edbaba178:959067051,9d6950eddbbdc81095c4d13bc9f07174:-1850494299,996950edf6bdc81096f91bfd16972771:1461950593,956950edaabdc810a33a803f1e31de6e:-341187573,916950edefbdc810ca43ae846571ba6b:-339986971,9d6950ed91bdc81047270158f4a14b67:236115871,996950ed62bdc8109962ca8d47ea2764:-766532047,956950ed80bdc8109ff70e71068f9361:-1509610869,916950eda4bdc8104cb144f95549ab5e:-1380776273,8d6950ed89bdc810dfe53690e92ee85a:439271177,896950ed5fbdc810eff1c34b7c7b0b57:-221533149,856950ed4ebdc8103ff93c61d1662054:1482195163,c96950ed08bdc810b54df56ec0725c44:-1741053835,c56950ed70bdc810d800c6c094411241:866714959,c16950ed4abdc810f2f98bb63f124a3e:-545953591,cd6950ed00bdc810ebb98067404ebb3a:1357063887,096910ed78bdc810b0cd39195ca5e3f9:1484637023,056910ed01bdc8104cb0a7c600943cf6:1712188877,016910ed89bdc8104ffd800b12351ef3:1222256789,c96910edd8bdc810c6408388ee0b0aef:-870623089,016910edc6bdc810f114204826c294e0:1721002153,c96910eda1bdc810151e04559259ecdc:-1032441421,f46910ededbdc810b7feb2342eff66d9:-1847474875,f06910edf5bdc810ff7199163285b4d6:-97203133,386910ed81bdc810d91a33936cc8efc6:259005213,346910ed3ebdc810ae8349e5bcd1bec3:587585111,306910ed76bdc810dc9dac73fbd9adc0:347455633,3c6910edcfbdc8104090ad19fce8e7bc:551706485,386910ed22bdc810f9d5b36074baaeb9:1105648863,346910ed64bdc8100b8c21446219f9b6:-261344629,306910edc1bdc810eac21ee449ff7cb3:-1036065809,3c6910ed5ebdc8107553056661c436af:-1460476823,386910edd1bdc810504440512f8bf3ac:-1834953431,246910edbbbdc810a68531e1cafa49a9:-1782392029,206910ed31bdc810a0a6a823536787a6:-2075469809,2c6910ed2abdc810eb116e67da0656a2:310516385,286910ed07bdc8101338d98dc2d1db9f:1550932699,246910ed23bdc810466d5933828c149c:1887271375,206910ed79bdc810c21a9a74071ad999:1810663659,2c6910ed55bdc8101b0e92e7cca7cd95:-670221755,286910ed1cbdc810fe2395f74c25ce92:-998904961,246910ed19bdc8107306fe7921ff028f:95238937,206910ed67bdc810ca4389eebc353b8c:1847898291,2c6910eddfbdc8109c9a1798f35df388:-1569651955,286910ed21bdc8107df5093241cb4485:178221171,146910eda0bdc8109776a72d334e7a82:-1915687337,106910edcfbdc81032b5dab71782f27f:640001365,906910ed89bdc81082f11473199d8831:-1490820539,9c6910ed52bdc8107878ec19b3a0852d:1195303415,986910edfdbdc8100b8538b24b4fe82a:1651451793,946910ed6ebdc81035f5cad5ccbe9327:-1867483125,906910ed76bdc8109d916d41f5646a24:23390693,9c6910edb5bdc810f7fb5845a6211020:-994735489,986910ed5fbdc810d3ec54f149e2ab1d:1953772153,946910edcfbdc810277a1a5ca102b61a:-1014175099,906910ed75bdc81010fe7160dc5f3b17:753330261,8c6910ed9bbdc8108c6cf6981ea58b13:-1180164849,886910ed3fbdc810d72f660a7919f710:902504307,cc6910ed44bdc81082149298115c5700:-1956445911,c869dcadb7bdc8105a64cd486c79aefd:436497379,c469dcad23bdc810425671db240919fa:-243956885,8069dcada3bdc81030bcb23a7634b1f7:710620901,8c69dcad1dbdc81018e0ff67b7ef3ef3:1424048959,8869dcad6cbdc810f599b96398b6fbf0:-1182778887,8469dcad66bdc81074befc1dd41583ed:-482488065,8069dcad68bdc8104b45e572e556fbea:-1503108615,7b59dcad27bdc810670808a63bc672c1:-1508638565,7759dcad93bdc81023d40685c89882be:-1763406435,7359dcadd1bdc8101e6fd9d35ec60ebb:-144954177,7f59dcad37bdc810f409bcbc6dadc4b7:-876435284,7b59dcad63bdc810b9cc1febd82c1db4:399040550,7759dcad5ebdc810bb81b035bb319bb1:1012077424,7359dcadd1bdc8108f408898cac7daae:68994552,7f59dcadc4bdc810396a6fe01eab7eaa:-1771382606,6b59dcad8ebdc81022568ea424c461a7:-1066586964,6759dcadc9bdc8103a3f6b22bd3580a4:-332149466,6359dcad90bdc8107ddd70c682a334a1:-1963352544,6f59dcadb4bdc8109fab51b82084499d:2027990842,6b59dcad04bdc810d8894ed00503629a:887171540,6759dcad59bdc810d1a6b575d0568f97:2097995908,6359dcad51bdc810d87d7ef24bbc0094:1181665918,6f59dcad74bdc81051ef667c0b65e990:463328824,6b59dcad35bdc8102c9ecaa84e2cd08d:1452222712,6759dcad05bdc8104fe5009ca2d94f8a:-387028846,1f59dcad7bbdc810fd3fe9924ad0cd86:695279740,41451c89ff7d4410c2888d7ff214a207:695631926,6845d889fe7d441064b6ddeb869e999a:1884982864,044598899c7d4410f78082f0578fe2c0:-789365418,33359889647d44101213d9d1f5425990:1846175156,ab359889747d4410baa432736ee33268:1087551610,23359889827d4410c44cc4fbd6155462:-1674405280,2f359889627d4410ef9b974fe7f75330:-1261702938,9f355889147d4410ec0092bd95fe3bfd:23076722,53355889347d441055e0cc7343babfd9:1820694424,873558896f7d4410f4b2aa368e8c7ed3:-1868349314,c3355889247d4410a75845f3ebee80ce:1333758308,4b3558899d7d44109c12805973d2529f:-350941206,833558898a7d44109298828153cbd074:-1623821946,36355889717d441056cbf2d91fa93362:2025100440,723558893f7d441014f8417280c8665c:-258785690,32355889817d441099784245f22c8858:-1027916286,5e3518898b7d4410de509ac47f14cebe:885743336,5135d4894d7d4410012f8be82fb12c35:1213929870,c4355489417d4410bdd587e6dd6a0847:-1788381804,27151c49947d44104b287aa138481e0f:22236506,8a151c09f17d44104e7c83ed26ae9d7a:2110866272,1915d809387d4410e79bc5fb3aaabab7:-1349873822,84155809f87d4410ac1c0a011f7787d2:134524352,be051809627d441029f26a14685b1b20:-1254810182,a205d409487d441026b180f1e93344c4:-1544660704,c205d4099b7d44103598a9ad27ed1233:-50358130,f1059409537d44106ee22f07e0c570eb:321757652,fd0594099f7d4410877b8abc7f3cb7c5:-686479734,ed059409fe7d4410fc04bc0ea211ecb3:-2130812162,ad059409157d4410356bd9b9306ce7ad:-1455151612,ad059409357d4410ec690962bc5ef5a4:-998322966,d9059409a67d44106af4e67e3e953f65:-106630714,05059409997d44104e7e5e835cbf2b40:326765334,49059409967d44104599d28fc99f1c0b:-1928866540,7c055409397d4410f30ba440f3dd83e2:-1346702406,38055409c07d44101eff5d07740d30d5:1099964246,200554097e7d44107b04cfa598151ca5:-1033363450,e00554097e7d441087994f401158ab84:988929420,d00554098b7d441011e8e2e2c0156156:141072402,d4055409487d441071ed27351cb75038:-1651296136,88051409d07d4410d911aae5bd365ed6:-260972834,63f4d009787d441046b5e6ab099512d4:1824081220,a3f4d009207d4410e32b5ab3666224c7:-143116022,6ff4d009517d4410f7dc3aca90f0d09b:-471873424,1ff4d009a37d4410a9cc7a912dcdcf93:-1743186172,1ff4d009597d4410aaec570299b9a668:-1646423670,83f4d009a27d4410791198fa83eacf47:1859142660,83f4d009907d4410fd3089ec0b73b037:210030186,8ff4d009207d4410f226379ce0814b24:1025259738,36f4d009d87d4410a4d8d231594c0f0e:-1348143920,b2f49009907d44107def0223964559ee:-1981712814,36f490095c7d441094bc5adb38463ce5:-1901637136,f2f49009797d4410bb43919ac65be6dc:2092445824,26f490099b7d44106d4541cbad1d9cc2:-275541754,26f49009d97d4410099bd431c9743a95:-1942917214,2af490095b7d44105e9702e562b45f8f:458466412,a6f49009557d4410411de94ac4271986:2026301284,6ef49009717d4410396530b9c360ac78:926120712,9af490093c7d4410f7d1f7bf106c986f:-961030098,56f490092a7d4410d9ce4de626254263:1168547062,daf49009097d44102e8ef9ac297a005a:1565532634,9af49009227d4410025bae27d704e756:1060341696,1af49009427d4410f9e68c6f2303f850:-2089114266,cef49009827d441038de26d422fe2a3c:232189612,82f49009087d4410202861511cdd872b:550051052,82f49009567d4410af1627565dda7e24:-1684448348,42f49009467d4410444cfe4de705211e:-301516374,c6f49009967d4410bbcd8b63ef9e3214:37123600,8ef49009b07d4410e32a7df09aa8a610:-907724378,86f450095d7d4410c4a9d98a62868be3:1699919380,31f45009db7d44102a604e9eadeb26df:568641498,fdf45009257d44105d0b6437f0f7a1cd:1493305984,7df450094e7d44109e353c3b56b81fc7:-259255048,75f45009cf7d44102b0a89bc4f72b0b7:-618084916,3df45009557d4410e8c3cf9aa4140db3:972615506,71f45009307d441051361d093a059eae:1684235160,f5f45009a57d4410d239b009c8fed29a:1648183726,bdf45009477d441034f491d30296dc96:-1492278540,75f450095d7d441066336ec562db8293:-167229382,35f45009437d4410d6021b735508f38f:1276475328,79f45009a57d4410d69394e38e2f8388:1622969830,29f45009457d441055ff257eed76dc81:1515537324,6df45009d87d44107688d0dba4341e7d:1155399666,a5f45009d37d44102f73f7c24ceb7977:-2021570848,65f45009b77d44104d3b58b0afb16870:-1088261674,e5f45009757d4410a316d6b84a9b7a43:704997270,10f169fe18a584501f8e382a31b740a7:1751030387</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-18 04:30:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>36bf80c51bf9441045500dc2cd4bcb7c</sys_id>
+        <sys_metadata>36bf80c51bf9441045500dc2cd4bcb7c</sys_metadata>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sector</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_metadata_delete_36bf80c51bf9441045500dc2cd4bcb7c</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector">dd6950ed1bbdc81003d2433fbd4bcb7b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-12-25 00:00:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

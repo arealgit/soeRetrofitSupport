@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="primary_inquiry_type_tier_2" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Other</dependent_value>
+            <element>primary_inquiry_type_tier_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>User Feedback</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-11 23:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cc831fd1b05c8d042ff0d01cd4bcbd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-11 23:18:11</sys_updated_on>
+            <value>User Feedback</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>primary_inquiry_type_tier_2</element>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-11 23:18:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>18c831fd1b05c8d042ff0d01cd4bcbd9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>primary_inquiry_type_tier_2</sys_name>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_primary_inquiry_type_tier_2</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-11 23:18:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>607a55f16f4ff9004c327b2f5d3ee4d0</instance_id>
+        <instance_name>clr</instance_name>
+        <name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_primary_inquiry_type_tier_2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="primary_inquiry_type_tier_2" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value>Other</dependent_value><element>primary_inquiry_type_tier_2</element><hint/><inactive>false</inactive><label>User Feedback</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence/><sys_created_by>system</sys_created_by><sys_created_on>2019-11-11 23:18:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9cc831fd1b05c8d042ff0d01cd4bcbd2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-11-11 23:18:11</sys_updated_on><value>User Feedback</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>primary_inquiry_type_tier_2</element><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2019-11-11 23:18:11</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>18c831fd1b05c8d042ff0d01cd4bcbd9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>primary_inquiry_type_tier_2</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_primary_inquiry_type_tier_2</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-11-11 23:18:11</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1309744943</payload_hash>
+        <record_name>SOE Retrofit Support Cases.Primary Inquiry Type (Tier 2)</record_name>
+        <reverted_from/>
+        <source>2657257f1b494810b40d10e58d4bcb09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-09 20:52:02</sys_created_on>
+        <sys_id>dcd3213e1be5845042ff0d01cd4bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eec6eeb4d0000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-12-09 20:52:02</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>94d3213e32e58450d7159deeacad673f</update_guid>
+        <update_guid_history>94d3213e32e58450d7159deeacad673f:1309744943,63b32dfa65e58450c12de801e51a3c68:1533476225,27b32dfa14e584506a20767743a4cc05:-1407737407,afb3e9fa5fe584506c815ed659dba2f5:963668033,1fb3e9faa5e584507597296afee7a0c7:-1956845262,9fb3e9fa57e58450fc5f8e66ae252867:-304899716,7ab3a9fa61e584500ce53ec2104c930d:971834607,e6b369fa48e58450f67cc4feaede4bdf:-1545287704,cab329faa6e5845048285d6d5dc1ad8b:379237350,fdb329fa48e584506a1ee4d6ef79a86c:608930770,31b329fabfe58450ccafc3e9d9eac923:-1886052996,b9b329fae5e584505be89fa9e883c913:-1558339278,49b3a5fa88e58450fa7979994104c3d6:434060957,0db3a5fab8e5845042e16588bd6e7dba:958191276,81b3a5faa9e58450ad416a39b2d71b83:1749571429,78b3a5fab6e584509dd493a155bbb148:-1353394854,f0b365fac4e58450777e84cc65a46ff2:118848350,c443e576fee584503b5191c7285e3eb4:-525421,f333e57600e584504e7dc2696934b709:499642035,47336576afe584506888646168ca007d:384902830,3e3365760ae5845047ec81a1bde1d14f:-510494233,b233657609e58450ee89431097561e34:1163351661,2a332576cbe58450d9cca80b11c508b9:-1068305942,f133e17627e584504d98dff1bb6ae93e:-191412155,7d33e17696e58450fbe0b3cc66eec31f:1600027605,28332176ffe58450cb35d7a7eef065d1:-2078441119,643321763ce58450ac17956fce4960aa:789482170</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-12-09 20:52:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>18c831fd1b05c8d042ff0d01cd4bcbd9</sys_id>
+        <sys_metadata>18c831fd1b05c8d042ff0d01cd4bcbd9</sys_metadata>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>primary_inquiry_type_tier_2</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_metadata_delete_18c831fd1b05c8d042ff0d01cd4bcbd9</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_primary_inquiry_type_tier_2">dcd3213e1be5845042ff0d01cd4bcb3f</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-12-11 00:00:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

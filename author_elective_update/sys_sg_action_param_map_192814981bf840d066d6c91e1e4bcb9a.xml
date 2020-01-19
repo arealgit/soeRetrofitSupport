@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="New Button (SOE Retrofit Cases)">512814981bf840d066d6c91e1e4bcb8e</button>
+        <item_parameter display_value="SOE Retrofit Cases number_2">152814981bf840d066d6c91e1e4bcb8b</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-10-25 14:09:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>192814981bf840d066d6c91e1e4bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>152814981bf840d066d6c91e1e4bcb8b</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_192814981bf840d066d6c91e1e4bcb9a</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:09:32</sys_updated_on>
+        <ui_parameter display_value="Number 2">912814981bf840d066d6c91e1e4bcb96</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>687a55f16f4ff9004c327b2f5d3ee4e6</instance_id>
+        <instance_name>clrdev</instance_name>
+        <name>sys_sg_action_param_map_192814981bf840d066d6c91e1e4bcb9a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="New Button (SOE Retrofit Cases)">512814981bf840d066d6c91e1e4bcb8e</button><item_parameter display_value="SOE Retrofit Cases number_2">152814981bf840d066d6c91e1e4bcb8b</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-10-25 14:09:32</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>192814981bf840d066d6c91e1e4bcb9a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>152814981bf840d066d6c91e1e4bcb8b</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_sg_action_param_map_192814981bf840d066d6c91e1e4bcb9a</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-10-25 14:09:32</sys_updated_on><ui_parameter display_value="Number 2">912814981bf840d066d6c91e1e4bcb96</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>-1359770289</payload_hash>
+        <record_name>152814981bf840d066d6c91e1e4bcb8b</record_name>
+        <reverted_from/>
+        <source>022718d41bf840d066d6c91e1e4bcbc2</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-10-25 14:09:34</sys_created_on>
+        <sys_id>822814981bf840d066d6c91e1e4bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e034048890000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:09:34</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>0e281498f7f840d072d02b994a465ef9</update_guid>
+        <update_guid_history>0e281498f7f840d072d02b994a465ef9:-1359770289</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-10-25 14:11:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>55367bf3565249248e0e6883a3c08810</sys_id>
+        <sys_metadata>192814981bf840d066d6c91e1e4bcb9a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>152814981bf840d066d6c91e1e4bcb8b</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_192814981bf840d066d6c91e1e4bcb9a</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_192814981bf840d066d6c91e1e4bcb9a">822814981bf840d066d6c91e1e4bcbfa</sys_update_version>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:11:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

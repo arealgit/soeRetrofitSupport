@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="primary_inquiry_type_tier_1" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>test</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence/>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-01 17:19:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20b64d6e1b3c4014f783bb39cd4bcbfc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-01 17:19:18</sys_updated_on>
+            <value>test</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:55:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f5554c91b7d441045500dc2cd4bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:55:37</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:55:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab5554c91b7d441045500dc2cd4bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:55:37</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:55:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b5554c91b7d441045500dc2cd4bcb90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:55:36</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:55:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef5554c91b7d441045500dc2cd4bcb9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:55:37</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:55:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab5554c91b7d441045500dc2cd4bcbc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:55:37</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:55:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f5554c91b7d441045500dc2cd4bcbda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:55:38</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:55:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e75554c91b7d441045500dc2cd4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:55:37</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Status Request</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69f450091b7d441045500dc2cd4bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:53:51</sys_updated_on>
+            <value>Application Status Request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Support</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2df450091b7d441045500dc2cd4bcb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:53:51</sys_updated_on>
+            <value>Application Support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Complaint</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:53:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ff4d0091b7d441045500dc2cd4bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:53:56</sys_updated_on>
+            <value>Complaint</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General Program Info</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5f450091b7d441045500dc2cd4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:53:51</sys_updated_on>
+            <value>General Program Info</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:53:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25f450091b7d441045500dc2cd4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:53:50</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_inquiry_type_tier_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical Support</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-16 14:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69f450091b7d441045500dc2cd4bcb79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-16 14:53:51</sys_updated_on>
+            <value>Technical Support</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>primary_inquiry_type_tier_1</element>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-01 17:19:18</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>06bf40c51bf9441045500dc2cd4bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>primary_inquiry_type_tier_1</sys_name>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_primary_inquiry_type_tier_1</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-01 17:19:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>607a55f16f4ff9004c327b2f5d3ee4d0</instance_id>
+        <instance_name>clr</instance_name>
+        <name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_primary_inquiry_type_tier_1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="primary_inquiry_type_tier_1" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>test</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence/><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-11-01 17:19:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>20b64d6e1b3c4014f783bb39cd4bcbfc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-11-01 17:19:18</sys_updated_on><value>test</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>1</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:55:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2f5554c91b7d441045500dc2cd4bcba1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:55:37</sys_updated_on><value>1</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>2</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:55:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ab5554c91b7d441045500dc2cd4bcba6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:55:37</sys_updated_on><value>2</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>3</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:55:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b5554c91b7d441045500dc2cd4bcb90</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:55:36</sys_updated_on><value>3</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>4</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:55:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ef5554c91b7d441045500dc2cd4bcb9a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:55:37</sys_updated_on><value>4</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>5</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:55:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ab5554c91b7d441045500dc2cd4bcbc4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:55:37</sys_updated_on><value>5</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>6</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:55:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7f5554c91b7d441045500dc2cd4bcbda</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:55:38</sys_updated_on><value>6</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>7</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:55:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e75554c91b7d441045500dc2cd4bcbcc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:55:37</sys_updated_on><value>7</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>Application Status Request</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:53:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>69f450091b7d441045500dc2cd4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:53:51</sys_updated_on><value>Application Status Request</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>Application Support</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:53:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2df450091b7d441045500dc2cd4bcb46</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:53:51</sys_updated_on><value>Application Support</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>Complaint</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:53:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0ff4d0091b7d441045500dc2cd4bcb1e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:53:56</sys_updated_on><value>Complaint</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>General Program Info</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:53:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a5f450091b7d441045500dc2cd4bcb72</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:53:51</sys_updated_on><value>General Program Info</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>Other</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:53:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>25f450091b7d441045500dc2cd4bcb3e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:53:50</sys_updated_on><value>Other</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>primary_inquiry_type_tier_1</element><hint/><inactive>false</inactive><label>Technical Support</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>0</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:53:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>69f450091b7d441045500dc2cd4bcb79</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:53:51</sys_updated_on><value>Technical Support</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>primary_inquiry_type_tier_1</element><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-11-01 17:19:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>06bf40c51bf9441045500dc2cd4bcb25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>primary_inquiry_type_tier_1</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_primary_inquiry_type_tier_1</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-11-01 17:19:18</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>84788360</payload_hash>
+        <record_name>SOE Retrofit Support Cases.Primary Inquiry Type (Tier 1)</record_name>
+        <reverted_from/>
+        <source>2657257f1b494810b40d10e58d4bcb09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-16 14:55:38</sys_created_on>
+        <sys_id>7f5554c91b7d441045500dc2cd4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f0f3522d60000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-12-16 14:55:38</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>375554c9047d4410157f348d191589dc</update_guid>
+        <update_guid_history>375554c9047d4410157f348d191589dc:84788360,af5554c9f57d44102a563d3d9457c0cd:-268969014,635554c9ad7d4410e745db875fb3b4c6:1551520104,635554c9647d441004ed4500a622baa8:-1485784886,e35554c9d97d4410408ebe80a8d9b6a3:1566958152,a75554c9367d441077a51f7c7eec789c:710988074,635554c9827d44100eeccb9d8a45db92:976339432,c3f4d009d67d4410467311bbb4679b20:-979359350,31f45009df7d44103ed7406e0f235585:946697692,21f45009847d44105a16b82174cb637b:821558340,6df45009517d441017e281616e90cf73:511558410,29f450094b7d441045044b23a340c36d:1907344392,a5f45009327d4410bb6faaf48ddd9540:-2144286234,ddb3e5fac9e58450ceac55811d6dba14:2002865317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-18 05:04:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>06bf40c51bf9441045500dc2cd4bcb25</sys_id>
+        <sys_metadata>06bf40c51bf9441045500dc2cd4bcb25</sys_metadata>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>primary_inquiry_type_tier_1</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_metadata_delete_06bf40c51bf9441045500dc2cd4bcb25</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_primary_inquiry_type_tier_1">7f5554c91b7d441045500dc2cd4bcbdc</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-12-25 00:00:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

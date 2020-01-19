@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Project Information" section_id="28e5e8fa1b65c01466d6c91e1e4bcbce" sys_domain="global" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zone_1</element>
+            <position>0</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>f67a41001baa089066d6c91e1e4bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zone_2</element>
+            <position>1</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>7e7a41001baa089066d6c91e1e4bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>technology</element>
+            <position>2</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>f27a41001baa089066d6c91e1e4bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_stage</element>
+            <position>3</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>7a7a41001baa089066d6c91e1e4bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>fe7a41001baa089066d6c91e1e4bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zone_3</element>
+            <position>5</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>767a41001baa089066d6c91e1e4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zone_4</element>
+            <position>6</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>fa7a41001baa089066d6c91e1e4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_visit_requested</element>
+            <position>7</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>727a41001baa089066d6c91e1e4bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>repeat_participant</element>
+            <position>8</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>f67a41001baa089066d6c91e1e4bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>327a41001baa089066d6c91e1e4bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_notes</element>
+            <position>10</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>b67a41001baa089066d6c91e1e4bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transfer_to_vendor</element>
+            <position>11</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-01-19 23:00:50</sys_created_on>
+            <sys_id>3e7a41001baa089066d6c91e1e4bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-01-19 23:00:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Project Information</caption>
+            <header>false</header>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-09 16:21:27</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28e5e8fa1b65c01466d6c91e1e4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_ui_section_28e5e8fa1b65c01466d6c91e1e4bcbce</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-09 16:21:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

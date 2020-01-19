@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd hh:mm:ss</date_format>
+        <map display_value="SOE Retrofit Cases transform">794808cd1b39441045500dc2cd4bcb5d</map>
+        <reference_value_field/>
+        <source_field>u_description</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_clear_soe_retro_imp_cases</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-16 13:59:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4878cc011b79441045500dc2cd4bcb67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_description</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_transform_entry_4878cc011b79441045500dc2cd4bcb67</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-12-16 13:59:07</sys_updated_on>
+        <target_field>description</target_field>
+        <target_table>x_clear_soe_retro_x_clear_soe_retrofit_support</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>

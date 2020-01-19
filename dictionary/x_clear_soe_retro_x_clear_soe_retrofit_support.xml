@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="SOE Retrofit Support Cases" max_length="40" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sizeclass="9575" type="collection">
+        <element label="Application Number" max_length="100" name="application_number" type="string"/>
+        <element label="Application Review Status or Timeline" max_length="40" name="application_review_status_or_timeline" type="boolean"/>
+        <element label="Assistance with Edits" max_length="40" name="assistance_with_edits" type="boolean"/>
+        <element label="Awaiting Date" max_length="40" name="awaiting_date" read_only="true" type="glide_date_time"/>
+        <element label="Calculations" max_length="40" name="calculations" type="boolean"/>
+        <element choice="1" label="Caller Type" max_length="100" name="caller_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Applicant" sequence="10" value="applicant"/>
+                <element inactive_on_update="false" label="Applicant Representative" sequence="20" value="applicant representative"/>
+                <element inactive_on_update="false" label="LDC" sequence="30" value="ldc"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Closed" max_length="40" name="closed" type="glide_date_time"/>
+        <element label="Company Name" max_length="100" name="company_name" type="string"/>
+        <element label="Contact Email" max_length="100" name="contact_email" type="string"/>
+        <element label="Contact Name" max_length="100" name="contact_name" type="string"/>
+        <element label="Contact Phone" max_length="100" name="contact_phone" type="string"/>
+        <element choice="1" label="Contact Type" max_length="40" name="contact_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Phone" sequence="10" value="Phone"/>
+                <element inactive_on_update="false" label="Email" sequence="20" value="Email"/>
+                <element inactive_on_update="false" label="Self-service" sequence="30" value="Self-service"/>
+                <element inactive_on_update="false" label="Voicemail" sequence="60" value="Voicemail"/>
+            </choice>
+        </element>
+        <element label="Creating and Submitting an Application" max_length="40" name="creating_and_submitting_an_application" type="boolean"/>
+        <element label="Creating M&amp;V Plan" max_length="40" name="creating_mv_plan" type="boolean"/>
+        <element label="Creating Worksheets" max_length="40" name="creating_worksheets" type="boolean"/>
+        <element label="Customer Service Complaints" max_length="40" name="customer_service_complaints" type="boolean"/>
+        <element label="Description" mandatory="true" max_length="400" name="description" type="string"/>
+        <element choice="1" label="Direction" max_length="40" name="direction" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Escalated to IESO" value="Escalated to IESO"/>
+                <element inactive_on_update="false" label="Immediately Resolved" value="Immediately Resolved"/>
+                <element inactive_on_update="false" label="To be followed up internally" value="To be followed up internally"/>
+            </choice>
+        </element>
+        <element label="DLC / Energy Star" max_length="40" name="dlc_energy_star" type="boolean"/>
+        <element label="Escalation Description" max_length="100" name="escalation_description" type="string"/>
+        <element label="Escalation Type" max_length="40" name="escalation_type" type="string"/>
+        <element label="General Program Info" max_length="40" name="general_program_info" type="boolean"/>
+        <element label="Greenhouse" max_length="40" name="greenhouse" type="boolean"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Implementer" max_length="32" name="implementer" reference="sys_user" reference_qual="roles=IESO Deskside SS^EQ" reference_qual_condition="roles=IESO Deskside SS^EQ" type="reference" use_dynamic_default="true"/>
+        <element label="Incentive Cheque Status" max_length="40" name="incentive_cheque_status" type="boolean"/>
+        <element label="Incident Number" max_length="40" name="incident_number" type="string"/>
+        <element label="Marketing Inquiries" max_length="40" name="marketing_inquiries" type="boolean"/>
+        <element label="Miscellanous" max_length="40" name="miscellanous" type="boolean"/>
+        <element label="M&amp;V - Lighting" max_length="40" name="mv_lighting" type="boolean"/>
+        <element label="M&amp;V - Non-Lighting" max_length="40" name="mv_non_lighting" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true,ts_weight=50" default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Opened On" max_length="40" name="opened_on" read_only="true" type="glide_date_time" use_dynamic_default="true"/>
+        <element label="Paperwork" max_length="40" name="paperwork" type="boolean"/>
+        <element label="Postal Code" max_length="8" name="postal_code" type="string"/>
+        <element choice="1" label="Primary Inquiry Type (Tier 1)" max_length="100" name="primary_inquiry_type_tier_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="test" value="test"/>
+            </choice>
+        </element>
+        <element choice="1" label="Primary Inquiry Type (Tier 2)" max_length="100" name="primary_inquiry_type_tier_2" type="string">
+            <choice>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Calculations: Simple Payback" value="Calculations: Simple Payback"/>
+                <element dependent_value="Other" inactive_on_update="false" label="Enhancement Recommendation" value="Enhancement Recommendation"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Marketing Inquiries" value="Marketing Inquiries"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Program Changes" value="Program Changes"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Training Session Requests" value="Training Session Requests"/>
+                <element dependent_value="Other" inactive_on_update="false" label="User Feedback" value="User Feedback"/>
+                <element dependent_value="Application Status Request" inactive_on_update="false" label="Application review status or timeline" sequence="5" value="Application review status or timeline"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="General Program Info" sequence="10" value="General Program Info"/>
+                <element dependent_value="Application Status Request" inactive_on_update="false" label="Request for support with Information Request" sequence="20" value="Request for support with Information Request"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Rules &amp; Eligibility" sequence="20" value="Rules &amp; Eligibility"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="CFF Framework Applications" sequence="30" value="CFF Framework Applications"/>
+                <element dependent_value="Application Status Request" inactive_on_update="false" label="Special request" sequence="30" value="Special request"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Interim Framework Transition" sequence="40" value="Interim Framework Transition"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Interim Framework Rule Changes" sequence="50" value="Interim Framework Rule Changes"/>
+                <element dependent_value="Technical Support" inactive_on_update="false" label="Retrofit Portal Login Issues" sequence="60" value="Retrofit Portal Login Issues"/>
+                <element dependent_value="Technical Support" inactive_on_update="false" label="Retrofit Portal Navigation" sequence="70" value="Retrofit Portal Navigation"/>
+                <element dependent_value="Technical Support" inactive_on_update="false" label="Retrofit Portal Task Issues" sequence="80" value="Retrofit Portal Task Issues"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Calculations" sequence="90" value="Calculations"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Paperwork" sequence="100" value="Paperwork"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Site Visit/Field Work" sequence="110" value="Site Visit/Field Work"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Application/Account Management Service" sequence="120" value="Application/Account Management Service"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="General Customer Service" sequence="130" value="General Customer Service"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="Technical Issues" sequence="140" value="Technical Issues"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="Program Governance/Admin (Interim Framework)" sequence="150" value="Program Governance/Admin (Interim Framework)"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="Political Directive" sequence="160" value="Political Directive"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="CFF Application Support" sequence="170" value="CFF Application Support"/>
+                <element dependent_value="Other" inactive_on_update="false" label="Miscellaneous" sequence="180" value="Miscellaneous"/>
+            </choice>
+        </element>
+        <element label="Priority Review Request" max_length="40" name="priority_review_request" type="boolean"/>
+        <element label="Program Changes" max_length="40" name="program_changes" type="boolean"/>
+        <element label="Project Notes" max_length="500" name="project_notes" type="string"/>
+        <element choice="1" label="Project Stage" max_length="40" name="project_stage" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Post-Project Approved" value="post_project_approved"/>
+                <element inactive_on_update="false" label="Post-Project Created" value="post_project_created"/>
+                <element inactive_on_update="false" label="Post-Project Submitted" value="post_project_submitted"/>
+                <element inactive_on_update="false" label="Pre-Project Approved (Project Completed)" value="preproject_removed_complete"/>
+                <element inactive_on_update="false" label="Pre-Project Approved (Project Not Completed)" value="preproject_removed_not_complete"/>
+                <element inactive_on_update="false" label="Pre-Project Submitted" value="preproject_submitted"/>
+                <element inactive_on_update="false" label="No Application Started" sequence="10" value="no_application_started"/>
+                <element inactive_on_update="false" label="Pre-Project Created" sequence="20" value="preproject_created"/>
+            </choice>
+        </element>
+        <element label="Repeat participant?" max_length="40" name="repeat_participant" type="boolean"/>
+        <element label="Request for Support with information Request" max_length="40" name="request_for_support_with_information_request" type="boolean"/>
+        <element label="Resolved" max_length="40" name="resolved" read_only="true" type="glide_date_time"/>
+        <element label="Retrofit Portal Bugs" max_length="40" name="retrofit_portal_bugs" type="boolean"/>
+        <element label="Retrofit Portal Login Issues" max_length="40" name="retrofit_portal_login_issues" type="boolean"/>
+        <element label="Retrofit Portal Navigation" max_length="40" name="retrofit_portal_navigation" type="boolean"/>
+        <element label="Rules &amp; Eligibility" max_length="40" name="rules_and_elibility" type="boolean"/>
+        <element label="SaveOnEnergy Account Holder Email" max_length="100" name="saveonenergy_account_holder_email" type="string"/>
+        <element label="SaveOnEnergy Account Holder First and Last Name" max_length="100" name="saveonenergy_account_holder_first_and_last_name" type="string"/>
+        <element choice="1" label="Secondary Inquiry Type (Tier 1)" max_length="100" name="secondary_inquiry_type_tier_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Application Status Request" value="Application Status Request"/>
+                <element inactive_on_update="false" label="2" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="General Program Info" sequence="10" value="General Program Info"/>
+                <element inactive_on_update="false" label="Technical Support" sequence="20" value="Technical Support"/>
+                <element inactive_on_update="false" label="Application Support" sequence="30" value="Application Support"/>
+                <element inactive_on_update="false" label="Complaint" sequence="40" value="Complaint"/>
+                <element inactive_on_update="false" label="Other" sequence="50" value="Other"/>
+            </choice>
+        </element>
+        <element choice="1" label="Secondary Inquiry Type (Tier 2)" max_length="100" name="secondary_inquiry_type_tier_2" type="string">
+            <choice>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Calculations: Simple Payback" value="Calculations: Simple Payback"/>
+                <element dependent_value="Other" inactive_on_update="false" label="Enhancement Recommendation" value="Enhancement Recommendation"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Marketing Inquiries" value="Marketing Inquiries"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Program Changes" value="Program Changes"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Training Session Requests" value="Training Session Requests"/>
+                <element dependent_value="Other" inactive_on_update="false" label="User Feedback" value="User Feedback"/>
+                <element dependent_value="Application Status Request" inactive_on_update="false" label="Application review status or timeline" sequence="10" value="Application review status or timeline"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="General Program Info" sequence="10" value="General Program Info"/>
+                <element dependent_value="Application Status Request" inactive_on_update="false" label="Request for support with Information Request" sequence="20" value="Request for support with Information Request"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Rules &amp; Eligibility" sequence="20" value="Rules &amp; Eligibility"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="CFF Framework Applications" sequence="30" value="CFF Framework Applications"/>
+                <element dependent_value="Application Status Request" inactive_on_update="false" label="Special request" sequence="30" value="Special request"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Interim Framework Transition" sequence="40" value="Interim Framework Transition"/>
+                <element dependent_value="General Program Info" inactive_on_update="false" label="Interim Framework Rule Changes" sequence="50" value="Interim Framework Rule Changes"/>
+                <element dependent_value="Technical Support" inactive_on_update="false" label="Retrofit Portal Login Issues" sequence="60" value="Retrofit Portal Login Issues"/>
+                <element dependent_value="Technical Support" inactive_on_update="false" label="Retrofit Portal Navigation" sequence="70" value="Retrofit Portal Navigation"/>
+                <element dependent_value="Technical Support" inactive_on_update="false" label="Retrofit Portal Task Issues" sequence="80" value="Retrofit Portal Task Issues"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Calculations" sequence="90" value="Calculations"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Paperwork" sequence="100" value="Paperwork"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Site Visit/Field Work" sequence="110" value="Site Visit/Field Work"/>
+                <element dependent_value="Application Support" inactive_on_update="false" label="Application/Account Management Service" sequence="120" value="Application/Account Management Service"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="General Customer Service" sequence="130" value="General Customer Service"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="Technical Issues" sequence="140" value="Technical Issues"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="Program Governance/Admin (Interim Framework)" sequence="150" value="Program Governance/Admin (Interim Framework)"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="Political Directive" sequence="160" value="Political Directive"/>
+                <element dependent_value="Complaint" inactive_on_update="false" label="CFF Application Support" sequence="170" value="CFF Application Support"/>
+                <element dependent_value="Other" inactive_on_update="false" label="Miscellaneous" sequence="180" value="Miscellaneous"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="caller_type" dependent_on_field="caller_type" label="Sector" mandatory="true" max_length="40" name="sector" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Cattle Farm" sequence="10" value="Agricultural - Cattle Farm"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Poultry Farm" sequence="20" value="Agricultural - Poultry Farm"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Dairy Farm" sequence="30" value="Agricultural - Dairy Farm"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Swine Farm" sequence="40" value="Agricultural - Swine Farm"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Greenhouse" sequence="50" value="Agricultural - Greenhouse"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Other" sequence="60" value="Agricultural - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Small Office" sequence="70" value="Commercial - Small Office"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Large Office" sequence="80" value="Commercial - Large Office"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Small Retail" sequence="90" value="Commercial - Small Retail"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Large Retail" sequence="100" value="Commercial - Large Retail"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Hotel" sequence="110" value="Commercial - Hotel"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Motel" sequence="120" value="Commercial - Motel"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Food Retail" sequence="130" value="Commercial - Food Retail"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Restaurant" sequence="140" value="Commercial - Restaurant"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Warehouse / Wholesale" sequence="150" value="Commercial - Warehouse / Wholesale"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Entertainment / Sport" sequence="160" value="Commercial - Entertainment / Sport"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Data Centre" sequence="170" value="Commercial - Data Centre"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Other" sequence="180" value="Commercial - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Administrative Buildings" sequence="190" value="Government / Public Institution - Administrative Buildings"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Culture and Tourism" sequence="200" value="Government / Public Institution - Culture and Tourism"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Emergency Services" sequence="210" value="Government / Public Institution - Emergency Services"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Parks and recreation" sequence="220" value="Government / Public Institution - Parks and recreation"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Public Works" sequence="230" value="Government / Public Institution - Public Works"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Long Term Care Facility" sequence="240" value="Government / Public Institution - Long Term Care Facility"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Hospital" sequence="250" value="Government / Public Institution - Hospital"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - School (K-12)" sequence="260" value="Government / Public Institution - School (K-12)"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - University / College" sequence="270" value="Government / Public Institution - University / College"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Place of Worship" sequence="280" value="Government / Public Institution - Place of Worship"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Other" sequence="290" value="Government / Public Institution - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Iron / Steel" sequence="300" value="Industrial / Manufacturing - Iron / Steel"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Food and Beverage" sequence="310" value="Industrial / Manufacturing - Food and Beverage"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Pulp and Paper" sequence="320" value="Industrial / Manufacturing - Pulp and Paper"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Petroleum / Plastic" sequence="330" value="Industrial / Manufacturing - Petroleum / Plastic"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Industrial Strip Mall / Unit" sequence="340" value="Industrial / Manufacturing - Industrial Strip Mall / Unit"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Mining" sequence="350" value="Industrial / Manufacturing - Mining"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Other" sequence="360" value="Industrial / Manufacturing - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Multi-Residential - Condominium" sequence="370" value="Multi-Residential - Condominium"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Multi-Residential - Social Housing Provider" sequence="380" value="Multi-Residential - Social Housing Provider"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Multi-Residential - Rental Apartment" sequence="390" value="Multi-Residential - Rental Apartment"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Multi-Residential - Other" sequence="400" value="Multi-Residential - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Other" sequence="410" value="Other"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Lighting" sequence="420" value="Lighting"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Refrigeration" sequence="430" value="Refrigeration"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="HVAC" sequence="440" value="HVAC"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Building Envelope" sequence="450" value="Building Envelope"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Metering" sequence="460" value="Metering"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Compressed Air" sequence="470" value="Compressed Air"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Pumping Systems" sequence="480" value="Pumping Systems"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Motors and VFD's" sequence="490" value="Motors and VFD's"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Building Automation" sequence="500" value="Building Automation"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Specialty" sequence="510" value="Specialty"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Other" sequence="520" value="Other"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Alectra Utilities" sequence="530" value="Alectra Utilities"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Algoma Power" sequence="540" value="Algoma Power"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Atikokan Hydro Inc." sequence="550" value="Atikokan Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Attawapiskat Power Corporation" sequence="560" value="Attawapiskat Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Bluewater Power Distribution Corporation" sequence="570" value="Bluewater Power Distribution Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Brantford Power Inc." sequence="580" value="Brantford Power Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Burlington Hydro Inc." sequence="590" value="Burlington Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Canadian Niagara Power Co. Ltd." sequence="600" value="Canadian Niagara Power Co. Ltd."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Centre Wellington Hydro Ltd." sequence="610" value="Centre Wellington Hydro Ltd."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Chapleau Public Utilities Corporation" sequence="620" value="Chapleau Public Utilities Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Co-operative Hydro Embrun" sequence="630" value="Co-operative Hydro Embrun"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Cornwall Electric" sequence="640" value="Cornwall Electric"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="E.L.K. Energy Inc." sequence="650" value="E.L.K. Energy Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Energy+ Inc." sequence="660" value="Energy+ Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Entegrus Powerlines Inc." sequence="670" value="Entegrus Powerlines Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="EnWin Utilities Ltd." sequence="680" value="EnWin Utilities Ltd."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="EPCOR" sequence="690" value="EPCOR"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="ERTH Power" sequence="700" value="ERTH Power"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Espanola Regional Hydro Distribution Corporation" sequence="710" value="Espanola Regional Hydro Distribution Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Essex Power Corporation" sequence="720" value="Essex Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Festival Hydro Inc." sequence="730" value="Festival Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Fort Albany Power Corporation" sequence="740" value="Fort Albany Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Fort Frances Power Corp." sequence="750" value="Fort Frances Power Corp."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Greater Sudbury Hydro" sequence="760" value="Greater Sudbury Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Grimsby Power Inc." sequence="770" value="Grimsby Power Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Guelph Hydro" sequence="780" value="Guelph Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Halton Hills Hydro" sequence="790" value="Halton Hills Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hearst Power Distribution Company Limited" sequence="800" value="Hearst Power Distribution Company Limited"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hydro 2000 Inc." sequence="810" value="Hydro 2000 Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hydro Hawkesbury Inc." sequence="820" value="Hydro Hawkesbury Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hydro One Networks" sequence="830" value="Hydro One Networks"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hydro Ottawa" sequence="840" value="Hydro Ottawa"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="InnPower Corporation" sequence="850" value="InnPower Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Kashechewan Power Corporation" sequence="860" value="Kashechewan Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Utilities Kingston" sequence="870" value="Utilities Kingston"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Kitchener-Wilmot Hydro Inc." sequence="880" value="Kitchener-Wilmot Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Lakefront Utilities Inc." sequence="890" value="Lakefront Utilities Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Lakeland Power Distribution Inc." sequence="900" value="Lakeland Power Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="London Hydro Inc." sequence="910" value="London Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Midland Power Utility Corporation" sequence="920" value="Midland Power Utility Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Milton Hydro" sequence="930" value="Milton Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Newmarket-Tay Power Distribution Ltd." sequence="940" value="Newmarket-Tay Power Distribution Ltd."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Niagara-on-the-Lake Hydro Inc." sequence="950" value="Niagara-on-the-Lake Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Niagara Peninsula Energy Inc." sequence="960" value="Niagara Peninsula Energy Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="North Bay Hydro" sequence="970" value="North Bay Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Northern Ontario Wires Inc." sequence="980" value="Northern Ontario Wires Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Oakville Hydro Electricity Distribution Inc." sequence="990" value="Oakville Hydro Electricity Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Orangeville Hydro" sequence="1000" value="Orangeville Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Orillia Power" sequence="1010" value="Orillia Power"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Oshawa PUC Networks Inc." sequence="1020" value="Oshawa PUC Networks Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Ottawa River Power Corporation" sequence="1030" value="Ottawa River Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Peterborough Distribution Inc." sequence="1040" value="Peterborough Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="PUC Distribution Inc." sequence="1050" value="PUC Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Renfrew Hydro" sequence="1060" value="Renfrew Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Rideau St. Lawrence Distribution Inc." sequence="1070" value="Rideau St. Lawrence Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Sioux Lookout Hydro Electric Commission" sequence="1080" value="Sioux Lookout Hydro Electric Commission"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Synergy North" sequence="1090" value="Synergy North"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Tillsonburg Hydro Inc." sequence="1100" value="Tillsonburg Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Toronto Hydro Electric System" sequence="1110" value="Toronto Hydro Electric System"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Veridian" sequence="1120" value="Veridian"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Wasaga Distribution Inc." sequence="1130" value="Wasaga Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Waterloo North Hydro" sequence="1140" value="Waterloo North Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Welland Hydro-Electric System Corp" sequence="1150" value="Welland Hydro-Electric System Corp"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Wellington North Power Inc." sequence="1160" value="Wellington North Power Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="West Coast Huron Energy" sequence="1170" value="West Coast Huron Energy"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Westario Power" sequence="1180" value="Westario Power"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Whitby Hydro Electric Corporation" sequence="1190" value="Whitby Hydro Electric Corporation"/>
+            </choice>
+        </element>
+        <element label="Short Description" mandatory="true" max_length="140" name="short_description" type="string"/>
+        <element label="Site Visit - Metering" max_length="40" name="site_visit_metering" type="boolean"/>
+        <element label="Site Visit Requested?" max_length="40" name="site_visit_requested" type="boolean"/>
+        <element label="Site Visit - Walkthrough" max_length="40" name="site_visit_walkthrough" type="boolean"/>
+        <element choice="3" default="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Awaiting User Input" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Awaiting Vendor Input" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Resolved" sequence="5" value="5"/>
+                <element inactive="true" inactive_on_update="true" label="Closed" sequence="6" value="6"/>
+            </choice>
+        </element>
+        <element label="Switching Applicants / Reps" max_length="40" name="switching_applications_representatives" type="boolean"/>
+        <element label="Technical Issue Complaints" max_length="40" name="technical_issue_complaints" type="boolean"/>
+        <element choice="1" label="Technology" max_length="40" name="technology" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Lighting" sequence="10" value="Lighting"/>
+                <element inactive_on_update="false" label="Compressors" sequence="20" value="Compressors"/>
+                <element inactive_on_update="false" label="Chillers" sequence="30" value="Chillers"/>
+                <element inactive_on_update="false" label="Motors" sequence="40" value="Motors"/>
+                <element inactive_on_update="false" label="VFD's" sequence="50" value="VFD's"/>
+                <element inactive_on_update="false" label="Lighting Controls" sequence="60" value="Lighting Controls"/>
+                <element inactive_on_update="false" label="Pumps" sequence="70" value="Pumps"/>
+                <element inactive_on_update="false" label="Fans" sequence="80" value="Fans"/>
+                <element inactive_on_update="false" label="M&amp;T" sequence="90" value="M&amp;T"/>
+                <element inactive_on_update="false" label="Control Systems" sequence="100" value="Control Systems"/>
+                <element inactive_on_update="false" label="Unitary AC" sequence="110" value="Unitary AC"/>
+                <element inactive_on_update="false" label="Other" sequence="120" value="Other"/>
+            </choice>
+        </element>
+        <element label="Training Sessions Request" max_length="40" name="training_sessions_request" type="boolean"/>
+        <element label="Transfer to Vendor" max_length="40" name="transfer_to_vendor" type="boolean"/>
+        <element label="User Feedback / Recommendations" max_length="40" name="user_feedback_recommendations" type="boolean"/>
+        <element label="Incident Number" max_length="40" name="u_incident_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_1" type="journal"/>
+        <element label="Search for a customer by email address" max_length="32" name="u_reference_4" reference="x_clear_soe_retro_soe_retrofit_support_customers" type="reference"/>
+        <element label="Worksheets" max_length="40" name="worksheets" type="boolean"/>
+        <element choice="1" label="Zone" max_length="40" name="zone" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="4" value="4"/>
+            </choice>
+        </element>
+        <element label="Zone 1" max_length="40" name="zone_1" type="boolean"/>
+        <element label="Zone 2" max_length="40" name="zone_2" type="boolean"/>
+        <element label="Zone 3" max_length="40" name="zone_3" type="boolean"/>
+        <element label="Zone 4" max_length="40" name="zone_4" type="boolean"/>
+        <index name="index">
+            <element name="u_reference_4"/>
+        </index>
+        <index name="index2">
+            <element name="implementer"/>
+        </index>
+        <index name="index3">
+            <element name="incident_number"/>
+        </index>
+    </element>
+</database>

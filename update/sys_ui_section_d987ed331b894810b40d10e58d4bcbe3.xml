@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d987ed331b894810b40d10e58d4bcbe3" sys_domain="global" table="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>28e6a1fb1bcd4490f783bb39cd4bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_active</element>
+            <position>1</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>24e6a1fb1bcd4490f783bb39cd4bcbc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>a8e6a1fb1bcd4490f783bb39cd4bcbc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_caller_type</element>
+            <position>3</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>20e6a1fb1bcd4490f783bb39cd4bcbc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>a4e6a1fb1bcd4490f783bb39cd4bcbc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_company_name</element>
+            <position>5</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>2ce6a1fb1bcd4490f783bb39cd4bcbc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contact_email</element>
+            <position>6</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>a0e6a1fb1bcd4490f783bb39cd4bcbc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>28e6a1fb1bcd4490f783bb39cd4bcbc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contact_name</element>
+            <position>8</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>ace6a1fb1bcd4490f783bb39cd4bcbc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contact_phone</element>
+            <position>9</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>24e6a1fb1bcd4490f783bb39cd4bcbc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>a8e6a1fb1bcd4490f783bb39cd4bcbc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_postal_code</element>
+            <position>11</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>20e6a1fb1bcd4490f783bb39cd4bcbc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>a4e6a1fb1bcd4490f783bb39cd4bcbc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sector</element>
+            <position>13</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>2ce6a1fb1bcd4490f783bb39cd4bcbc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>14</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_id>a0e6a1fb1bcd4490f783bb39cd4bcbc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sys_domain="global" view="Default view">d987ed331b894810b40d10e58d4bcbe3</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-18 03:07:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d987ed331b894810b40d10e58d4bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_ui_section_d987ed331b894810b40d10e58d4bcbe3</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-18 03:07:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

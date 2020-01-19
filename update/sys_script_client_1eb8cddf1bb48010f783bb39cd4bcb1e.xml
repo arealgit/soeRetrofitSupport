@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_reference_4</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Autopopulate Customer Info</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+g_form.getReference('u_reference_4', getCustomerInfo); // doAlert is our callback function
+}
+ 
+function getCustomerInfo(customer) { // reference is passed into callback as first arguments
+	g_form.setValue('caller_type',customer.caller_type);
+	g_form.setValue('company_name', customer.company_name);
+	g_form.setValue('contact_name', customer.contact_name);
+	g_form.setValue('postal_code', customer.postal_code);
+	g_form.setValue('contact_email', customer.contact_email);
+	g_form.setValue('contact_phone', customer.contact_phone);
+	g_form.setValue('sector', customer.sector);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-11-04 01:25:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1eb8cddf1bb48010f783bb39cd4bcb1e</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Autopopulate Customer Info</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_script_client_1eb8cddf1bb48010f783bb39cd4bcb1e</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-11-04 03:01:10</sys_updated_on>
+        <table>x_clear_soe_retro_x_clear_soe_retrofit_support</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

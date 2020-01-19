@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="901124141b7c40d066d6c91e1e4bcb46" sys_domain="global" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-10-25 14:48:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>141124141b7c40d066d6c91e1e4bcb49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clear_soe_retro_x_clear_soe_retrofit_support" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">901124141b7c40d066d6c91e1e4bcb46</sys_ui_form>
+            <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-10-25 14:48:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-10-25 14:48:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>101124141b7c40d066d6c91e1e4bcb4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clear_soe_retro_x_clear_soe_retrofit_support" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">901124141b7c40d066d6c91e1e4bcb46</sys_ui_form>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">1c1124141b7c40d066d6c91e1e4bcb44</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-10-25 14:48:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-09 16:21:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4e5e8fa1b65c01466d6c91e1e4bcbd3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clear_soe_retro_x_clear_soe_retrofit_support" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">901124141b7c40d066d6c91e1e4bcb46</sys_ui_form>
+            <sys_ui_section caption="Project Information" display_value="Project Information" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">28e5e8fa1b65c01466d6c91e1e4bcbce</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-09 16:21:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-01 18:20:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15a451ea1bbc4014f783bb39cd4bcbf3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clear_soe_retro_x_clear_soe_retrofit_support" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">901124141b7c40d066d6c91e1e4bcb46</sys_ui_form>
+            <sys_ui_section caption="Inquiry" display_value="Inquiry" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">d1a451ea1bbc4014f783bb39cd4bcb80</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-09 16:21:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-03 02:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77019c8f1b7c0414f783bb39cd4bcbe8</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clear_soe_retro_x_clear_soe_retrofit_support" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">901124141b7c40d066d6c91e1e4bcb46</sys_ui_form>
+            <sys_ui_section caption="Work Notes" display_value="Work Notes" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">f7019c8f1b7c0414f783bb39cd4bcbe4</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-09 16:21:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-03 02:22:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ebc48c71b7c0414f783bb39cd4bcb12</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clear_soe_retro_x_clear_soe_retrofit_support" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">901124141b7c40d066d6c91e1e4bcb46</sys_ui_form>
+            <sys_ui_section caption="Close Notes" display_value="Close Notes" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">0ebc08c71b7c0414f783bb39cd4bcbf5</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-12-09 16:21:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-10-25 14:48:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>901124141b7c40d066d6c91e1e4bcb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clear_soe_retro_x_clear_soe_retrofit_support</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_ui_form_sections_901124141b7c40d066d6c91e1e4bcb46</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-10-25 14:48:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="SOE Retrofit Support">8948dcd41bf840d066d6c91e1e4bcbad</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="">0948dcd41bf840d066d6c91e1e4bcbab</global_search_data>
+        <name>SOE Retrofit Support</name>
+        <navigation_type>breadcrumb</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-10-25 14:10:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8148dcd41bf840d066d6c91e1e4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SOE Retrofit Support</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_aw_master_config_8148dcd41bf840d066d6c91e1e4bcbad</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:10:04</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>soe_retrofit_suppo</workspace_url>
+    </sys_aw_master_config>
+</record_update>

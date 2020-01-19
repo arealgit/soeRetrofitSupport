@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>782814981bf840d066d6c91e1e4bcb59</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <orientation>horizontal</orientation>
+        <required_roles>IESO Deskside SS</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-10-25 14:09:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>912814981bf840d066d6c91e1e4bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SOE Retrofit Cases</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_sg_icon_section_912814981bf840d066d6c91e1e4bcbc2</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:09:32</sys_updated_on>
+        <table/>
+        <title>SOE Retrofit Cases</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

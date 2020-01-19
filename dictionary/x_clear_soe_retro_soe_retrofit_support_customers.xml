@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SOE Retrofit Support Customers" max_length="40" name="x_clear_soe_retro_soe_retrofit_support_customers" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element choice="1" label="Caller Type" max_length="40" name="caller_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Applicant" sequence="10" value="applicant"/>
+                <element inactive_on_update="false" label="Applicant Representative" sequence="20" value="applicant representative"/>
+                <element inactive_on_update="false" label="LDC" sequence="30" value="ldc"/>
+            </choice>
+        </element>
+        <element label="Company Name" max_length="40" name="company_name" type="string"/>
+        <element display="true" label="Contact Email" max_length="40" name="contact_email" type="string"/>
+        <element label="Contact Name" max_length="40" name="contact_name" type="string"/>
+        <element label="Contact Phone" max_length="40" name="contact_phone" type="string"/>
+        <element label="Postal Code" max_length="40" name="postal_code" type="string"/>
+        <element choice="1" dependent="caller_type" dependent_on_field="caller_type" label="Sector" max_length="40" name="sector" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Cattle Farm" sequence="10" value="Agricultural - Cattle Farm"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Poultry Farm" sequence="20" value="Agricultural - Poultry Farm"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Dairy Farm" sequence="30" value="Agricultural - Dairy Farm"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Swine Farm" sequence="40" value="Agricultural - Swine Farm"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Greenhouse" sequence="50" value="Agricultural - Greenhouse"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Other" sequence="60" value="Agricultural - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Small Office" sequence="70" value="Commercial - Small Office"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Large Office" sequence="80" value="Commercial - Large Office"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Small Retail" sequence="90" value="Commercial - Small Retail"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Large Retail" sequence="100" value="Commercial - Large Retail"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Hotel" sequence="110" value="Commercial - Hotel"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Motel" sequence="120" value="Commercial - Motel"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Food Retail" sequence="130" value="Commercial - Food Retail"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Restaurant" sequence="140" value="Commercial - Restaurant"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Warehouse / Wholesale" sequence="150" value="Commercial - Warehouse / Wholesale"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Entertainment / Sport" sequence="160" value="Commercial - Entertainment / Sport"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Data Centre" sequence="170" value="Commercial - Data Centre"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Commercial - Other" sequence="180" value="Commercial - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Administrative Buildings" sequence="190" value="Government / Public Institution - Administrative Buildings"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Culture and Tourism" sequence="200" value="Government / Public Institution - Culture and Tourism"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Emergency Services" sequence="210" value="Government / Public Institution - Emergency Services"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Parks and recreation" sequence="220" value="Government / Public Institution - Parks and recreation"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Public Works" sequence="230" value="Government / Public Institution - Public Works"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Long Term Care Facility" sequence="240" value="Government / Public Institution - Long Term Care Facility"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Hospital" sequence="250" value="Government / Public Institution - Hospital"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - School (K-12)" sequence="260" value="Government / Public Institution - School (K-12)"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - University / College" sequence="270" value="Government / Public Institution - University / College"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Place of Worship" sequence="280" value="Government / Public Institution - Place of Worship"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Government / Public Institution - Other" sequence="290" value="Government / Public Institution - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Iron / Steel" sequence="300" value="Industrial / Manufacturing - Iron / Steel"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Food and Beverage" sequence="310" value="Industrial / Manufacturing - Food and Beverage"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Pulp and Paper" sequence="320" value="Industrial / Manufacturing - Pulp and Paper"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Petroleum / Plastic" sequence="330" value="Industrial / Manufacturing - Petroleum / Plastic"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Industrial Strip Mall / Unit" sequence="340" value="Industrial / Manufacturing - Industrial Strip Mall / Unit"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Mining" sequence="350" value="Industrial / Manufacturing - Mining"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Industrial / Manufacturing - Other" sequence="360" value="Industrial / Manufacturing - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Multi-Residential - Condominium" sequence="370" value="Multi-Residential - Condominium"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Multi-Residential - Social Housing Provider" sequence="380" value="Multi-Residential - Social Housing Provider"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Multi-Residential - Rental Apartment" sequence="390" value="Multi-Residential - Rental Apartment"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Multi-Residential - Other" sequence="400" value="Multi-Residential - Other"/>
+                <element dependent_value="Applicant" inactive_on_update="false" label="Other" sequence="410" value="Other"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Lighting" sequence="420" value="Lighting"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Refrigeration" sequence="430" value="Refrigeration"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="HVAC" sequence="440" value="HVAC"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Building Envelope" sequence="450" value="Building Envelope"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Metering" sequence="460" value="Metering"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Compressed Air" sequence="470" value="Compressed Air"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Pumping Systems" sequence="480" value="Pumping Systems"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Motors and VFD's" sequence="490" value="Motors and VFD's"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Building Automation" sequence="500" value="Building Automation"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Specialty" sequence="510" value="Specialty"/>
+                <element dependent_value="Applicant Representative" inactive_on_update="false" label="Other" sequence="520" value="Other"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Alectra Utilities" sequence="530" value="Alectra Utilities"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Algoma Power" sequence="540" value="Algoma Power"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Atikokan Hydro Inc." sequence="550" value="Atikokan Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Attawapiskat Power Corporation" sequence="560" value="Attawapiskat Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Bluewater Power Distribution Corporation" sequence="570" value="Bluewater Power Distribution Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Brantford Power Inc." sequence="580" value="Brantford Power Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Burlington Hydro Inc." sequence="590" value="Burlington Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Canadian Niagara Power Co. Ltd." sequence="600" value="Canadian Niagara Power Co. Ltd."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Centre Wellington Hydro Ltd." sequence="610" value="Centre Wellington Hydro Ltd."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Chapleau Public Utilities Corporation" sequence="620" value="Chapleau Public Utilities Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Co-operative Hydro Embrun" sequence="630" value="Co-operative Hydro Embrun"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Cornwall Electric" sequence="640" value="Cornwall Electric"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="E.L.K. Energy Inc." sequence="650" value="E.L.K. Energy Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Energy+ Inc." sequence="660" value="Energy+ Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Entegrus Powerlines Inc." sequence="670" value="Entegrus Powerlines Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="EnWin Utilities Ltd." sequence="680" value="EnWin Utilities Ltd."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="EPCOR" sequence="690" value="EPCOR"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="ERTH Power" sequence="700" value="ERTH Power"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Espanola Regional Hydro Distribution Corporation" sequence="710" value="Espanola Regional Hydro Distribution Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Essex Power Corporation" sequence="720" value="Essex Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Festival Hydro Inc." sequence="730" value="Festival Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Fort Albany Power Corporation" sequence="740" value="Fort Albany Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Fort Frances Power Corp." sequence="750" value="Fort Frances Power Corp."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Greater Sudbury Hydro" sequence="760" value="Greater Sudbury Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Grimsby Power Inc." sequence="770" value="Grimsby Power Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Guelph Hydro" sequence="780" value="Guelph Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Halton Hills Hydro" sequence="790" value="Halton Hills Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hearst Power Distribution Company Limited" sequence="800" value="Hearst Power Distribution Company Limited"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hydro 2000 Inc." sequence="810" value="Hydro 2000 Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hydro Hawkesbury Inc." sequence="820" value="Hydro Hawkesbury Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hydro One Networks" sequence="830" value="Hydro One Networks"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Hydro Ottawa" sequence="840" value="Hydro Ottawa"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="InnPower Corporation" sequence="850" value="InnPower Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Kashechewan Power Corporation" sequence="860" value="Kashechewan Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Utilities Kingston" sequence="870" value="Utilities Kingston"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Kitchener-Wilmot Hydro Inc." sequence="880" value="Kitchener-Wilmot Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Lakefront Utilities Inc." sequence="890" value="Lakefront Utilities Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Lakeland Power Distribution Inc." sequence="900" value="Lakeland Power Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="London Hydro Inc." sequence="910" value="London Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Midland Power Utility Corporation" sequence="920" value="Midland Power Utility Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Milton Hydro" sequence="930" value="Milton Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Newmarket-Tay Power Distribution Ltd." sequence="940" value="Newmarket-Tay Power Distribution Ltd."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Niagara-on-the-Lake Hydro Inc." sequence="950" value="Niagara-on-the-Lake Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Niagara Peninsula Energy Inc." sequence="960" value="Niagara Peninsula Energy Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="North Bay Hydro" sequence="970" value="North Bay Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Northern Ontario Wires Inc." sequence="980" value="Northern Ontario Wires Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Oakville Hydro Electricity Distribution Inc." sequence="990" value="Oakville Hydro Electricity Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Orangeville Hydro" sequence="1000" value="Orangeville Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Orillia Power" sequence="1010" value="Orillia Power"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Oshawa PUC Networks Inc." sequence="1020" value="Oshawa PUC Networks Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Ottawa River Power Corporation" sequence="1030" value="Ottawa River Power Corporation"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Peterborough Distribution Inc." sequence="1040" value="Peterborough Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="PUC Distribution Inc." sequence="1050" value="PUC Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Renfrew Hydro" sequence="1060" value="Renfrew Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Rideau St. Lawrence Distribution Inc." sequence="1070" value="Rideau St. Lawrence Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Sioux Lookout Hydro Electric Commission" sequence="1080" value="Sioux Lookout Hydro Electric Commission"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Synergy North" sequence="1090" value="Synergy North"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Tillsonburg Hydro Inc." sequence="1100" value="Tillsonburg Hydro Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Toronto Hydro Electric System" sequence="1110" value="Toronto Hydro Electric System"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Veridian" sequence="1120" value="Veridian"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Wasaga Distribution Inc." sequence="1130" value="Wasaga Distribution Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Waterloo North Hydro" sequence="1140" value="Waterloo North Hydro"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Welland Hydro-Electric System Corp" sequence="1150" value="Welland Hydro-Electric System Corp"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Wellington North Power Inc." sequence="1160" value="Wellington North Power Inc."/>
+                <element dependent_value="LDC" inactive_on_update="false" label="West Coast Huron Energy" sequence="1170" value="West Coast Huron Energy"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Westario Power" sequence="1180" value="Westario Power"/>
+                <element dependent_value="LDC" inactive_on_update="false" label="Whitby Hydro Electric Corporation" sequence="1190" value="Whitby Hydro Electric Corporation"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="DELETE">
+        <data_item/>
+        <dependency_fields>contact_type,created,implementer,number,number_2</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"Text":"","Font":{"Weight":"semibold","Size":13},"BackgroundColor":"#f1f1f1","Width":100,"Height":21,"studio_template_field_id":"E1","CornerRadius":2,"CellId":"contact_type","TextAlignment":"Center","MaxLines":1,"TextColor":"#293e40","Type":"Text"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E2","CellId":"created","TextAlignment":"Right","MaxLines":1,"TextColor":"#7d8a8c","Type":"Text"}],"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Type":"ViewGroup"},{"Text":"","Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","CellId":"implementer","TextAlignment":"Left","MaxLines":2,"TextColor":"#293e40","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"Text":"Number","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E4","TextAlignment":"Left","MaxLines":1,"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"Width":22,"Height":22,"studio_template_field_id":"E5","CornerRadius":11,"CellId":"number_2","Scaling":"Fill","Margin":{"Right":6},"Type":"Image"},{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E4","CellId":"number","TextAlignment":"Left","MaxLines":1,"TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"Text":"","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E6","TextAlignment":"Left","MaxLines":1,"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E6","CellId":"","TextAlignment":"Left","MaxLines":1,"TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup"}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>SOE Retrofit Cases Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-10-25 14:09:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>382814981bf840d066d6c91e1e4bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SOE Retrofit Cases Detail Screen Item View</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_sg_item_view_382814981bf840d066d6c91e1e4bcb58</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:09:29</sys_updated_on>
+        <table>x_clear_soe_retro_soe_retrofit_cases</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>687a55f16f4ff9004c327b2f5d3ee4e6</instance_id>
+        <instance_name>clrdev</instance_name>
+        <name>sys_sg_item_view_382814981bf840d066d6c91e1e4bcb58</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item/><dependency_fields>contact_type,created,implementer,number,number_2</dependency_fields><item_view_json>{"Children":[{"Children":[{"Children":[{"Text":"","Font":{"Weight":"semibold","Size":13},"BackgroundColor":"#f1f1f1","Width":100,"Height":21,"studio_template_field_id":"E1","CornerRadius":2,"CellId":"contact_type","TextAlignment":"Center","MaxLines":1,"TextColor":"#293e40","Type":"Text"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E2","CellId":"created","TextAlignment":"Right","MaxLines":1,"TextColor":"#7d8a8c","Type":"Text"}],"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Type":"ViewGroup"},{"Text":"","Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","CellId":"implementer","TextAlignment":"Left","MaxLines":2,"TextColor":"#293e40","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"Text":"Number","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E4","TextAlignment":"Left","MaxLines":1,"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"Width":22,"Height":22,"studio_template_field_id":"E5","CornerRadius":11,"CellId":"number_2","Scaling":"Fill","Margin":{"Right":6},"Type":"Image"},{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E4","CellId":"number","TextAlignment":"Left","MaxLines":1,"TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"Text":"","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E6","TextAlignment":"Left","MaxLines":1,"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E6","CellId":"","TextAlignment":"Left","MaxLines":1,"TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup"}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json><name>SOE Retrofit Cases Detail Screen Item View</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-10-25 14:09:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>382814981bf840d066d6c91e1e4bcb58</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SOE Retrofit Cases Detail Screen Item View</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_sg_item_view_382814981bf840d066d6c91e1e4bcb58</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-10-25 14:09:29</sys_updated_on><table>x_clear_soe_retro_soe_retrofit_cases</table><ui_styles/></sys_sg_item_view></record_update>]]></payload>
+        <payload_hash>-1879588985</payload_hash>
+        <record_name>SOE Retrofit Cases Detail Screen Item View</record_name>
+        <reverted_from/>
+        <source>022718d41bf840d066d6c91e1e4bcbc2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-10-25 14:11:18</sys_created_on>
+        <sys_id>5388d8d81bf840d066d6c91e1e4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e0341db970000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:11:18</sys_updated_on>
+        <type>Item view</type>
+        <update_guid>25281498caf840d0cee3b0fbebbf93e0</update_guid>
+        <update_guid_history>25281498caf840d0cee3b0fbebbf93e0:-2038529841,25281498caf840d0cee3b0fbebbf93e0:-2038529841</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-10-25 14:11:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_item_view">sys_sg_item_view</sys_db_object>
+        <sys_id>02d9534244634dc8861bae84bf896440</sys_id>
+        <sys_metadata>382814981bf840d066d6c91e1e4bcb58</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SOE Retrofit Cases Detail Screen Item View</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_sg_item_view_382814981bf840d066d6c91e1e4bcb58</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_view_382814981bf840d066d6c91e1e4bcb58">5388d8d81bf840d066d6c91e1e4bcb91</sys_update_version>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:11:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

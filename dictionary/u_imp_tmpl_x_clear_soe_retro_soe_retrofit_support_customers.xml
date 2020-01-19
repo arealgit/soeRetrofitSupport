@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Clear Soe Retro Soe Retrofit Support Customers" max_length="40" name="u_imp_tmpl_x_clear_soe_retro_soe_retrofit_support_customers" sizeclass="6484" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Caller Type" label="Caller Type" max_length="40" name="u_caller_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company Name" label="Company Name" max_length="141" name="u_company_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Contact Email" label="Contact Email" max_length="141" name="u_contact_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Contact Name" label="Contact Name" max_length="40" name="u_contact_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Contact Phone" label="Contact Phone" max_length="40" name="u_contact_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Postal Code" label="Postal Code" max_length="40" name="u_postal_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sector" label="Sector" max_length="143" name="u_sector" type="string"/>
+    </element>
+</database>

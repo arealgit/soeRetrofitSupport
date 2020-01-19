@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="contact_type" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Walkiin</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>40</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-01 14:59:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9c6ece61b784014f783bb39cd4bcb3d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-01 15:00:48</sys_updated_on>
+            <value>Walk-in</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-01 01:10:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>8dc0a9721b294410b40d10e58d4bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>contact_type</sys_name>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_contact_type</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-01 01:10:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>607a55f16f4ff9004c327b2f5d3ee4d0</instance_id>
+        <instance_name>clr</instance_name>
+        <name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_contact_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="contact_type" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>contact_type</element><hint/><inactive>false</inactive><label>Walkiin</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>40</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-11-01 14:59:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a9c6ece61b784014f783bb39cd4bcb3d</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-11-01 15:00:48</sys_updated_on><value>Walk-in</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>contact_type</element><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-11-01 01:10:39</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8dc0a9721b294410b40d10e58d4bcbcd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>contact_type</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_contact_type</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-11-01 01:10:39</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-750516737</payload_hash>
+        <record_name>SOE Retrofit Support Cases.Contact Type</record_name>
+        <reverted_from/>
+        <source>2657257f1b494810b40d10e58d4bcb09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-09 20:52:05</sys_created_on>
+        <sys_id>81d3213e1be5845042ff0d01cd4bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eec6ef7170000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-12-09 20:52:05</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>49d3213ec5e5845005c29a6462557ac4</update_guid>
+        <update_guid_history>49d3213ec5e5845005c29a6462557ac4:-750516737,7fb36dfa68e58450efa5c7a822718a14:-395736886,fbb32dfa2be5845050b48a8a93d6f29f:-735782514,feb3a9fa5de58450aef50a4554346b8f:736540502,6cb365faf0e5845045f238e7ae8a0847:968501854,323365768be584509e46216120169725:675041506,fa33657672e5845010b09316557e2616:1707150031</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-09 20:52:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>8dc0a9721b294410b40d10e58d4bcbcd</sys_id>
+        <sys_metadata>8dc0a9721b294410b40d10e58d4bcbcd</sys_metadata>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>contact_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_metadata_delete_8dc0a9721b294410b40d10e58d4bcbcd</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_contact_type">81d3213e1be5845042ff0d01cd4bcbc5</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-12-11 00:00:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
