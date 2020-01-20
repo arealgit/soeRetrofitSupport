@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="DELETE" field="direction" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="direction" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>direction</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Escalated to IESO</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence/>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-01 01:06:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6318e19a1b340014f783bb39cd4bcbbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-01 01:06:51</sys_updated_on>
+            <value>Escalated to IESO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>direction</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Immediately Resolved</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence/>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-11-01 01:07:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5138e59a1b340014f783bb39cd4bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-11-01 01:07:09</sys_updated_on>
+            <value>Immediately Resolved</value>
+        </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>direction</element>
@@ -24,9 +62,9 @@
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 20:52:26</sys_created_on>
+            <sys_created_on>2020-01-19 23:29:02</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>46e3653e1be5845042ff0d01cd4bcbcc</sys_id>
+            <sys_id>bfe011001bea089066d6c91e1e4bcbcc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>direction</sys_name>
             <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
@@ -35,54 +73,7 @@
             <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
             <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_direction</sys_update_name>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 20:52:26</sys_updated_on>
+            <sys_updated_on>2020-01-19 23:29:02</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
-    <sys_update_version action="INSERT_OR_UPDATE">
-        <action>DELETE</action>
-        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
-        <file_path/>
-        <instance_id>687a55f16f4ff9004c327b2f5d3ee4e6</instance_id>
-        <instance_name>clrdev</instance_name>
-        <name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_direction</name>
-        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="direction" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>direction</element><hint/><inactive>false</inactive><label>To be followed up internally</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence/><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-11-01 01:07:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7738a59a1b340014f783bb39cd4bcb56</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-11-01 01:07:20</sys_updated_on><value>To be followed up internally</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>direction</element><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-09 20:52:26</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>46e3653e1be5845042ff0d01cd4bcbcc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>direction</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_direction</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-09 20:52:26</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
-        <payload_hash>928236680</payload_hash>
-        <record_name>SOE Retrofit Support Cases.Direction</record_name>
-        <reverted_from/>
-        <source>2657257f1b494810b40d10e58d4bcb09</source>
-        <source_table>sys_update_set</source_table>
-        <state>previous</state>
-        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-        <sys_created_on>2020-01-19 23:28:51</sys_created_on>
-        <sys_id>dde09dcc1baa089066d6c91e1e4bcba9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_recorded_at>16fc02339a70000001</sys_recorded_at>
-        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-        <sys_updated_on>2020-01-19 23:28:51</sys_updated_on>
-        <type>Choice list</type>
-        <update_guid>95e09dccc0aa0890594b2c05970ef1a9</update_guid>
-        <update_guid_history>95e09dccc0aa0890594b2c05970ef1a9:928236680,99e09dccafaa0890b68f9adcb5849e9f:-2119844152,1eb369faa5e584504a6a4f32907aaf76:1003891072,f1b329fafee58450fdf02d49b49abd4e:928236680,ce33e176bde58450bf2ad16d5a97309b:-1407269932,8a33e17651e584502594e847d3d7248d:1958706708</update_guid_history>
-    </sys_update_version>
-    <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete/>
-        <sys_class_name>sys_metadata_delete</sys_class_name>
-        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-        <sys_created_on>2020-01-19 23:28:51</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
-        <sys_id>46e3653e1be5845042ff0d01cd4bcbcc</sys_id>
-        <sys_metadata>46e3653e1be5845042ff0d01cd4bcbcc</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>direction</sys_name>
-        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
-        <sys_parent/>
-        <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
-        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
-        <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_direction</sys_update_name>
-        <sys_update_version display_value="sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_direction">dde09dcc1baa089066d6c91e1e4bcba9</sys_update_version>
-        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-        <sys_updated_on>2020-01-19 23:28:51</sys_updated_on>
-    </sys_metadata_delete>
 </record_update>
