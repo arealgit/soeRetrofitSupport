@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>f6863f414fe60300e0cbd49f0310c791</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="coverage_lead_type" table="cmn_rota" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>coverage_lead_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Daily</label>
+            <language>en</language>
+            <name>cmn_rota</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:21:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2863f414fe60300e0cbd49f0310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:21:54</sys_updated_on>
+            <value>daily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>coverage_lead_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weekly</label>
+            <language>en</language>
+            <name>cmn_rota</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:21:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2863f414fe60300e0cbd49f0310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:21:54</sys_updated_on>
+            <value>weekly</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>coverage_lead_type</element>
+            <name>cmn_rota</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:21:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>f6863f414fe60300e0cbd49f0310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>coverage_lead_type</sys_name>
+            <sys_package display_value="On-Call Scheduling" source="com.snc.on_call_rotation">ce7cc8a9132d2e00aa025cc12244b0d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmn_rota_coverage_lead_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:21:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>229aea4c1ba6489066d6c91e1e4bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>coverage_lead_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_229aea4c1ba6489066d6c91e1e4bcbaa</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:47</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

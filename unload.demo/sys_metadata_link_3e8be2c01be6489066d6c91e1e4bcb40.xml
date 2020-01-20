@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>273d8fa04fbf470063b93d828110c714</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="scrum_role" table="sys_user_grmember" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product Owner</label>
+            <language>en</language>
+            <name>sys_user_grmember</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-18 16:22:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb3d8fa04fbf470063b93d828110c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-18 16:22:59</sys_updated_on>
+            <value>product_owner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scrum Master</label>
+            <language>en</language>
+            <name>sys_user_grmember</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-18 16:22:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f3d8fa04fbf470063b93d828110c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-18 16:22:59</sys_updated_on>
+            <value>scrum_master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Developer</label>
+            <language>en</language>
+            <name>sys_user_grmember</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-18 16:22:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f3d8fa04fbf470063b93d828110c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-18 16:22:59</sys_updated_on>
+            <value>developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QA</label>
+            <language>en</language>
+            <name>sys_user_grmember</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-18 16:22:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af3d8fa04fbf470063b93d828110c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-18 16:22:59</sys_updated_on>
+            <value>qa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Information Developer</label>
+            <language>en</language>
+            <name>sys_user_grmember</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-18 16:22:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef3d8fa04fbf470063b93d828110c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-18 16:22:59</sys_updated_on>
+            <value>information_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scrum_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Support</label>
+            <language>en</language>
+            <name>sys_user_grmember</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-18 16:22:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>233d8fa04fbf470063b93d828110c714</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-18 16:22:59</sys_updated_on>
+            <value>support</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>scrum_role</element>
+            <name>sys_user_grmember</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-18 16:22:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>273d8fa04fbf470063b93d828110c714</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>scrum_role</sys_name>
+            <sys_package display_value="Agile Development 2.0" source="com.snc.sdlc.agile.2.0">c42d4b604fbf470063b93d828110c782</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_user_grmember_scrum_role</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-18 16:22:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:04:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3e8be2c01be6489066d6c91e1e4bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scrum_role</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_3e8be2c01be6489066d6c91e1e4bcb40</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:04:54</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

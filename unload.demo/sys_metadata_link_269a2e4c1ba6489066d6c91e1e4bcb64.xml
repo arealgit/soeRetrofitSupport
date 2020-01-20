@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>e0af6f414f260300e0cbd49f0310c7b3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="monthly_type" table="cmn_schedule_span" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>monthly_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Day of the month</label>
+            <language>en</language>
+            <name>cmn_schedule_span</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:51:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a5e65c5c0a8c8840471f7ec30fc8339</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:51:42</sys_updated_on>
+            <value>dom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>monthly_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Last Day of the Month</label>
+            <language>en</language>
+            <name>cmn_schedule_span</name>
+            <sequence/>
+            <sys_created_by>martin.perry</sys_created_by>
+            <sys_created_on>2010-11-24 11:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7db0954a0a0a2c4b6cc235e1b804ac03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>martin.perry</sys_updated_by>
+            <sys_updated_on>2010-11-24 11:41:53</sys_updated_on>
+            <value>ldom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>monthly_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Last Week Day of the Month</label>
+            <language>en</language>
+            <name>cmn_schedule_span</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:51:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a5e65c5c0a8c884564ba93bd91d1d49</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>martin.perry</sys_updated_by>
+            <sys_updated_on>2010-11-24 11:42:03</sys_updated_on>
+            <value>lwdom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>monthly_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Day of the Week</label>
+            <language>en</language>
+            <name>cmn_schedule_span</name>
+            <sequence/>
+            <sys_created_by>martin.perry</sys_created_by>
+            <sys_created_on>2010-11-17 15:15:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a67c916c0a800663910af08baba5293</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>martin.perry</sys_updated_by>
+            <sys_updated_on>2010-11-17 15:15:39</sys_updated_on>
+            <value>nth</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>monthly_type</element>
+            <name>cmn_schedule_span</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:51:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e0af6f414f260300e0cbd49f0310c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>monthly_type</sys_name>
+            <sys_package display_value="Advanced Schedules Support" source="com.glide.schedules">e13f11b14f0331007c0cacb14210c724</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmn_schedule_span_monthly_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:51:42</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>269a2e4c1ba6489066d6c91e1e4bcb64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>monthly_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_269a2e4c1ba6489066d6c91e1e4bcb64</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:48</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

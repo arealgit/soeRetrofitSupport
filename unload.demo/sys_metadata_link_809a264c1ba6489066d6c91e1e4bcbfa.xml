@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>e03fe3284f9123001a6e28928110c713</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="guest_os" table="cmdb_ci_os_template" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>guest_os</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Linux</label>
+            <language>en</language>
+            <name>cmdb_ci_os_template</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c3fe3284f9123001a6e28928110c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:36:39</sys_updated_on>
+            <value>Linux</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>guest_os</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows</label>
+            <language>en</language>
+            <name>cmdb_ci_os_template</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>683fe3284f9123001a6e28928110c716</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:36:39</sys_updated_on>
+            <value>Windows</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>guest_os</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows and Std SQL Server</label>
+            <language>en</language>
+            <name>cmdb_ci_os_template</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>243fe3284f9123001a6e28928110c71a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:36:39</sys_updated_on>
+            <value>Windows and Std SQL Server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>guest_os</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows and Web SQL Server</label>
+            <language>en</language>
+            <name>cmdb_ci_os_template</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec3fe3284f9123001a6e28928110c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:36:39</sys_updated_on>
+            <value>Windows and Web SQL Server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>guest_os</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows and Enterprise SQL Server</label>
+            <language>en</language>
+            <name>cmdb_ci_os_template</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a83fe3284f9123001a6e28928110c721</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:36:39</sys_updated_on>
+            <value>Windows and Enterprise SQL Server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>guest_os</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Red Hat Enterprise Linux</label>
+            <language>en</language>
+            <name>cmdb_ci_os_template</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>643fe3284f9123001a6e28928110c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:36:39</sys_updated_on>
+            <value>RHEL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>guest_os</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SUSE Linux Enterprise Server</label>
+            <language>en</language>
+            <name>cmdb_ci_os_template</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e43fe3284f9123001a6e28928110c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:36:39</sys_updated_on>
+            <value>SUSE</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>guest_os</element>
+            <name>cmdb_ci_os_template</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:36:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e03fe3284f9123001a6e28928110c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>guest_os</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">39ce91714f0331007c0cacb14210c7f3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_os_template_guest_os</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:36:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>809a264c1ba6489066d6c91e1e4bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>guest_os</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_809a264c1ba6489066d6c91e1e4bcbfa</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:37</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>3583338d4f660300e0cbd49f0310c7d3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="visualization" table="pa_widgets" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>insight</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Insight</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:59:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f747fec4f5523001a6e28928110c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:59:49</sys_updated_on>
+            <value>insight</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>score</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Latest Score</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>611b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>latest</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>time</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Line</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e91b4f34ad1021007a6a35212c9b46d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>line</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scorecard</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>651b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>scorecard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>list</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scorecard</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e11b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>scorecard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>text</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Word Cloud</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:59:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f747fec4f5523001a6e28928110c7d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:59:49</sys_updated_on>
+            <value>word_cloud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>time</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Column</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d1b4f34ad1021007a6a35212c9b46d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pie</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a51b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>pie</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>score</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Speedometer</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a11b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-10-29 14:44:13</sys_updated_on>
+            <value>speedometer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>list</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spider</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>251b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>spider</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>score</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dial</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2014-05-05 15:19:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5064a30d7202100037a4ebfae6103d5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-10-29 14:44:25</sys_updated_on>
+            <value>dial</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Donut</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-29 12:02:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>587f9a32bf102100b719d64f6c0739a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:02:31</sys_updated_on>
+            <value>donut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-02-18 02:33:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f43ae321d71231007c45a3b20e610339</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-07-10 12:23:44</sys_updated_on>
+            <value>process</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>time</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spline</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d1b4f34ad1021007a6a35212c9b46d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>spline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>time</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Area</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad1b4f34ad1021007a6a35212c9b46d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>area</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>score</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Real-time Score</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-06-09 10:07:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9bab461d7200200757a4251ce6103be</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-06-09 10:08:23</sys_updated_on>
+            <value>realtime</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Semi Donut</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-29 12:02:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d87f9a32bf102100b719d64f6c0739a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:02:31</sys_updated_on>
+            <value>semi_circle_donut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Funnel</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-29 12:02:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c7f9a32bf102100b719d64f6c0739a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:02:31</sys_updated_on>
+            <value>funnel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>time</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Step</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed1b4f34ad1021007a6a35212c9b46d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>step</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pyramid</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-29 12:02:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc7f9a32bf102100b719d64f6c0739a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:02:31</sys_updated_on>
+            <value>pyramid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>time</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stacked Column</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>211b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-23 10:05:22</sys_updated_on>
+            <value>stacked</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Column</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e51b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:05:47</sys_updated_on>
+            <value>column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>pivot</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Heatmap</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-10-16 15:00:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f8b25a0393030200d8f81f76557ffbab</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-10-16 15:09:10</sys_updated_on>
+            <value>heatmap</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pareto</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>291b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:05:55</sys_updated_on>
+            <value>pareto</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Line</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>691b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:06:08</sys_updated_on>
+            <value>line</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Columns and Total</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a91b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:06:17</sys_updated_on>
+            <value>column_total</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stacked Column</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-23 10:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e91b4f34ad1021007a6a35212c9b46d2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:06:30</sys_updated_on>
+            <value>stacked</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Relative Compare</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>12</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-29 12:02:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>507f9a32bf102100b719d64f6c0739a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-04-29 12:02:31</sys_updated_on>
+            <value>relative</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>time</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Relative Compare</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-05-14 01:14:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d57c101d70002007c45a3b20e610322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-05-14 01:14:48</sys_updated_on>
+            <value>relative</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pivot Scorecard</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2014-06-06 08:25:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>854add03bf012100b719d64f6c0739dd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-06-06 08:26:15</sys_updated_on>
+            <value>pivot_scorecard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>breakdown</dependent_value>
+            <element>visualization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Treemap</label>
+            <language>en</language>
+            <name>pa_widgets</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-15 13:03:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16c807e993b21200d8f81f76557ffb2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-15 13:03:21</sys_updated_on>
+            <value>treemap</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>visualization</element>
+            <name>pa_widgets</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-06-09 10:05:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3583338d4f660300e0cbd49f0310c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>visualization</sys_name>
+            <sys_package display_value="Performance Analytics" source="com.snc.pa">506125754f0331007c0cacb14210c784</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_pa_widgets_visualization</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-06-09 10:05:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>79daaecc1ba6489066d6c91e1e4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>visualization</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_79daaecc1ba6489066d6c91e1e4bcb45</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:50</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

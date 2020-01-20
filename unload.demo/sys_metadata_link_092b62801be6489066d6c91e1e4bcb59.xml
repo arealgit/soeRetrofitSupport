@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>43e9a3414f620300e0cbd49f0310c740</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="extension_model" table="sys_db_object" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>extension_model</element>
+            <hint>The default/classic model using one relational table per class</hint>
+            <inactive>false</inactive>
+            <label>Table per class</label>
+            <language>en</language>
+            <name>sys_db_object</name>
+            <sequence>0</sequence>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2013-04-17 18:32:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1a81621373001004f6a80f7bcbe5dc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2013-04-17 18:32:56</sys_updated_on>
+            <value>class</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>extension_model</element>
+            <hint>A model using a single relational table containing all classes in the whole hierarchy</hint>
+            <inactive>false</inactive>
+            <label>Table per hierarchy</label>
+            <language>en</language>
+            <name>sys_db_object</name>
+            <sequence>1</sequence>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2013-04-17 18:38:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b695221373001004f6a80f7bcbe5db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2013-04-17 18:38:26</sys_updated_on>
+            <value>hierarchy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>extension_model</element>
+            <hint>A model using multiple flat partitioned relational tables containing all classes in the whole hierarchy</hint>
+            <inactive>false</inactive>
+            <label>Table per partition</label>
+            <language>en</language>
+            <name>sys_db_object</name>
+            <sequence>2</sequence>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2017-01-23 18:38:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b695221373001004f6a80f7bcbe5dc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2017-01-23 18:38:26</sys_updated_on>
+            <value>partition</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>extension_model</element>
+            <name>sys_db_object</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:26:45</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>43e9a3414f620300e0cbd49f0310c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>extension_model</sys_name>
+            <sys_package display_value="System (glidesoft)" source="glidesoft">ff0ed1314f0331007c0cacb14210c732</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_db_object_extension_model</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:26:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>092b62801be6489066d6c91e1e4bcb59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>extension_model</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_092b62801be6489066d6c91e1e4bcb59</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:09</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

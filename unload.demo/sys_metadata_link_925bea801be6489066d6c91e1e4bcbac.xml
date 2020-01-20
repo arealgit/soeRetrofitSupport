@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>edac5a361b010010b40d10e58d4bcb35</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="input_style" table="sys_sg_ui_parameter" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>text</dependent_value>
+            <element>input_style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inline</label>
+            <language>en</language>
+            <name>sys_sg_ui_parameter</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25ac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+            <value>inline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>search_list</dependent_value>
+            <element>input_style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inline</label>
+            <language>en</language>
+            <name>sys_sg_ui_parameter</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29ac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+            <value>inline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>list</dependent_value>
+            <element>input_style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inline</label>
+            <language>en</language>
+            <name>sys_sg_ui_parameter</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5ac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+            <value>inline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>qr_barcode</dependent_value>
+            <element>input_style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inline</label>
+            <language>en</language>
+            <name>sys_sg_ui_parameter</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9ac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+            <value>inline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>text</dependent_value>
+            <element>input_style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Popup</label>
+            <language>en</language>
+            <name>sys_sg_ui_parameter</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65ac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+            <value>popup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>search_list</dependent_value>
+            <element>input_style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Popup</label>
+            <language>en</language>
+            <name>sys_sg_ui_parameter</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69ac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+            <value>popup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>list</dependent_value>
+            <element>input_style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Popup</label>
+            <language>en</language>
+            <name>sys_sg_ui_parameter</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5ac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+            <value>popup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>qr_barcode</dependent_value>
+            <element>input_style</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Popup</label>
+            <language>en</language>
+            <name>sys_sg_ui_parameter</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9ac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+            <value>popup</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>input_style</element>
+            <name>sys_sg_ui_parameter</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:28:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>edac5a361b010010b40d10e58d4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>input_style</sys_name>
+            <sys_package display_value="Mobile plugin" source="com.glide.sg">c29c96361b010010b40d10e58d4bcb0a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_sg_ui_parameter_input_style</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:28:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:04:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>925bea801be6489066d6c91e1e4bcbac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>input_style</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_925bea801be6489066d6c91e1e4bcbac</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:04:03</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

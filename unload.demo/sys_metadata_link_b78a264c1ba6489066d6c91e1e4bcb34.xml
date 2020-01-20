@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>81de15714f0331007c0cacb14210c7a9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="cmdb_ci_memory_module" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3DRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>3DRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cache DRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdde15714f0331007c0cacb14210c7a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>Cache DRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CDRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>CDRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DDR</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdde15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>DDR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DDR2</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01de15714f0331007c0cacb14210c7a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>DDR2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DDR3</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41de15714f0331007c0cacb14210c7a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>DDR3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4dde15714f0331007c0cacb14210c7a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>DRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EDO</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>EDO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EDRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>EDRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EEPROM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>EEPROM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPROM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>EPROM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FEPROM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>FEPROM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flash</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>Flash</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0dde15714f0331007c0cacb14210c7a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>RAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RDRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dde15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>RDRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ROM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>ROM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SDRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0dde15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>SDRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SGRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4dde15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>SGRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>SRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Synchronous DRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dde15714f0331007c0cacb14210c7a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>Synchronous DRAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unknown</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9de15714f0331007c0cacb14210c7a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>Unknown</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VRAM</label>
+            <language>en</language>
+            <name>cmdb_ci_memory_module</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81de15714f0331007c0cacb14210c7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+            <value>VRAM</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>cmdb_ci_memory_module</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>81de15714f0331007c0cacb14210c7a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">39ce91714f0331007c0cacb14210c7f3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_memory_module_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b78a264c1ba6489066d6c91e1e4bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_b78a264c1ba6489066d6c91e1e4bcb34</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:36</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

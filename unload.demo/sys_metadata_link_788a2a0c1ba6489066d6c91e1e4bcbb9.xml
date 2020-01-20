@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>1fd69ce24f634fc463b93d828110c790</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="strategy" table="apm_idea_action" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invest</label>
+            <language>en</language>
+            <name>apm_idea_action</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97d69ce24f634fc463b93d828110c790</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:19</sys_updated_on>
+            <value>invest</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sustain</label>
+            <language>en</language>
+            <name>apm_idea_action</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7d69ce24f634fc463b93d828110c790</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:19</sys_updated_on>
+            <value>sustain</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Replace</label>
+            <language>en</language>
+            <name>apm_idea_action</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bd69ce24f634fc463b93d828110c790</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:19</sys_updated_on>
+            <value>replace</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Eliminate</label>
+            <language>en</language>
+            <name>apm_idea_action</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57d69ce24f634fc463b93d828110c790</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:19</sys_updated_on>
+            <value>retire</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>strategy</element>
+            <name>apm_idea_action</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1fd69ce24f634fc463b93d828110c790</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>strategy</sys_name>
+            <sys_package display_value="Application Portfolio Management" source="sn_apm">65c1ca2cdbb2120091285411cf961963</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Application Portfolio Management">65c1ca2cdbb2120091285411cf961963</sys_scope>
+            <sys_update_name>sys_choice_apm_idea_action_strategy</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>788a2a0c1ba6489066d6c91e1e4bcbb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>strategy</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_788a2a0c1ba6489066d6c91e1e4bcbb9</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:24</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

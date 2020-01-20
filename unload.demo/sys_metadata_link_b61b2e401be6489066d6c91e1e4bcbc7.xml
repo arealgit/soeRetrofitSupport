@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>c30e91314f0331007c0cacb14210c7fe</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="device_type" table="sysrule_view" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Browser</label>
+            <language>en</language>
+            <name>sysrule_view</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>030e91314f0331007c0cacb14210c7fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:43</sys_updated_on>
+            <value>browser</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobile</label>
+            <language>en</language>
+            <name>sysrule_view</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>430e91314f0331007c0cacb14210c7fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:43</sys_updated_on>
+            <value>mobile</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tablet</label>
+            <language>en</language>
+            <name>sysrule_view</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>830e91314f0331007c0cacb14210c7fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:43</sys_updated_on>
+            <value>tablet</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>device_type</element>
+            <name>sysrule_view</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c30e91314f0331007c0cacb14210c7fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>device_type</sys_name>
+            <sys_package display_value="System (apps/system_policy)" source="apps/system_policy">620e91314f0331007c0cacb14210c7d3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sysrule_view_device_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:43</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b61b2e401be6489066d6c91e1e4bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>device_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_b61b2e401be6489066d6c91e1e4bcbc7</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:59</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

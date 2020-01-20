@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>60e8f0741bc8409442ff0d01cd4bcb45</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_market_approach" table="sc_req_item" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>commercial</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Coordinated</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>5</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:02:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6d874741bc8409442ff0d01cd4bcb67</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:09:24</sys_updated_on>
+            <value>candi_coordinated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>commercial</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Engineered</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>10</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:03:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60e870341bc8409442ff0d01cd4bcbc2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:09:29</sys_updated_on>
+            <value>candi_engineered</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>new_markets</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Demand</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>15</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:04:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e639f0741bc8409442ff0d01cd4bcb31</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:11:13</sys_updated_on>
+            <value>customer_demand</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>services</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Service</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>20</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:05:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>926930b41bc8409442ff0d01cd4bcb33</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:10:32</sys_updated_on>
+            <value>customer_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>new_markets</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electrification</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>25</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:06:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d9934b41bc8409442ff0d01cd4bcb31</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-05 16:14:44</sys_updated_on>
+            <value>electrification</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>services</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marketing</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>30</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:06:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45b93cb41bc8409442ff0d01cd4bcbbb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:10:55</sys_updated_on>
+            <value>marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>residential</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Residential Coordinated</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>35</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:06:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bac9f8b41bc8409442ff0d01cd4bcb6a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:10:06</sys_updated_on>
+            <value>residential_coordinated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>residential</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Residential Field</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>40</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:07:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08e970381bc8409442ff0d01cd4bcb36</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:10:10</sys_updated_on>
+            <value>residential_field</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>services</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software / etc</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>45</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:07:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57f9fc381bc8409442ff0d01cd4bcb77</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:13:06</sys_updated_on>
+            <value>software_etc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>new_markets</dependent_value>
+            <element>u_market_approach</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Time &amp; Location</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <sequence>50</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:08:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a1a74b81bc8409442ff0d01cd4bcb84</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:11:21</sys_updated_on>
+            <value>time_location</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_market_approach</element>
+            <name>sc_req_item</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-09-19 23:02:26</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>60e8f0741bc8409442ff0d01cd4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_market_approach</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sc_req_item_u_market_approach</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-09-19 23:02:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0bfa66401be6489066d6c91e1e4bcbc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_market_approach</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_0bfa66401be6489066d6c91e1e4bcbc8</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:28</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>52c03f494f260300e0cbd49f0310c77f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="redirect_url" table="sc_cat_item_producer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>redirect_url</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generated Task Record</label>
+            <language>en</language>
+            <name>sc_cat_item_producer</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:56:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ec03f494f260300e0cbd49f0310c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:56:45</sys_updated_on>
+            <value>generated_record</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>redirect_url</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catalog Homepage</label>
+            <language>en</language>
+            <name>sc_cat_item_producer</name>
+            <sequence>20</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:56:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ec03f494f260300e0cbd49f0310c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:56:45</sys_updated_on>
+            <value>catalog_home</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>redirect_url</element>
+            <name>sc_cat_item_producer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:56:45</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>52c03f494f260300e0cbd49f0310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>redirect_url</sys_name>
+            <sys_package display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">a4bdb9b34f302200e0cbd49f0310c7ff</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sc_cat_item_producer_redirect_url</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:56:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3dfa66401be6489066d6c91e1e4bcb59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>redirect_url</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_3dfa66401be6489066d6c91e1e4bcb59</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:23</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

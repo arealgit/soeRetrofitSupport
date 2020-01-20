@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>540542e91b51cc5042ff0d01cd4bcb8e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_it_system" table="sc_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_it_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catalyst</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 16:02:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a4baa241b91c05066d6c91e1e4bcbcb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 16:03:33</sys_updated_on>
+            <value>Catalyst</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_it_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DSMT</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 16:02:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a3b22641b91c05066d6c91e1e4bcb5f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 16:03:33</sys_updated_on>
+            <value>DSMT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_it_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EEP</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 16:03:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>316b2a241b91c05066d6c91e1e4bcb12</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 16:03:33</sys_updated_on>
+            <value>EEP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_it_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 16:03:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f97bae241b91c05066d6c91e1e4bcbb0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 16:03:34</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_it_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PPC</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 16:02:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d35ba6641b91c05066d6c91e1e4bcba0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 16:03:34</sys_updated_on>
+            <value>PPC</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_it_system</element>
+            <name>sc_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 16:02:14</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>540542e91b51cc5042ff0d01cd4bcb8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_it_system</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sc_task_u_it_system</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 16:02:14</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>07fa66401be6489066d6c91e1e4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_it_system</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_07fa66401be6489066d6c91e1e4bcbcf</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:28</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

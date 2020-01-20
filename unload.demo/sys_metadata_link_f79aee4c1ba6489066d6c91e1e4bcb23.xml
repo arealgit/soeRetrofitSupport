@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>32d63bc14fe60300e0cbd49f0310c7bd</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="operator" table="discovery_class_criteria" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>equals</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:23:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8644f77f0ab30157140c093cc17604f7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>tom.dilatush</sys_updated_by>
+            <sys_updated_on>2010-08-21 02:17:12</sys_updated_on>
+            <value>equals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>starts with</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:23:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8644f77f0ab30157143757feb4957014</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.dilatush</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:24:06</sys_updated_on>
+            <value>startsWith</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ends with</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:23:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8644f77f0ab3015707e0c2b9a76da946</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>tom.dilatush</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:24:31</sys_updated_on>
+            <value>endsWith</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>contains</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:23:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8644f77f0ab301573d71ef102fd89411</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.dilatush</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:24:39</sys_updated_on>
+            <value>contains</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>does not contain</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:23:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8644f77f0ab30157030622f4795dd29a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.dilatush</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:25:14</sys_updated_on>
+            <value>does not contain</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>does not equal</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>6</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2010-08-18 21:19:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87126aaa0ab30157084b029d520c2831</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:19:45</sys_updated_on>
+            <value>does not equal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>does not start with</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>7</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2010-08-18 21:19:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87126aac0ab301577796595f61b2c71b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:19:45</sys_updated_on>
+            <value>does not start with</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>does not end with</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>8</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2010-08-18 21:19:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87126aae0ab301574ae957acd1901858</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:19:45</sys_updated_on>
+            <value>does not end with</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>regex matches</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:23:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8644f77f0ab30157351003b9511fdde2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.dilatush</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:25:01</sys_updated_on>
+            <value>regex matches</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>regex does not match</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>10</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2010-08-18 21:19:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87126ab00ab3015725519f91a96a276e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:19:45</sys_updated_on>
+            <value>regex does not match</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>in IPs</label>
+            <language>en</language>
+            <name>discovery_class_criteria</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:23:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8644f77f0ab301572e6481e601de8a35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.dilatush</sys_updated_by>
+            <sys_updated_on>2010-08-18 21:25:27</sys_updated_on>
+            <value>in IPs</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>operator</element>
+            <name>discovery_class_criteria</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:23:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>32d63bc14fe60300e0cbd49f0310c7bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>operator</sys_name>
+            <sys_package display_value="Discovery - IP Based" source="com.snc.discovery.ip_based">b12d3cff131fe24090307c004244b013</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_discovery_class_criteria_operator</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:23:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f79aee4c1ba6489066d6c91e1e4bcb23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>operator</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_f79aee4c1ba6489066d6c91e1e4bcb23</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:52</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

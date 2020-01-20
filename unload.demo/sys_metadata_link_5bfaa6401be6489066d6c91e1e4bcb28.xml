@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>280542e91b51cc5042ff0d01cd4bcb9f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_measure_characterisitics_requested" table="sc_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Annual Electric Energy Savings (kWh, MWh)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a0762281b51c05066d6c91e1e4bcb16</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:26</sys_updated_on>
+            <value>Annual Electric Energy Savings (kWh, MWh)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Annual GHG Emission Reduction (metric tonnes)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:46:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6a7a2e81b51c05066d6c91e1e4bcb9c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Annual GHG Emission Reduction (metric tonnes)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Annual Natural Gas Savings (MMBtu, Therms, MCF, GJ, dth)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:44:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8337eae81b51c05066d6c91e1e4bcb3f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Annual Natural Gas Savings (MMBtu, Therms, MCF, GJ, dth)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Annual Water Savings (gallons)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:46:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d876e681b51c05066d6c91e1e4bcbc4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Annual Water Savings (gallons)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incremental Measure Cost - Labor &amp; Material ($)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:47:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93e7ea2c1b51c05066d6c91e1e4bcb8c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Incremental Measure Cost - Labor &amp; Material ($)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Life Electric Energy Savings (kWh, MWh)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:44:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30276e681b51c05066d6c91e1e4bcbc3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:26</sys_updated_on>
+            <value>Life Electric Energy Savings (kWh, MWh)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Life GHG Emission Reduction (metric tonnes)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:47:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfb7eae81b51c05066d6c91e1e4bcb8e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Life GHG Emission Reduction (metric tonnes)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Life Natural Gas Savings (MMBtu, Therms, MCF, GJ, dth)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:45:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45572ae81b51c05066d6c91e1e4bcbe2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Life Natural Gas Savings (MMBtu, Therms, MCF, GJ, dth)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Life Water Savings (gallons)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:46:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2997a2e81b51c05066d6c91e1e4bcb9b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Life Water Savings (gallons)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Measure Life (years)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:47:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4dd72e681b51c05066d6c91e1e4bcb31</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Measure Life (years)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:48:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50086e2c1b51c05066d6c91e1e4bcba2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_measure_characterisitics_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peak Demand Savings (kW, MW)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c776ee81b51c05066d6c91e1e4bcb49</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:48:27</sys_updated_on>
+            <value>Peak Demand Savings (kW, MW)</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_measure_characterisitics_requested</element>
+            <name>sc_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:44:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>280542e91b51cc5042ff0d01cd4bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_measure_characterisitics_requested</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sc_task_u_measure_characterisitics_requested</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:44:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5bfaa6401be6489066d6c91e1e4bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_measure_characterisitics_requested</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_5bfaa6401be6489066d6c91e1e4bcb28</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:28</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

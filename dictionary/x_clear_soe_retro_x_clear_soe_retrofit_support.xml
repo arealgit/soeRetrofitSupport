@@ -39,7 +39,13 @@
         </element>
         <element label="DLC / Energy Star" max_length="40" name="dlc_energy_star" type="boolean"/>
         <element label="Escalation Description" max_length="100" name="escalation_description" type="string"/>
-        <element label="Escalation Type" max_length="40" name="escalation_type" type="string"/>
+        <element choice="1" label="Escalation Type" max_length="40" name="escalation_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="TR Escalation" sequence="10" value="tr_escalation"/>
+                <element inactive_on_update="false" label="IT Escalation" sequence="20" value="it_escalation"/>
+                <element inactive_on_update="false" label="CDM-IS / Other Escalation" sequence="30" value="cmdis_other_escalation"/>
+            </choice>
+        </element>
         <element label="General Program Info" max_length="40" name="general_program_info" type="boolean"/>
         <element label="Greenhouse" max_length="40" name="greenhouse" type="boolean"/>
         <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Implementer" max_length="32" name="implementer" reference="sys_user" reference_qual="roles=IESO Deskside SS^EQ" reference_qual_condition="roles=IESO Deskside SS^EQ" type="reference" use_dynamic_default="true"/>

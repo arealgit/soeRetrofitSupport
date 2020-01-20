@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>d70ed1314f0331007c0cacb14210c71e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="trigger_type" table="sys_trigger" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Run Once</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db0ed1314f0331007c0cacb14210c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Repeat</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f0ed1314f0331007c0cacb14210c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Interval</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>570ed1314f0331007c0cacb14210c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Daily</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>970ed1314f0331007c0cacb14210c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On Demand</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f0ed1314f0331007c0cacb14210c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Day in Week</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f0ed1314f0331007c0cacb14210c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Day in Month</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df0ed1314f0331007c0cacb14210c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Week in Month</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>130ed1314f0331007c0cacb14210c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Day and Month in Year</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>530ed1314f0331007c0cacb14210c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Day in Week in Month in Year</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>930ed1314f0331007c0cacb14210c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Run at Specified Times</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d30ed1314f0331007c0cacb14210c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trigger_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Run at System Startup</label>
+            <language>en</language>
+            <name>sys_trigger</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>170ed1314f0331007c0cacb14210c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>trigger_type</element>
+            <name>sys_trigger</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d70ed1314f0331007c0cacb14210c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>trigger_type</sys_name>
+            <sys_package display_value="System (apps/system_scheduler)" source="apps/system_scheduler">8f0ed1314f0331007c0cacb14210c703</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_trigger_trigger_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:04:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>847bee801be6489066d6c91e1e4bcbc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>trigger_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_847bee801be6489066d6c91e1e4bcbc1</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:04:26</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

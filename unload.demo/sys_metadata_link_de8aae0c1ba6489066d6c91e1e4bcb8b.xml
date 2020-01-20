@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>38da5aa24f4a4a007c0cacb14210c72d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="change_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>change_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>Indira.Iyer</sys_created_by>
+            <sys_created_on>2015-08-26 09:16:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2fa5aa24f4a4a007c0cacb14210c7cf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Indira.Iyer</sys_updated_by>
+            <sys_updated_on>2015-08-26 09:16:58</sys_updated_on>
+            <value>-5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>change_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>Indira.Iyer</sys_created_by>
+            <sys_created_on>2015-08-26 09:16:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bafa5aa24f4a4a007c0cacb14210c7cf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Indira.Iyer</sys_updated_by>
+            <sys_updated_on>2015-08-26 09:16:58</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>change_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>Indira.Iyer</sys_created_by>
+            <sys_created_on>2015-08-26 09:16:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72fa5aa24f4a4a007c0cacb14210c7d0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Indira.Iyer</sys_updated_by>
+            <sys_updated_on>2015-08-26 09:16:58</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed - Successful</label>
+            <language>en</language>
+            <name>change_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>Indira.Iyer</sys_created_by>
+            <sys_created_on>2015-08-26 09:16:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30da5aa24f4a4a007c0cacb14210c72d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Indira.Iyer</sys_updated_by>
+            <sys_updated_on>2015-08-26 09:16:58</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed - Unsuccessful</label>
+            <language>en</language>
+            <name>change_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>Indira.Iyer</sys_created_by>
+            <sys_created_on>2015-08-26 09:16:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83da52224f4a4a007c0cacb14210c783</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Indira.Iyer</sys_updated_by>
+            <sys_updated_on>2015-08-26 09:16:58</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed - Deferred</label>
+            <language>en</language>
+            <name>change_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>Indira.Iyer</sys_created_by>
+            <sys_created_on>2015-08-26 09:16:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38ea5aa24f4a4a007c0cacb14210c7b4</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2015-12-22 19:27:50</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>change_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Indira.Iyer</sys_created_by>
+            <sys_created_on>2015-08-26 09:16:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>38da5aa24f4a4a007c0cacb14210c72d</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_change_task_state</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2015-12-22 19:27:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>de8aae0c1ba6489066d6c91e1e4bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_de8aae0c1ba6489066d6c91e1e4bcb8b</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:30</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

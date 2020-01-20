@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>1cde15714f0331007c0cacb14210c73c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="print_type" table="cmdb_ci_printer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dot Matrix</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cde15714f0331007c0cacb14210c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Dot Matrix</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>eBeam</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>eBeam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electroerosion</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Electroerosion</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electrostatic</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Electrostatic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Imagesetter</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Imagesetter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Impact</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cde15714f0331007c0cacb14210c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Impact</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>InkJet</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98de15714f0331007c0cacb14210c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>InkJet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ion Deposition</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Ion Deposition</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laser</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58de15714f0331007c0cacb14210c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Laser</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LED Electrophotographic</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>LED Electrophotographic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Microfiche Photographic</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Microfiche Photographic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cde15714f0331007c0cacb14210c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other Electrophotographic</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Other Electrophotographic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other Photographic</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Other Photographic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pen</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Pen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Plotter</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8de15714f0331007c0cacb14210c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Plotter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Thermal</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Thermal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Typesetter</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8de15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Typesetter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>print_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unknown</label>
+            <language>en</language>
+            <name>cmdb_ci_printer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcde15714f0331007c0cacb14210c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+            <value>Unknown</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>print_type</element>
+            <name>cmdb_ci_printer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:05</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1cde15714f0331007c0cacb14210c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>print_type</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">39ce91714f0331007c0cacb14210c7f3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_printer_print_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:05</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>509a664c1ba6489066d6c91e1e4bcb7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>print_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_509a664c1ba6489066d6c91e1e4bcb7c</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:38</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

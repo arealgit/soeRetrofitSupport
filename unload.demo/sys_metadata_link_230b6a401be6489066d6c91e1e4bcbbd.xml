@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>473e106a4f274fc463b93d828110c74b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="substate" table="sn_si_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substate</element>
+            <hint>Waiting for completion of a problem task.</hint>
+            <inactive>false</inactive>
+            <label>Pending Problem</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>873e106a4f274fc463b93d828110c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substate</element>
+            <hint>Waiting for completion of a change request.</hint>
+            <inactive>false</inactive>
+            <label>Pending Change</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substate</element>
+            <hint>Waiting for completion of a incident.</hint>
+            <inactive>false</inactive>
+            <label>Pending Incident</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>substate</element>
+            <name>sn_si_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>473e106a4f274fc463b93d828110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>substate</sys_name>
+            <sys_package display_value="Security Incident Response" source="sn_si">82878663ff123100158bffffffffff67</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Security Incident Response">82878663ff123100158bffffffffff67</sys_scope>
+            <sys_update_name>sys_choice_sn_si_incident_substate</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>230b6a401be6489066d6c91e1e4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>substate</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_230b6a401be6489066d6c91e1e4bcbbd</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:46</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

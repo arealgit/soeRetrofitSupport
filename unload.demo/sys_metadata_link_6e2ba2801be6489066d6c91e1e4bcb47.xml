@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>bffdbdb34f302200e0cbd49f0310c7a2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="form_buttons" table="sys_embedded_tour_element" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form_buttons</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Additional Actions</label>
+            <language>en</language>
+            <name>sys_embedded_tour_element</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bbfdbdb34f302200e0cbd49f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:20</sys_updated_on>
+            <value>additional_actions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form_buttons</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Back Button</label>
+            <language>en</language>
+            <name>sys_embedded_tour_element</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbfdbdb34f302200e0cbd49f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:20</sys_updated_on>
+            <value>back_btn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form_buttons</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Add Attachment</label>
+            <language>en</language>
+            <name>sys_embedded_tour_element</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ffdbdb34f302200e0cbd49f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:20</sys_updated_on>
+            <value>add_attachment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form_buttons</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Personalize Form</label>
+            <language>en</language>
+            <name>sys_embedded_tour_element</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ffdbdb34f302200e0cbd49f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:20</sys_updated_on>
+            <value>personalize_form</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form_buttons</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Activity Stream Button</label>
+            <language>en</language>
+            <name>sys_embedded_tour_element</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bad23f454f660300e0cbd49f0310c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:05:47</sys_updated_on>
+            <value>activity_stream</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form_buttons</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>More Options</label>
+            <language>en</language>
+            <name>sys_embedded_tour_element</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76d23f454f660300e0cbd49f0310c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:05:47</sys_updated_on>
+            <value>more_option</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>form_buttons</element>
+            <name>sys_embedded_tour_element</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:20</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>bffdbdb34f302200e0cbd49f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>form_buttons</sys_name>
+            <sys_package display_value="Embedded Help" source="com.glide.embedded_help">23fdbdb34f302200e0cbd49f0310c75f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_embedded_tour_element_form_buttons</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6e2ba2801be6489066d6c91e1e4bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>form_buttons</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_6e2ba2801be6489066d6c91e1e4bcb47</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:15</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

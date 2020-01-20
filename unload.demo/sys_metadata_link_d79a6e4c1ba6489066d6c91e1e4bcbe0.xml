@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>422902b34f702200e0cbd49f0310c726</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="timezone_source" table="contract_sla" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The caller's time zone</label>
+            <language>en</language>
+            <name>contract_sla</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:15:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e2902b34f702200e0cbd49f0310c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:15:05</sys_updated_on>
+            <value>task.caller_id.time_zone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The SLA definition's time zone</label>
+            <language>en</language>
+            <name>contract_sla</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:15:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e2902b34f702200e0cbd49f0310c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:15:05</sys_updated_on>
+            <value>sla.timezone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The CI's location's time zone</label>
+            <language>en</language>
+            <name>contract_sla</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:15:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e2902b34f702200e0cbd49f0310c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:15:05</sys_updated_on>
+            <value>task.cmdb_ci.location.time_zone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The task's location's time zone</label>
+            <language>en</language>
+            <name>contract_sla</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:15:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce2902b34f702200e0cbd49f0310c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:15:05</sys_updated_on>
+            <value>task.location.time_zone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>timezone_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The caller's location's time zone</label>
+            <language>en</language>
+            <name>contract_sla</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:15:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>022902b34f702200e0cbd49f0310c726</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:15:05</sys_updated_on>
+            <value>task.caller_id.location.time_zone</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>timezone_source</element>
+            <name>contract_sla</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:15:05</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>422902b34f702200e0cbd49f0310c726</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>timezone_source</sys_name>
+            <sys_package display_value="Service level management" source="com.snc.sla">5af0e9354f0331007c0cacb14210c77b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_contract_sla_timezone_source</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:15:05</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d79a6e4c1ba6489066d6c91e1e4bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>timezone_source</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_d79a6e4c1ba6489066d6c91e1e4bcbe0</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:50</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

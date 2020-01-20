@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>1ee8a6fe1b050010b40d10e58d4bcb38</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="last_activity_threshold" table="samp_sw_reclamation_rule" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>last_activity_threshold</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>15 days</label>
+            <language>en</language>
+            <name>samp_sw_reclamation_rule</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92e8a6fe1b050010b40d10e58d4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:31</sys_updated_on>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>last_activity_threshold</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>30 days</label>
+            <language>en</language>
+            <name>samp_sw_reclamation_rule</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2e8a6fe1b050010b40d10e58d4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:31</sys_updated_on>
+            <value>30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>last_activity_threshold</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>45 days</label>
+            <language>en</language>
+            <name>samp_sw_reclamation_rule</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16e8a6fe1b050010b40d10e58d4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:31</sys_updated_on>
+            <value>45</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>last_activity_threshold</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>60 days</label>
+            <language>en</language>
+            <name>samp_sw_reclamation_rule</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56e8a6fe1b050010b40d10e58d4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:31</sys_updated_on>
+            <value>60</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>last_activity_threshold</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>90 days</label>
+            <language>en</language>
+            <name>samp_sw_reclamation_rule</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96e8a6fe1b050010b40d10e58d4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:31</sys_updated_on>
+            <value>90</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>last_activity_threshold</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>120 days</label>
+            <language>en</language>
+            <name>samp_sw_reclamation_rule</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6e8a6fe1b050010b40d10e58d4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:31</sys_updated_on>
+            <value>120</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>last_activity_threshold</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>180 days</label>
+            <language>en</language>
+            <name>samp_sw_reclamation_rule</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ae8a6fe1b050010b40d10e58d4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:31</sys_updated_on>
+            <value>180</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>last_activity_threshold</element>
+            <name>samp_sw_reclamation_rule</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1ee8a6fe1b050010b40d10e58d4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>last_activity_threshold</sys_name>
+            <sys_package display_value="Software Asset Management Professional" source="sn_samp">4fdc28fecb632200f2de77a4634c9c62</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Software Asset Management Professional">4fdc28fecb632200f2de77a4634c9c62</sys_scope>
+            <sys_update_name>sys_choice_samp_sw_reclamation_rule_last_activity_threshold</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7bea22401be6489066d6c91e1e4bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>last_activity_threshold</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_7bea22401be6489066d6c91e1e4bcbd9</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:15</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

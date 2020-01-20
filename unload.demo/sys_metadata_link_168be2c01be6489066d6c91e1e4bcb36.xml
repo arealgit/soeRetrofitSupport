@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>510e91314f0331007c0cacb14210c76c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="country" table="sys_user" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brazil</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d0e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>BR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>China</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>110e91314f0331007c0cacb14210c76c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>CN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Germany</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>990e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>DE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spain</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d0e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>ES</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>France</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d90e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>FR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United Kingdom</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>590e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>GB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Italy</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d0e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Japan</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd0e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>JP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>javascript:'System (' + GlideLocale.get().getCurrent().getCountry() + ')'</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d50e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>NULL_OVERRIDE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United States</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>190e91314f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+            <value>US</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <name>sys_user</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>510e91314f0331007c0cacb14210c76c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>country</sys_name>
+            <sys_package display_value="System (apps/system_user)" source="apps/system_user">700e91314f0331007c0cacb14210c743</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_user_country</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:36</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:04:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>168be2c01be6489066d6c91e1e4bcb36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>country</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_168be2c01be6489066d6c91e1e4bcb36</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:04:52</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

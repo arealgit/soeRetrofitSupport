@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>968e6b094fe20300e0cbd49f0310c781</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="disk_type" table="cmdb_ci_storage_pool" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disk_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FCAL</label>
+            <language>en</language>
+            <name>cmdb_ci_storage_pool</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:46:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e8e6b094fe20300e0cbd49f0310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:46:54</sys_updated_on>
+            <value>fcal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disk_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LUN</label>
+            <language>en</language>
+            <name>cmdb_ci_storage_pool</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:46:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e8e6b094fe20300e0cbd49f0310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:46:54</sys_updated_on>
+            <value>lun</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disk_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MSATA</label>
+            <language>en</language>
+            <name>cmdb_ci_storage_pool</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:46:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de8e6b094fe20300e0cbd49f0310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:46:54</sys_updated_on>
+            <value>msata</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disk_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SAS</label>
+            <language>en</language>
+            <name>cmdb_ci_storage_pool</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:46:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>128e6b094fe20300e0cbd49f0310c780</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:46:54</sys_updated_on>
+            <value>sas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disk_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SATA</label>
+            <language>en</language>
+            <name>cmdb_ci_storage_pool</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:46:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>528e6b094fe20300e0cbd49f0310c780</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:46:54</sys_updated_on>
+            <value>sata</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disk_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SCSI</label>
+            <language>en</language>
+            <name>cmdb_ci_storage_pool</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:46:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>928e6b094fe20300e0cbd49f0310c780</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:46:54</sys_updated_on>
+            <value>scsi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disk_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SSD</label>
+            <language>en</language>
+            <name>cmdb_ci_storage_pool</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:46:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d28e6b094fe20300e0cbd49f0310c780</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:46:54</sys_updated_on>
+            <value>ssd</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>disk_type</element>
+            <name>cmdb_ci_storage_pool</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:46:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>968e6b094fe20300e0cbd49f0310c781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>disk_type</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">39ce91714f0331007c0cacb14210c7f3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_storage_pool_disk_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:46:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>689aa64c1ba6489066d6c91e1e4bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>disk_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_689aa64c1ba6489066d6c91e1e4bcba4</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:40</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

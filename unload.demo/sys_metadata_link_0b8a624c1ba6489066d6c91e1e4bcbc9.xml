@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>5bced1714f0331007c0cacb14210c7b3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="chassis_type" table="cmdb_ci_computer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All in One</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>All in One</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bus Expansion Chassis</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17ced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Bus Expansion Chassis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Desktop</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3ced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Desktop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Docking Station</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1fced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Docking Station</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Expansion Chassis</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93ced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Expansion Chassis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hand Held</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Hand Held</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laptop</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Laptop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Low Profile Desktop</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17ced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Low Profile Desktop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lunch Box</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13ced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Lunch Box</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Main System Chassis</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53ced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Main System Chassis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mini Tower</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97ced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Mini Tower</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Notebook</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Notebook</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53ced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peripheral Chassis</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57ced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Peripheral Chassis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pizza Box</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57ced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Pizza Box</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portable</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Portable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rack Mount Chassis</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7ced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Rack Mount Chassis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sealed-Case PC</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Sealed-Case PC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Space-Saving</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Space-Saving</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Storage Chassis</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97ced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Storage Chassis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sub Notebook</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Sub Notebook</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SubChassis</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3ced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>SubChassis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tower</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7ced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Tower</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unknown</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93ced1714f0331007c0cacb14210c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:00</sys_updated_on>
+            <value>Unknown</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Virtual Computer</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-04-13 16:16:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83eab44013a15b00aa025cc12244b04f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-04-13 16:16:56</sys_updated_on>
+            <value>Virtual Computer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Virtual Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence/>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-04-13 16:08:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cf8704c13615b00aa025cc12244b0bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-04-13 16:08:15</sys_updated_on>
+            <value>Virtual Server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:01:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc6c3f724f331200b62fd0af0310c7ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:01:47</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:01:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd4cfb724f331200b62fd0af0310c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:01:22</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>11</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:02:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d79c33b24f331200b62fd0af0310c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:02:50</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:00:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d72cbb724f331200b62fd0af0310c7d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:00:55</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>13</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-04-04 07:01:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7393c2b4ff1f2c0e0cbd49f0310c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-04-04 07:01:23</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>15</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b2cbb724f331200b62fd0af0310c7d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:00:56</sys_updated_on>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>16</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:01:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>856c7f724f331200b62fd0af0310c71f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:01:51</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>17</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:02:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f49cff724f331200b62fd0af0310c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:02:40</sys_updated_on>
+            <value>17</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-10 07:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d25fcaaf4f7712004b2de28d0210c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-10 07:00:53</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>23</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>599cff724f331200b62fd0af0310c7b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:02:41</sys_updated_on>
+            <value>23</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:01:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a33cfb724f331200b62fd0af0310c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:01:12</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:01:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e05cfb724f331200b62fd0af0310c7d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:01:33</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:01:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>423cfb724f331200b62fd0af0310c743</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:01:06</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:03:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffac33b24f331200b62fd0af0310c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:03:08</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:01:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e3cfb724f331200b62fd0af0310c745</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:01:07</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chassis_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>9</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2016-06-08 07:00:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>062cbb724f331200b62fd0af0310c7b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2016-06-08 07:00:50</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>chassis_type</element>
+            <name>cmdb_ci_computer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5bced1714f0331007c0cacb14210c7b3</sys_id>
+            <sys_mod_count>16</sys_mod_count>
+            <sys_name>chassis_type</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">39ce91714f0331007c0cacb14210c7f3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_computer_chassis_type</sys_update_name>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-04-04 07:01:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0b8a624c1ba6489066d6c91e1e4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chassis_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_0b8a624c1ba6489066d6c91e1e4bcbc9</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:33</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

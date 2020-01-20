@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>31a58b7513e35f44aa025cc12244b0d7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_int_type" table="incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_int_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BIRT</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>2</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-07-27 21:14:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dede67d4fa71b009136d49f0310c70b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-07-27 21:14:11</sys_updated_on>
+            <value>birt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_int_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EIB</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>5</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-07-27 21:14:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26fda27d4fa71b009136d49f0310c770</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-07-27 21:14:31</sys_updated_on>
+            <value>eib</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_int_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Punchout</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>16</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-07-27 21:16:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e4e627d4fa71b009136d49f0310c721</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-07-27 21:16:03</sys_updated_on>
+            <value>punchout</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_int_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Studio</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>19</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-07-27 21:15:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f30e627d4fa71b009136d49f0310c728</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-07-27 21:15:01</sys_updated_on>
+            <value>studio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_int_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Template/Connector</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>20</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-07-27 21:15:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f2eaa7d4fa71b009136d49f0310c7b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-07-27 21:15:30</sys_updated_on>
+            <value>template</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_int_type</element>
+            <name>incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-07-27 21:14:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>31a58b7513e35f44aa025cc12244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_int_type</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_incident_u_int_type</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-07-27 21:14:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8bbaee8c1ba6489066d6c91e1e4bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_int_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_8bbaee8c1ba6489066d6c91e1e4bcba7</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:22</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

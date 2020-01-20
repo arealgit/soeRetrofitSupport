@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>3dbe51714f0331007c0cacb14210c76b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="flyout_sizing" table="sys_ui_bookmark" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>flyout_sizing</element>
+            <hint>Size the flyout using the defaults for new windows </hint>
+            <inactive>false</inactive>
+            <label>Auto</label>
+            <language>en</language>
+            <name>sys_ui_bookmark</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9be51714f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:49:39</sys_updated_on>
+            <value>auto</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>flyout_sizing</element>
+            <hint>Size the window to the contents of the body</hint>
+            <inactive>false</inactive>
+            <label>Body</label>
+            <language>en</language>
+            <name>sys_ui_bookmark</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9be51714f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:49:39</sys_updated_on>
+            <value>body</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>flyout_sizing</element>
+            <name>sys_ui_bookmark</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:49:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3dbe51714f0331007c0cacb14210c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>flyout_sizing</sys_name>
+            <sys_package display_value="UI11 - Navpage layout with multiple panes" source="com.glide.ui11">35be51714f0331007c0cacb14210c75f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_ui_bookmark_flyout_sizing</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:49:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:04:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ec7b22c01be6489066d6c91e1e4bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>flyout_sizing</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_ec7b22c01be6489066d6c91e1e4bcb09</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:04:28</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

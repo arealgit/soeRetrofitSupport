@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>b409aefe1b050010b40d10e58d4bcba6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="intermediary_seg_aggr_type" table="itfm_cost_allocation_metric" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intermediary_seg_aggr_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Count</label>
+            <language>en</language>
+            <name>itfm_cost_allocation_metric</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc09aefe1b050010b40d10e58d4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:57</sys_updated_on>
+            <value>COUNT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intermediary_seg_aggr_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sum</label>
+            <language>en</language>
+            <name>itfm_cost_allocation_metric</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc09aefe1b050010b40d10e58d4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:57</sys_updated_on>
+            <value>SUM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intermediary_seg_aggr_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Average</label>
+            <language>en</language>
+            <name>itfm_cost_allocation_metric</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3009aefe1b050010b40d10e58d4bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:57</sys_updated_on>
+            <value>AVG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intermediary_seg_aggr_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Min</label>
+            <language>en</language>
+            <name>itfm_cost_allocation_metric</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7009aefe1b050010b40d10e58d4bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:57</sys_updated_on>
+            <value>MIN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intermediary_seg_aggr_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Max</label>
+            <language>en</language>
+            <name>itfm_cost_allocation_metric</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b009aefe1b050010b40d10e58d4bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:57</sys_updated_on>
+            <value>MAX</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>intermediary_seg_aggr_type</element>
+            <name>itfm_cost_allocation_metric</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:22:57</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b409aefe1b050010b40d10e58d4bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>intermediary_seg_aggr_type</sys_name>
+            <sys_package display_value="Financial Management" source="com.snc.financial_management">f7a694a24f634fc463b93d828110c710</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_itfm_cost_allocation_metric_intermediary_seg_aggr_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:22:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b9ca26cc1ba6489066d6c91e1e4bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>intermediary_seg_aggr_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_b9ca26cc1ba6489066d6c91e1e4bcb60</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:34</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

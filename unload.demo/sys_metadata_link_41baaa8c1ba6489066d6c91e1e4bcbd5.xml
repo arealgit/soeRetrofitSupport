@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>ef68d8a24fa34fc463b93d828110c78d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="goal_indicator" table="goal" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Total Applications</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e368d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>total_applications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Total Cost</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2768d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>total_cost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Opex</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6768d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>opex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Capex</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a768d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>capex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud Applications</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e768d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>cloud_applications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Homegrown Applications</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b68d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>homegrown_applications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Support Cost</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b68d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>support_cost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Labor Cost</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab68d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>labor_cost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>goal_indicator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Standards Compliance</label>
+            <language>en</language>
+            <name>goal</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb68d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>standards_compliance</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>goal_indicator</element>
+            <name>goal</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ef68d8a24fa34fc463b93d828110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>goal_indicator</sys_name>
+            <sys_package display_value="Application Portfolio Management" source="sn_apm">65c1ca2cdbb2120091285411cf961963</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Application Portfolio Management">65c1ca2cdbb2120091285411cf961963</sys_scope>
+            <sys_update_name>sys_choice_goal_goal_indicator</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>41baaa8c1ba6489066d6c91e1e4bcbd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>goal_indicator</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_41baaa8c1ba6489066d6c91e1e4bcbd5</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:14</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

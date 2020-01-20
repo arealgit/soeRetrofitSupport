@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>9c8fd5b14f0331007c0cacb14210c7b4</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="correct_answer_checkbox" table="asmt_metric" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>correct_answer_checkbox</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Checked</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:53:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c8fd5b14f0331007c0cacb14210c7b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:53:04</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>correct_answer_checkbox</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unchecked</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:53:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c8fd5b14f0331007c0cacb14210c7b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:53:04</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>correct_answer_checkbox</element>
+            <name>asmt_metric</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:53:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9c8fd5b14f0331007c0cacb14210c7b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>correct_answer_checkbox</sys_name>
+            <sys_package display_value="Assessment" source="com.snc.assessment_core">ad3f11b14f0331007c0cacb14210c718</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_asmt_metric_correct_answer_checkbox</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:53:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8d8a6a0c1ba6489066d6c91e1e4bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>correct_answer_checkbox</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_8d8a6a0c1ba6489066d6c91e1e4bcb7b</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:25</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

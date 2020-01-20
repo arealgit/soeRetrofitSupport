@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>2f6898a24fa34fc463b93d828110c7ea</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="technology_stack" table="cmdb_ci_business_app" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>.net</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e76898a24fa34fc463b93d828110c7e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:08</sys_updated_on>
+            <value>.net</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apex</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef6898a24fa34fc463b93d828110c7ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>Apex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cobol</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>676898a24fa34fc463b93d828110c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>Cobol</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb6898a24fa34fc463b93d828110c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>java</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Netweaver</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>636898a24fa34fc463b93d828110c7f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>Netweaver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open Source</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6768d8a24fa34fc463b93d828110c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>open_source</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PL/SQL</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb68d8a24fa34fc463b93d828110c714</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>plsql</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SQL</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6368d8a24fa34fc463b93d828110c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+            <value>SQL</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>technology_stack</element>
+            <name>cmdb_ci_business_app</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2f6898a24fa34fc463b93d828110c7ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>technology_stack</sys_name>
+            <sys_package display_value="Application Portfolio Management" source="sn_apm">65c1ca2cdbb2120091285411cf961963</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Application Portfolio Management">65c1ca2cdbb2120091285411cf961963</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_business_app_technology_stack</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>328a224c1ba6489066d6c91e1e4bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>technology_stack</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_328a224c1ba6489066d6c91e1e4bcbfe</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:32</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>4f5d7033135fe24090307c004244b026</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="sa_mapping_ext_commands" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ESTABLISHED_CONNECTION_TO_PORT</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb5d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>ESTABLISHED_CONNECTION_TO_PORT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FIND_OUTGOING_CONNS</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c75d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>FIND_OUTGOING_CONNS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FIND_PROCESS_CREATION_TIME</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b5d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>FIND_PROCESS_CREATION_TIME</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GET_ADDRESS_WIDTH</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f5d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>GET_ADDRESS_WIDTH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GET_FILE</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>035d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>GET_FILE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GET_FILE_CHECKSUM</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>835d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>GET_FILE_CHECKSUM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GET_FILE_INFO</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c35d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>GET_FILE_INFO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GET_FILE_LAST_MODIF_TIME</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>435d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>GET_FILE_LAST_MODIF_TIME</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GET_FILE_NAMES_BY_EXPRESSION</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b5d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>GET_FILE_NAMES_BY_EXPRESSION</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GET_MAC_BY_ARP</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b5d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>GET_MAC_BY_ARP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IS_PORT_OPEN</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b5d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>IS_PORT_OPEN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OPEN_PORTS</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>12</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f5d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>OPEN_PORTS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PING</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>13</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>875d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>PING</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PROCESS_BY_FOREIGN_ADDRESS</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>14</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>075d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>PROCESS_BY_FOREIGN_ADDRESS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PROCESS_LIST</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>15</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb5d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>PROCESS_LIST</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PROCESS_ON_PORT</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>16</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f5d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>PROCESS_ON_PORT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PROCESS_WORKING_DIR</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>17</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf5d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>PROCESS_WORKING_DIR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>REVERSE_DNS</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>18</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c75d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>REVERSE_DNS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SCAN_PORTS</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>19</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f5d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>SCAN_PORTS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SHELL_COMMAND</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>20</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b5d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>SHELL_COMMAND</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SHELL_SUPER_USER_COMMAND</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>21</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b5d7033135fe24090307c004244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>SHELL_SUPER_USER_COMMAND</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TRACE_ROUTE</label>
+            <language>en</language>
+            <name>sa_mapping_ext_commands</name>
+            <sequence>22</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>475d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+            <value>TRACE_ROUTE</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>sa_mapping_ext_commands</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4f5d7033135fe24090307c004244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Event Management and Service Mapping Core" source="com.snc.service-watch">712d3cff131fe24090307c004244b013</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sa_mapping_ext_commands_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>30faa2401be6489066d6c91e1e4bcb8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_30faa2401be6489066d6c91e1e4bcb8d</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:18</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

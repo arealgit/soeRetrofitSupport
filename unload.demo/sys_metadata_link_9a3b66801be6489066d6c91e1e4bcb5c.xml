@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>fc14ae321bc10010b40d10e58d4bcb80</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="delivery_source" table="sys_remote_app" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>delivery_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Store</label>
+            <language>en</language>
+            <name>sys_remote_app</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:01:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3414ae321bc10010b40d10e58d4bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:01:23</sys_updated_on>
+            <value>store</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>delivery_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Out of Band</label>
+            <language>en</language>
+            <name>sys_remote_app</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:01:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7414ae321bc10010b40d10e58d4bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:01:23</sys_updated_on>
+            <value>out_of_band</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>delivery_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Offline</label>
+            <language>en</language>
+            <name>sys_remote_app</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:01:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b414ae321bc10010b40d10e58d4bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:01:23</sys_updated_on>
+            <value>offline</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>delivery_source</element>
+            <name>sys_remote_app</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:01:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>fc14ae321bc10010b40d10e58d4bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>delivery_source</sys_name>
+            <sys_package display_value="Scoped App Client" source="sn_appclient">781f36a96fef21005be8883e6b3ee43d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Scoped App Client">781f36a96fef21005be8883e6b3ee43d</sys_scope>
+            <sys_update_name>sys_choice_sys_remote_app_delivery_source</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:01:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9a3b66801be6489066d6c91e1e4bcb5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>delivery_source</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_9a3b66801be6489066d6c91e1e4bcb5c</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:31</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

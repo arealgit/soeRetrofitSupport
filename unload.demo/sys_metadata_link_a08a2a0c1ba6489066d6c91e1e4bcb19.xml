@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>f0b86e7e1b050010b40d10e58d4bcba1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="agreement_type" table="alm_license" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6bfc779b0b000300823505c137673aba</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-27 22:34:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06a35b5857100300823548addf94f904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-27 22:34:02</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6f39312273720300759a259dfaf6a74f</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-12 18:45:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3aba013473030300759a259dfaf6a742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-12 18:45:34</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>9e18c5517f222200fa0d328c4efa9186</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-08 20:20:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>501d2c039351320044e314f1b47ffb5e</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-08 20:39:40</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-08 20:39:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>568174079351320044e314f1b47ffb62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-08 20:39:23</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>e245fa8373631300009136366bf6a75e</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-02 00:50:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>732f45a773631300009136366bf6a706</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-02 00:51:04</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>39963d730b520300f996440ff6673a27</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-27 19:04:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>770f92690bdb030083d305c137673af8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-27 19:04:54</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>92c737830b631300815805c137673aa0</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-01 08:37:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8480351b0b231300815805c137673aa5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-01 08:37:48</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6e2a21987f222200fa0d328c4efa915c</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-08 20:40:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0b174079351320044e314f1b47ffbef</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-08 20:43:34</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>f019e6d10be33200e115650d37673ad0</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-17 23:08:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7e46b4f672003003b4687cb5685ef32</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-17 23:08:30</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3e1cb13c93233200874c14f1b47ffbbe</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-15 22:18:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fadfa0e8675103003b4687cb5685ef4a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-15 22:19:25</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</dependent_value>
+            <element>agreement_type</element>
+            <hint>Placeholder for ELA to force Label to be generated in Entitlement Import Spreadsheet</hint>
+            <inactive>false</inactive>
+            <label>Enterprise License Agreement (ELA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-14 00:25:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>abd630d393513300a0ab14f1b47ffb30</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-14 00:38:33</sys_updated_on>
+            <value>ela</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise Agreement</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-08 19:38:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36b2a44f9311320044e314f1b47ffb76</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:23:23</sys_updated_on>
+            <value>enterprise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>f019e6d10be33200e115650d37673ad0</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise License Agreement (ELA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-17 23:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8355ab4f672003003b4687cb5685efe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-17 23:10:00</sys_updated_on>
+            <value>enterprise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6e2a21987f222200fa0d328c4efa915c</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise License Agreement (ELA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-22 22:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f43952393613200662714f1b47ffbb4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-30 00:13:23</sys_updated_on>
+            <value>enterprise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6bfc779b0b000300823505c137673aba</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise License Agreement (ELA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-04 00:44:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb74376a0b100300823505c137673a91</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-29 20:45:40</sys_updated_on>
+            <value>enterprise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3e1cb13c93233200874c14f1b47ffbbe</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise License Agreement (ELA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-15 22:22:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb90f4e8675103003b4687cb5685efac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-15 22:22:13</sys_updated_on>
+            <value>enterprise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6f39312273720300759a259dfaf6a74f</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise Term License Agreement (ETLA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-05 22:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c3b316273720300759a259dfaf6a740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-05 22:30:08</sys_updated_on>
+            <value>enterprise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>e245fa8373631300009136366bf6a75e</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Month-to-Month</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-02 01:04:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c35251e773631300009136366bf6a7cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-02 01:04:19</sys_updated_on>
+            <value>monthly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>92c737830b631300815805c137673aa0</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software License Agreement</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-01 08:39:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24d0b51b0b231300815805c137673a73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-01 08:39:39</sys_updated_on>
+            <value>sw_license_agreement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>9e18c5517f222200fa0d328c4efa9186</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unlimited License Agreement (ULA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-08 19:40:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70b3e84f9311320044e314f1b47ffb3d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-30 00:16:15</sys_updated_on>
+            <value>unlimited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6f39312273720300759a259dfaf6a74f</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cumulative Licensing Program (CLP)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-05 22:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f57b716273720300759a259dfaf6a73f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-05 23:58:11</sys_updated_on>
+            <value>cumulative</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>e245fa8373631300009136366bf6a75e</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise License Agreement (ELA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-02 01:05:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69a255e773631300009136366bf6a721</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-02 01:05:29</sys_updated_on>
+            <value>enterprise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise Enrollment</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:24:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe2c480f7f4033007aea7500fee86b2a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:25:19</sys_updated_on>
+            <value>enterprise_enrollment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6bfc779b0b000300823505c137673aba</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise Purchasing Program (EPP)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-29 20:37:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f785bccf0b300300823505c137673ad1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-29 20:37:37</sys_updated_on>
+            <value>enterprise_purchase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>f019e6d10be33200e115650d37673ad0</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>International Program License Agreement (IPLA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-17 23:11:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbd52f4f672003003b4687cb5685efc8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-17 23:11:39</sys_updated_on>
+            <value>international</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>f019e6d10be33200e115650d37673ad0</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IBM Customer Agreement (ICA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-17 23:12:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13f56f4f672003003b4687cb5685efae</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-17 23:12:27</sys_updated_on>
+            <value>customer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise Subscription Agreement</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:25:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1cc0c0f7f4033007aea7500fee86b96</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:25:49</sys_updated_on>
+            <value>enterprise_subscription</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6f39312273720300759a259dfaf6a74f</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transactional Licensing Program (TLP)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-05 22:31:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38abfd2273720300759a259dfaf6a7f7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-05 23:58:40</sys_updated_on>
+            <value>transactional</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6bfc779b0b000300823505c137673aba</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volume Purchasing Program (VPP)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-29 20:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3e478cf0b300300823505c137673aa5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-29 20:36:30</sys_updated_on>
+            <value>volume_purchase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Microsoft Products and Services Agreement</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:25:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97ec4c0f7f4033007aea7500fee86bd2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:26:18</sys_updated_on>
+            <value>ms_products_services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>f019e6d10be33200e115650d37673ad0</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unlimited License Agreement (IULA)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-17 23:12:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5026af4f672003003b4687cb5685ef52</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-17 23:13:29</sys_updated_on>
+            <value>unlimited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6f39312273720300759a259dfaf6a74f</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Value Incentive Plan (VIP)</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-05 22:30:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe5b316273720300759a259dfaf6a759</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-05 23:57:35</sys_updated_on>
+            <value>value_incentive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open License</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:26:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d0d8c0f7f4033007aea7500fee86b79</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:27:07</sys_updated_on>
+            <value>open_license</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open Value</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:27:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be3dcc0f7f4033007aea7500fee86b96</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:27:31</sys_updated_on>
+            <value>open_value</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open Value Subscription</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:27:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e45dcc0f7f4033007aea7500fee86be0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:28:07</sys_updated_on>
+            <value>open_value_subscription</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Select Enrollment</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:28:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>017d004f7f4033007aea7500fee86b9d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:28:49</sys_updated_on>
+            <value>select_enrollment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Select License</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08ad404f7f4033007aea7500fee86b0e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:29:11</sys_updated_on>
+            <value>select_license</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>85253c9593222200caef14f1b47ffb02</dependent_value>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Select Plus</label>
+            <language>en</language>
+            <name>alm_license</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 23:29:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21bd404f7f4033007aea7500fee86bc4</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 23:29:34</sys_updated_on>
+            <value>select_plus</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>agreement_type</element>
+            <name>alm_license</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-03-08 19:26:47</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>f0b86e7e1b050010b40d10e58d4bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>agreement_type</sys_name>
+            <sys_package display_value="Software Asset Management Foundation" source="com.snc.sams">4b7a2b2c4f1123001a6e28928110c778</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_alm_license_agreement_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-03-08 19:26:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a08a2a0c1ba6489066d6c91e1e4bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>agreement_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_a08a2a0c1ba6489066d6c91e1e4bcb19</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:23</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

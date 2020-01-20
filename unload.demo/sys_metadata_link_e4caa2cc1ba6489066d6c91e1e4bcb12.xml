@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>d5d618e24f634fc463b93d828110c717</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="split_by" table="itfm_bucket" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Project</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Center</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>cost_center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>department</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vendor</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>vendor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Location</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>location</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Percentage</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>percentage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Custom Field 1</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>custom_field_one</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Custom Field 2</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>custom_field_two</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Custom Field 3</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>custom_field_three</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Custom Field 4</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1dd6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>custom_field_four</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Custom Field 5</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dd6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>custom_field_five</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Custom Field 6</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>12</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dd6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>custom_field_six</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Custom Field 7</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>13</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddd6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>custom_field_seven</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Custom Field 8</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>14</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11d6d4e24f634fc463b93d828110c7d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>custom_field_eight</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>split_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weighted</label>
+            <language>en</language>
+            <name>itfm_bucket</name>
+            <sequence>15</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19d6d4e24f634fc463b93d828110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+            <value>use-metric</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>split_by</element>
+            <name>itfm_bucket</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:58:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d5d618e24f634fc463b93d828110c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>split_by</sys_name>
+            <sys_package display_value="Financial Management" source="com.snc.financial_management">f7a694a24f634fc463b93d828110c710</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_itfm_bucket_split_by</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:58:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e4caa2cc1ba6489066d6c91e1e4bcb12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>split_by</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_e4caa2cc1ba6489066d6c91e1e4bcb12</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:28</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>2b0d16b61b010010b40d10e58d4bcb1e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="schedule_type" table="on_call_user_preference" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>schedule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Custom Schedule</label>
+            <language>en</language>
+            <name>on_call_user_preference</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:30:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e30d16b61b010010b40d10e58d4bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:30:43</sys_updated_on>
+            <value>simple</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>schedule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Existing Schedule</label>
+            <language>en</language>
+            <name>on_call_user_preference</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:30:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>270d16b61b010010b40d10e58d4bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:30:43</sys_updated_on>
+            <value>schedule</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>schedule_type</element>
+            <name>on_call_user_preference</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:30:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2b0d16b61b010010b40d10e58d4bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>schedule_type</sys_name>
+            <sys_package display_value="On-Call Scheduling" source="com.snc.on_call_rotation">ce7cc8a9132d2e00aa025cc12244b0d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_on_call_user_preference_schedule_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:30:43</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e8daeacc1ba6489066d6c91e1e4bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>schedule_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_e8daeacc1ba6489066d6c91e1e4bcb2c</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:45</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

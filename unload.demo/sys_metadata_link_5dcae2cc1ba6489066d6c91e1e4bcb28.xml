@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>92c610e24f634fc463b93d828110c773</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="final_budget_key_field" table="itfm_ca_segment_map" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 1</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92c610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_one</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 2</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2c610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_two</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 3</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16c610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_three</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 4</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56c610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_four</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 5</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96c610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_five</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 6</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6c610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_six</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 7</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ac610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_seven</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 8</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ac610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_eight</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 9</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ac610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_nine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 10</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dac610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_ten</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 11</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ec610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_eleven</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 12</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>12</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ec610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_twelve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 13</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>13</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ec610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_thirteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 14</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>14</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dec610e24f634fc463b93d828110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_fourteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 15</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>15</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12c610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_fifteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 16</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>16</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52c610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_sixteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 17</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>17</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92c610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_seventeen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segment 18</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>18</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2c610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>f_segment_eighteen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Budget Model</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>19</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16c610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>cost_model</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Unit</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>20</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56c610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>business_unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Service</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>21</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96c610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>business_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Center</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>22</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6c610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>cost_center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>23</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ac610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>department</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Demand</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>24</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ac610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>demand</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT Shared Service</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>25</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ac610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>shared_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Location</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>26</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dac610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>location</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portfolio</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>27</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ec610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>portfolio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>28</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ec610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_budget_key_field</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vendor</label>
+            <language>en</language>
+            <name>itfm_ca_segment_map</name>
+            <sequence>29</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ec610e24f634fc463b93d828110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+            <value>vendor</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>final_budget_key_field</element>
+            <name>itfm_ca_segment_map</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:57</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>92c610e24f634fc463b93d828110c773</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>final_budget_key_field</sys_name>
+            <sys_package display_value="Financial Management" source="com.snc.financial_management">f7a694a24f634fc463b93d828110c710</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_itfm_ca_segment_map_final_budget_key_field</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5dcae2cc1ba6489066d6c91e1e4bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>final_budget_key_field</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_5dcae2cc1ba6489066d6c91e1e4bcb28</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:32</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

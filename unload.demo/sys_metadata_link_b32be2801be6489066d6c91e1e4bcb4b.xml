@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>a5ec27854fa20300e0cbd49f0310c72d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="scalar_type" table="sys_glide_object" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Binary data type that maps to a database column type varbinary.</hint>
+            <inactive>false</inactive>
+            <label>Binary</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:48:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f02dcf81bf3320001875647fcf07396b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 19:48:43</sys_updated_on>
+            <value>binary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Boolean data type that maps to a database column type tinyint.</hint>
+            <inactive>false</inactive>
+            <label>Boolean</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>049b8f81bf3320001875647fcf0739fa</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 20:29:50</sys_updated_on>
+            <value>boolean</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Char data type that maps to a database column type char.</hint>
+            <inactive>false</inactive>
+            <label>Char</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:39:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>931b8f81bf3320001875647fcf0739cc</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 19:42:38</sys_updated_on>
+            <value>char</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Date data type that maps to a database column type date.</hint>
+            <inactive>false</inactive>
+            <label>Date</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:36:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>163a8f81bf3320001875647fcf073999</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 19:37:35</sys_updated_on>
+            <value>date</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Date/Time data type that maps to a database column type datetime.</hint>
+            <inactive>false</inactive>
+            <label>Date/Time</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:45:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a9ccf81bf3320001875647fcf073948</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 19:46:41</sys_updated_on>
+            <value>datetime</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Decimal data type that maps to a database column type decimal.</hint>
+            <inactive>false</inactive>
+            <label>Decimal</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:33:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf5d3e81bf3320001875647fcf073989</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 21:30:50</sys_updated_on>
+            <value>decimal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Float data type that maps to a database column type double.</hint>
+            <inactive>false</inactive>
+            <label>Floating Point Number</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:43:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37fbcf81bf3320001875647fcf073932</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 21:30:18</sys_updated_on>
+            <value>float</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Special case string that is used for Sys IDs (GUIDs), this maps to the database column char.</hint>
+            <inactive>false</inactive>
+            <label>Sys ID</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:56:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2de4f81bf3320001875647fcf0739d3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-14 21:59:30</sys_updated_on>
+            <value>GUID</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Integer data type that maps to a database column type integer.</hint>
+            <inactive>false</inactive>
+            <label>Integer</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:38:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23da8f81bf3320001875647fcf0739c0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 19:42:51</sys_updated_on>
+            <value>integer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Long integer data type that maps to a database column type bigint.</hint>
+            <inactive>false</inactive>
+            <label>Longint</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:47:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30eccf81bf3320001875647fcf07395d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 19:47:41</sys_updated_on>
+            <value>longint</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>String data type that maps to a database column type varchar.</hint>
+            <inactive>false</inactive>
+            <label>String</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 18:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4edcbe81bf3320001875647fcf073971</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 19:37:54</sys_updated_on>
+            <value>string</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scalar_type</element>
+            <hint>Time data type that maps to a database column type time.</hint>
+            <inactive>false</inactive>
+            <label>Time</label>
+            <language>en</language>
+            <name>sys_glide_object</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-08-10 19:47:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30eccf81bf3320001875647fcf07395c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-08-10 19:47:41</sys_updated_on>
+            <value>time</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>scalar_type</element>
+            <name>sys_glide_object</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:39:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a5ec27854fa20300e0cbd49f0310c72d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>scalar_type</sys_name>
+            <sys_package display_value="System Applications Core" source="com.snc.apps">a47e99314f0331007c0cacb14210c7ba</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_glide_object_scalar_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:39:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b32be2801be6489066d6c91e1e4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scalar_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_b32be2801be6489066d6c91e1e4bcb4b</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:20</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

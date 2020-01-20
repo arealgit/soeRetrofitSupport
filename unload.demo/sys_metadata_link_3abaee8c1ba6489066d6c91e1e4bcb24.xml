@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>9b4378ad1bc9bb00b40d10e58d4bcb37</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_inquiry_type" table="incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Status Request</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence/>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-05-01 19:04:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>640a31931b8dfb40b40d10e58d4bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-05-01 19:04:04</sys_updated_on>
+            <value>Application Status Request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General Program Info</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>10</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-04-26 03:25:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a643b8ad1bc9bb00b40d10e58d4bcb27</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-04-26 03:41:05</sys_updated_on>
+            <value>General Program Info</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical Support</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>20</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-04-26 03:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b43b4ad1bc9bb00b40d10e58d4bcb4b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-04-26 03:41:08</sys_updated_on>
+            <value>Technical Support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Support</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>30</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-04-26 03:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3573b8ad1bc9bb00b40d10e58d4bcb28</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-04-26 03:41:20</sys_updated_on>
+            <value>Application Support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Complaint</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>40</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-04-26 03:26:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0983b46d1bc9bb00b40d10e58d4bcbcd</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-04-26 03:41:22</sys_updated_on>
+            <value>Complaint</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_inquiry_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>50</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-04-26 03:26:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc93b4ad1bc9bb00b40d10e58d4bcb0e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-04-26 03:41:26</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_inquiry_type</element>
+            <name>incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-04-26 03:25:07</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9b4378ad1bc9bb00b40d10e58d4bcb37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_inquiry_type</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_incident_u_inquiry_type</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2019-04-26 03:25:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3abaee8c1ba6489066d6c91e1e4bcb24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_inquiry_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_3abaee8c1ba6489066d6c91e1e4bcb24</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:22</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

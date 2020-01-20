@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>c45bd2034f03030047d83d828110c769</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="attribute" table="samp_sw_metric_attribute" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maximum active OSEs per server</label>
+            <language>en</language>
+            <name>samp_sw_metric_attribute</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c5bd2034f03030047d83d828110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:33</sys_updated_on>
+            <value>max_active_ose_per_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maximum installs per OSE</label>
+            <language>en</language>
+            <name>samp_sw_metric_attribute</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c5bd2034f03030047d83d828110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:33</sys_updated_on>
+            <value>max_install_per_ose</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maximum installs per right</label>
+            <language>en</language>
+            <name>samp_sw_metric_attribute</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc5bd2034f03030047d83d828110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:33</sys_updated_on>
+            <value>max_install_per_right</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maximum processors per right</label>
+            <language>en</language>
+            <name>samp_sw_metric_attribute</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>005bd2034f03030047d83d828110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:33</sys_updated_on>
+            <value>max_processor_per_right</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minimum users per processor</label>
+            <language>en</language>
+            <name>samp_sw_metric_attribute</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>405bd2034f03030047d83d828110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:33</sys_updated_on>
+            <value>min_user_per_processor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minimum cores per processor</label>
+            <language>en</language>
+            <name>samp_sw_metric_attribute</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>805bd2034f03030047d83d828110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:33</sys_updated_on>
+            <value>min_core_per_processor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minimum cores per server</label>
+            <language>en</language>
+            <name>samp_sw_metric_attribute</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c05bd2034f03030047d83d828110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:33</sys_updated_on>
+            <value>min_core_per_server</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>attribute</element>
+            <name>samp_sw_metric_attribute</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c45bd2034f03030047d83d828110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>attribute</sys_name>
+            <sys_package display_value="SAM Premium Core" source="com.snc.samp.core">df3b12034f03030047d83d828110c7e1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_samp_sw_metric_attribute_attribute</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a7ea22401be6489066d6c91e1e4bcb57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attribute</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_a7ea22401be6489066d6c91e1e4bcb57</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:14</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

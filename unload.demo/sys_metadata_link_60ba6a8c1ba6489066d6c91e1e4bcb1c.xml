@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>fed4b3854fa60300e0cbd49f0310c70e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="distribute_cost" table="fm_contract_rate_card" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>distribute_cost</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allocate and distribute cost per asset</label>
+            <language>en</language>
+            <name>fm_contract_rate_card</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-13 20:44:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>281026404760300042bd757f2ede2795</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-17 17:19:28</sys_updated_on>
+            <value>per_asset</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>distribute_cost</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allocate and distribute cost based on value</label>
+            <language>en</language>
+            <name>fm_contract_rate_card</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-13 20:44:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>601026404760300042bd757f2ede2796</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-17 17:20:57</sys_updated_on>
+            <value>on_value</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>distribute_cost</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allocate and distribute cost per user</label>
+            <language>en</language>
+            <name>fm_contract_rate_card</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-13 21:35:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07db2ac04760300042bd757f2ede27c7</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-17 17:20:09</sys_updated_on>
+            <value>per_user</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>distribute_cost</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allocate cost to contract</label>
+            <language>en</language>
+            <name>fm_contract_rate_card</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-13 21:35:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bdb2ac04760300042bd757f2ede27c6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-17 17:20:22</sys_updated_on>
+            <value>to_contract</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>distribute_cost</element>
+            <name>fm_contract_rate_card</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:14:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>fed4b3854fa60300e0cbd49f0310c70e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>distribute_cost</sys_name>
+            <sys_package display_value="IT Cost Management" source="com.snc.cost_management">181db9e84f9012004b2de28d0210c7ae</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_fm_contract_rate_card_distribute_cost</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:14:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>60ba6a8c1ba6489066d6c91e1e4bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>distribute_cost</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_60ba6a8c1ba6489066d6c91e1e4bcb1c</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:12</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

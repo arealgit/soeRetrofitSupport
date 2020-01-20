@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>31da27854f620300e0cbd49f0310c75a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="operator" table="cxs_fltr_condition" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>=</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>=</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>!=</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>!=</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>&gt;</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>&gt;</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>&gt;=</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>&gt;=</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>&lt;</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>&lt;</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>&lt;=</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>&lt;=</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Starts with</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>STARTSWITH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ends with</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>ENDSWITH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contains</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>CONTAINS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Does not contain</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>DOES NOT CONTAIN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9da27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>IN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>operator</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not in</label>
+            <language>en</language>
+            <name>cxs_fltr_condition</name>
+            <sequence>12</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dda27854f620300e0cbd49f0310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+            <value>NOT IN</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>operator</element>
+            <name>cxs_fltr_condition</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>31da27854f620300e0cbd49f0310c75a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>operator</sys_name>
+            <sys_package display_value="Contextual Search Service" source="com.snc.contextual_search">8cf0a9354f0331007c0cacb14210c79e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cxs_fltr_condition_operator</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a39aae4c1ba6489066d6c91e1e4bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>operator</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_a39aae4c1ba6489066d6c91e1e4bcb58</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:51</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

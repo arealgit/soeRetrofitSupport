@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>256b71334f302200e0cbd49f0310c785</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="sys_rollback_context" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dist Upgrade</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>100</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed6b71334f302200e0cbd49f0310c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>upgrade</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Plugin Activation/Upgrade</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>200</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>216b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>plugin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>App Installation</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>300</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>616b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>app_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Test Execution</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>305</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:04:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfb7e3204f1123001a6e28928110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:04:03</sys_updated_on>
+            <value>test_execution</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deleted Record(s)</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>310</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:04:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bb7e3204f1123001a6e28928110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:04:04</sys_updated_on>
+            <value>delete</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scripts - Background</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>350</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a16b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>scripts_bg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>400</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e16b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>sys_rollback_context</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>256b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Rollback Capabilities" source="com.glide.rollback">906b31334f302200e0cbd49f0310c796</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_rollback_context_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fc4ba6801be6489066d6c91e1e4bcbd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_fc4ba6801be6489066d6c91e1e4bcbd8</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:41</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

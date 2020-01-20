@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>4ab618a24f634fc463b93d828110c7f0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="line_type" table="itfm_charge_line" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>line_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Charge item</label>
+            <language>en</language>
+            <name>itfm_charge_line</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2b618a24f634fc463b93d828110c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:40</sys_updated_on>
+            <value>charge_item</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>line_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Charge item breakdown</label>
+            <language>en</language>
+            <name>itfm_charge_line</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06b618a24f634fc463b93d828110c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:40</sys_updated_on>
+            <value>charge_item_breakdown</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>line_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Item</label>
+            <language>en</language>
+            <name>itfm_charge_line</name>
+            <sequence>20</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46b618a24f634fc463b93d828110c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:40</sys_updated_on>
+            <value>item</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>line_type</element>
+            <name>itfm_charge_line</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:40</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4ab618a24f634fc463b93d828110c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>line_type</sys_name>
+            <sys_package display_value="Showback" source="com.snc.service_charging">f8b694a24f634fc463b93d828110c7dd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_itfm_charge_line_line_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>edcae2cc1ba6489066d6c91e1e4bcbf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>line_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_edcae2cc1ba6489066d6c91e1e4bcbf9</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:33</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

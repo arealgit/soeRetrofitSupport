@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>ebd233a44f5523001a6e28928110c717</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="datatype" table="asmt_metric" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attachment</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-02 21:17:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dab25d2df001200dca6a5f59bf263c9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-05 00:28:20</sys_updated_on>
+            <value>attachment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Checkbox</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-03-08 00:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88794082eb131100eae001e64206feae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-03-08 00:08:55</sys_updated_on>
+            <value>checkbox</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2013-02-19 15:18:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>963ac81737233000fceabfc8bcbe5d49</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2013-04-29 23:01:00</sys_updated_on>
+            <value>choice</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Date</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-03-08 00:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c794082eb131100eae001e64206feae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-03-08 00:08:55</sys_updated_on>
+            <value>date</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Date/Time</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-03-08 00:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c794082eb131100eae001e64206feae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2014-03-08 00:08:55</sys_updated_on>
+            <value>datetime</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Duration</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2013-03-15 01:31:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c233c7a37400100fceabfc8bcbe5dc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2013-03-15 01:31:17</sys_updated_on>
+            <value>duration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Image Scale</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-15 22:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5b19d319f3212006371f84bc42e7080</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-15 22:59:57</sys_updated_on>
+            <value>imagescale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Likert Scale</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2013-04-29 19:52:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33ae94a1d7810100fceaa6859e6103b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2013-04-29 19:52:22</sys_updated_on>
+            <value>scale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Multiple Selection</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-09 17:55:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42127f55db13120035417878f0b8f509</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 23:52:35</sys_updated_on>
+            <value>multiplecheckbox</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Number</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2013-02-19 15:19:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>997ac81737233000fceabfc8bcbe5dbc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2013-04-29 23:00:50</sys_updated_on>
+            <value>long</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Numeric Scale</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2014-11-21 00:22:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f966b8c1532031008283da86a11c086f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-11-21 00:23:33</sys_updated_on>
+            <value>numericscale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Percentage</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2013-03-15 01:37:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c74f87a37400100fceabfc8bcbe5d99</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-11-21 00:23:08</sys_updated_on>
+            <value>percentage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ranking</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-13 23:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71126d329f1312006371f84bc42e70b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-13 23:16:32</sys_updated_on>
+            <value>ranking</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ratings</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>13</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-03-08 00:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80794082eb131100eae001e64206feaf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-11-21 00:23:12</sys_updated_on>
+            <value>rating</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reference</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-03-20 22:57:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3e1ea27937231009f297827157ffbd7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-03-20 22:58:02</sys_updated_on>
+            <value>reference</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>String</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>15</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-03-08 00:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0794082eb131100eae001e64206feaf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-11-21 00:23:16</sys_updated_on>
+            <value>string</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Template</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>16</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2013-04-29 19:52:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35ae94a1d7810100fceaa6859e6103b1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-11-21 00:23:17</sys_updated_on>
+            <value>template</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>datatype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes/No</label>
+            <language>en</language>
+            <name>asmt_metric</name>
+            <sequence>17</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-03-08 00:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44794082eb131100eae001e64206feaf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-11-21 00:23:20</sys_updated_on>
+            <value>boolean</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>datatype</element>
+            <name>asmt_metric</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-20 22:24:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ebd233a44f5523001a6e28928110c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>datatype</sys_name>
+            <sys_package display_value="Assessment" source="com.snc.assessment_core">ad3f11b14f0331007c0cacb14210c718</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_asmt_metric_datatype</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-20 22:24:34</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>498a6a0c1ba6489066d6c91e1e4bcba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>datatype</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_498a6a0c1ba6489066d6c91e1e4bcba5</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:25</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

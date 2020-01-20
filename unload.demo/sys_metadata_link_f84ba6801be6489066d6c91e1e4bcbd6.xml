@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>6d6b71334f302200e0cbd49f0310c785</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="sys_rollback_context" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staged</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>50</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a56b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>staged</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In progress</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>100</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e56b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>in_progress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finished recording</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>200</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>296b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>recorded</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending roll back</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>250</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:25:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0cb92321b010010b40d10e58d4bcb2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:25:01</sys_updated_on>
+            <value>pending_revert</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Currently rolling back</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>300</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>696b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>reverting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Partially Rolled back</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>350</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:04:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bb7e3204f1123001a6e28928110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:04:04</sys_updated_on>
+            <value>partially_rolled_back</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rolled back</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>400</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a96b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>rolled_back</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invalid/Error</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>500</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e96b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>invalid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Expired</label>
+            <language>en</language>
+            <name>sys_rollback_context</name>
+            <sequence>900</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d6b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+            <value>expired</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>sys_rollback_context</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:14:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6d6b71334f302200e0cbd49f0310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Rollback Capabilities" source="com.glide.rollback">906b31334f302200e0cbd49f0310c796</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_rollback_context_state</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:14:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f84ba6801be6489066d6c91e1e4bcbd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_f84ba6801be6489066d6c91e1e4bcbd6</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:40</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

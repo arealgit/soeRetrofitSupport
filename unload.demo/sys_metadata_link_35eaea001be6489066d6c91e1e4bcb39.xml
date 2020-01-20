@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>7f853fc94fa60300e0cbd49f0310c7d4</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="members_preference" table="resource_plan" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>task</dependent_value>
+            <element>members_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All members</label>
+            <language>en</language>
+            <name>resource_plan</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 09:29:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28ab58d09330320064f572edb67ffbdc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 08:57:19</sys_updated_on>
+            <value>all_members</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>operational_work</dependent_value>
+            <element>members_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All members</label>
+            <language>en</language>
+            <name>resource_plan</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 09:29:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8ab58d09330320064f572edb67ffbdc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 08:57:11</sys_updated_on>
+            <value>all_members</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>operational_work</dependent_value>
+            <element>members_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Specific members</label>
+            <language>en</language>
+            <name>resource_plan</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 09:29:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cab58d09330320064f572edb67ffbdc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 08:57:09</sys_updated_on>
+            <value>specific_members</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>task</dependent_value>
+            <element>members_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Specific members</label>
+            <language>en</language>
+            <name>resource_plan</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 09:29:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68ab58d09330320064f572edb67ffbdc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 08:57:18</sys_updated_on>
+            <value>specific_members</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>task</dependent_value>
+            <element>members_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Any member</label>
+            <language>en</language>
+            <name>resource_plan</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 09:29:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8ab58d09330320064f572edb67ffbdc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-06 08:57:24</sys_updated_on>
+            <value>any_member</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>members_preference</element>
+            <name>resource_plan</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 09:29:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7f853fc94fa60300e0cbd49f0310c7d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>members_preference</sys_name>
+            <sys_package display_value="Resource Management" source="com.snc.resource_management">a7b756604fd012004b2de28d0210c70e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_resource_plan_members_preference</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-02-03 09:29:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>35eaea001be6489066d6c91e1e4bcb39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>members_preference</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_35eaea001be6489066d6c91e1e4bcb39</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:06</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

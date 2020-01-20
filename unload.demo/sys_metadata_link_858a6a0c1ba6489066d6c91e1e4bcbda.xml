@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>63d233a44f5523001a6e28928110c73e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="evaluation_method" table="asmt_metric_type" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluation_method</element>
+            <hint>Star ratings for any set of records</hint>
+            <inactive>true</inactive>
+            <label>Rating</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-15 22:37:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>717aa8e2df00210068c37a0d3df26351</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-08-14 19:12:55</sys_updated_on>
+            <value>rating</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluation_method</element>
+            <hint>Assessment working on multiple records and users</hint>
+            <inactive>false</inactive>
+            <label>Assessment</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-15 22:37:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd7aa8e2df00210068c37a0d3df26350</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-08-14 19:13:02</sys_updated_on>
+            <value>assessment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluation_method</element>
+            <hint>Simple survey that may have a set of users or be open to any users</hint>
+            <inactive>false</inactive>
+            <label>Survey</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-15 22:37:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>317aa8e2df00210068c37a0d3df26351</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-08-14 19:13:10</sys_updated_on>
+            <value>survey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluation_method</element>
+            <hint>Scored quiz for a set of users</hint>
+            <inactive>false</inactive>
+            <label>Quiz</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2014-08-14 19:14:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab348f11df22210068c37a0d3df2637a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-08-14 19:14:19</sys_updated_on>
+            <value>quiz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluation_method</element>
+            <hint>Attestation providing verification of certain facts and statements</hint>
+            <inactive>false</inactive>
+            <label>Legacy Attestation</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2014-04-15 22:37:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b17aa8e2df00210068c37a0d3df26351</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-21 19:48:39</sys_updated_on>
+            <value>attestation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Test plan to be executed</dependent_value>
+            <element>evaluation_method</element>
+            <hint>Test plan to be executed</hint>
+            <inactive>false</inactive>
+            <label>Test plan</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2014-08-14 19:15:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14748f11df22210068c37a0d3df263a3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-08-14 19:22:06</sys_updated_on>
+            <value>testplan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluation_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attestation</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-21 19:48:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b66d039053201200dca62a9ca11c087a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-21 19:48:14</sys_updated_on>
+            <value>attestation_v2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluation_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk Assessment</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-24 13:13:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7db1409a9f23120030581471367fcf31</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-24 17:32:00</sys_updated_on>
+            <value>risk_assessment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluation_method</element>
+            <hint>Vendor risk assessment</hint>
+            <inactive>false</inactive>
+            <label>Vendor Risk Assessment</label>
+            <language>en</language>
+            <name>asmt_metric_type</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-16 04:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9bc66d6675032003d52624ad585ef82</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-16 04:40:10</sys_updated_on>
+            <value>vdr_risk_asmt</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>evaluation_method</element>
+            <name>asmt_metric_type</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-21 19:45:22</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>63d233a44f5523001a6e28928110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>evaluation_method</sys_name>
+            <sys_package display_value="Assessment" source="com.snc.assessment_core">ad3f11b14f0331007c0cacb14210c718</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_asmt_metric_type_evaluation_method</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-21 19:45:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>858a6a0c1ba6489066d6c91e1e4bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>evaluation_method</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_858a6a0c1ba6489066d6c91e1e4bcbda</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:25</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

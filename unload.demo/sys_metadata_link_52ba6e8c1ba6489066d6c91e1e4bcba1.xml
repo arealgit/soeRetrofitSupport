@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>434e54f513d1c740aa025cc12244b09a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="contact_method" table="incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chat</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>5</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2017-09-14 20:03:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9937cf084f910700f3d8d0af0310c77c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2017-09-14 20:04:38</sys_updated_on>
+            <value>u_chat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>10</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2017-09-14 19:58:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ae583484f910700f3d8d0af0310c74a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2017-09-14 20:04:27</sys_updated_on>
+            <value>u_Email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Phone</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence>15</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2017-09-14 20:02:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c45683484f910700f3d8d0af0310c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2017-09-14 20:02:33</sys_updated_on>
+            <value>u_phone</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>contact_method</element>
+            <name>incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2017-09-14 19:58:13</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>434e54f513d1c740aa025cc12244b09a</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_name>contact_method</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_incident_contact_method</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2017-09-14 20:04:27</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>52ba6e8c1ba6489066d6c91e1e4bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contact_method</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_52ba6e8c1ba6489066d6c91e1e4bcba1</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:19</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

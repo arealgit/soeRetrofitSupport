@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>341ed1314f0331007c0cacb14210c761</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="choice" table="sys_dictionary" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dropdown without -- None -- (must specify a default value)</label>
+            <language>en</language>
+            <name>sys_dictionary</name>
+            <sequence>1</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 22:20:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27d929e07f00000101576d78eb2e4b18</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 22:21:57</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dropdown with -- None --</label>
+            <language>en</language>
+            <name>sys_dictionary</name>
+            <sequence>2</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 22:21:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27d965ef7f00000101b56c29db2fd1af</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 22:21:48</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Suggestion</label>
+            <language>en</language>
+            <name>sys_dictionary</name>
+            <sequence>3</sequence>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 22:21:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27d9b4ea7f00000101dc436bf23f90d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 22:21:23</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>choice</element>
+            <name>sys_dictionary</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:46:50</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>341ed1314f0331007c0cacb14210c761</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>choice</sys_name>
+            <sys_package display_value="System (glidesoft)" source="glidesoft">ff0ed1314f0331007c0cacb14210c732</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_dictionary_choice</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:46:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>992b62801be6489066d6c91e1e4bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>choice</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_992b62801be6489066d6c91e1e4bcb8e</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:10</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

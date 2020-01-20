@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>04eaa7854f620300e0cbd49f0310c718</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="user_state" table="sys_user_license_audit_log" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>user_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Subscribed</label>
+            <language>en</language>
+            <name>sys_user_license_audit_log</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ceaa7854f620300e0cbd49f0310c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:55</sys_updated_on>
+            <value>subscribed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>user_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unsubscribed</label>
+            <language>en</language>
+            <name>sys_user_license_audit_log</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ceaa7854f620300e0cbd49f0310c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:55</sys_updated_on>
+            <value>un-subscribed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>user_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Excluded</label>
+            <language>en</language>
+            <name>sys_user_license_audit_log</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cceaa7854f620300e0cbd49f0310c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:55</sys_updated_on>
+            <value>excluded</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>user_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unexcluded</label>
+            <language>en</language>
+            <name>sys_user_license_audit_log</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00eaa7854f620300e0cbd49f0310c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:55</sys_updated_on>
+            <value>un-excluded</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>user_state</element>
+            <name>sys_user_license_audit_log</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:30:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>04eaa7854f620300e0cbd49f0310c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>user_state</sys_name>
+            <sys_package display_value="Subscription Administration Base" source="com.snc.usage_admin.base">675125754f0331007c0cacb14210c759</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_user_license_audit_log_user_state</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:30:55</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:04:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>338b26c01be6489066d6c91e1e4bcb0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user_state</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_338b26c01be6489066d6c91e1e4bcb0b</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:04:58</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

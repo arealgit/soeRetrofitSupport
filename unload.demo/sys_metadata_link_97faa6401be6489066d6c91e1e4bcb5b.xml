@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>280582e91b51cc5042ff0d01cd4bcb3c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_tool_type_new_tool_existing_tool" table="sc_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tool_type_new_tool_existing_tool</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Existing Tool</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:53:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>302966ac1b51c05066d6c91e1e4bcbfb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:53:19</sys_updated_on>
+            <value>Existing Tool</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tool_type_new_tool_existing_tool</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Tool</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>100</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:52:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>041966ec1b51c05066d6c91e1e4bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:52:50</sys_updated_on>
+            <value>New Tool</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_tool_type_new_tool_existing_tool</element>
+            <name>sc_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-20 15:52:50</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>280582e91b51cc5042ff0d01cd4bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_tool_type_new_tool_existing_tool</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sc_task_u_tool_type_new_tool_existing_tool</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-20 15:52:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>97faa6401be6489066d6c91e1e4bcb5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_tool_type_new_tool_existing_tool</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_97faa6401be6489066d6c91e1e4bcb5b</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:29</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

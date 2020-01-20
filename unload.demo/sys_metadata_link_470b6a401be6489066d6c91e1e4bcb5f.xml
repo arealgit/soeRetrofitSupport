@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>5d1d98624f274fc463b93d828110c72f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="elem_type" table="sn_sec_core_integration_item_config" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>String</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>111d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>string</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integer</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>511d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>int</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Decimal</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>911d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>decimal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Date</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d11d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>date</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Boolean</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>151d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>boolean</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Password</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>551d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>password</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IPv4</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>951d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>ip4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IPv6</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d51d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>ip6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>URL</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>191d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>url</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clickable link</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>591d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+            <value>link</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>elem_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MID Server</label>
+            <language>en</language>
+            <name>sn_sec_core_integration_item_config</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d88af7ec4fd523001a6e28928110c7ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:26:03</sys_updated_on>
+            <value>mid_server</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>elem_type</element>
+            <name>sn_sec_core_integration_item_config</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:28</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5d1d98624f274fc463b93d828110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>elem_type</sys_name>
+            <sys_package display_value="Security Support Core" source="com.snc.security_support.core">f81d58624f274fc463b93d828110c79b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sn_sec_core_integration_item_config_elem_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:28</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>470b6a401be6489066d6c91e1e4bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>elem_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_470b6a401be6489066d6c91e1e4bcb5f</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:44</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

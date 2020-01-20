@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>e55d3033135fe24090307c004244b096</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="rule_type" table="svc_model_obj_impactrule" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CI</label>
+            <language>en</language>
+            <name>svc_model_obj_impactrule</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>215d3033135fe24090307c004244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:48</sys_updated_on>
+            <value>CI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Host to Cluster</label>
+            <language>en</language>
+            <name>svc_model_obj_impactrule</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>615d3033135fe24090307c004244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:48</sys_updated_on>
+            <value>CLUSTER</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Containment</label>
+            <language>en</language>
+            <name>svc_model_obj_impactrule</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>655d3033135fe24090307c004244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:48</sys_updated_on>
+            <value>CONTAINMENT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Host</label>
+            <language>en</language>
+            <name>svc_model_obj_impactrule</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a15d3033135fe24090307c004244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:48</sys_updated_on>
+            <value>HOST</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inclusion</label>
+            <language>en</language>
+            <name>svc_model_obj_impactrule</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a55d3033135fe24090307c004244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:48</sys_updated_on>
+            <value>INCLUSION</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network Path</label>
+            <language>en</language>
+            <name>svc_model_obj_impactrule</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e15d3033135fe24090307c004244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:48</sys_updated_on>
+            <value>NETWORK_PATH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rule_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Storage Path</label>
+            <language>en</language>
+            <name>svc_model_obj_impactrule</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>255d3033135fe24090307c004244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:48</sys_updated_on>
+            <value>STORAGE_PATH</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>rule_type</element>
+            <name>svc_model_obj_impactrule</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:48</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e55d3033135fe24090307c004244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>rule_type</sys_name>
+            <sys_package display_value="Service Modeling" source="com.snc.cmdb.service.modeling">394dbcff131fe24090307c004244b0e3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_svc_model_obj_impactrule_rule_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:48</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1d1bea401be6489066d6c91e1e4bcb3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rule_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_1d1bea401be6489066d6c91e1e4bcb3d</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:54</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

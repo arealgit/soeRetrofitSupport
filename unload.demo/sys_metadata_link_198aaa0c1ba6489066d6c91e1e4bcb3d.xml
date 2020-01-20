@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>4c3121754f0331007c0cacb14210c7da</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="invoice_payment_terms" table="ast_contract" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Net Monthly Account</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>043121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>net_monthly_account</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PIA</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>443121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>pia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Net 7</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>843121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>net_7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Net 10</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c43121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>net_10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Net 30</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>083121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>net_30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Net 45</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>483121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>net_45</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Net 60</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>883121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>net_60</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Net 90</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c83121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>net_90</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>invoice_payment_terms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EOM</label>
+            <language>en</language>
+            <name>ast_contract</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c3121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+            <value>eom</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>invoice_payment_terms</element>
+            <name>ast_contract</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:00:26</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4c3121754f0331007c0cacb14210c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>invoice_payment_terms</sys_name>
+            <sys_package display_value="Contract Management" source="com.snc.contract_management">532121754f0331007c0cacb14210c76d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_ast_contract_invoice_payment_terms</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:00:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>198aaa0c1ba6489066d6c91e1e4bcb3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>invoice_payment_terms</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_198aaa0c1ba6489066d6c91e1e4bcb3d</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:26</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>def261e61b55089042ff0d01cd4bcb4e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_service_line" table="sc_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Agricultural</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2f261e61b55089042ff0d01cd4bcb4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:10</sys_updated_on>
+            <value>C&amp;I Agricultural</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Behavioral</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92f261e61b55089042ff0d01cd4bcb56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I Behavioral</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Custom/Prescriptive</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>def261e61b55089042ff0d01cd4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I Custom/Prescriptive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Demand Response</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2f261e61b55089042ff0d01cd4bcb6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I Demand Response</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Grocery</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12f261e61b55089042ff0d01cd4bcb82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I Grocery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I HVAC</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96f261e61b55089042ff0d01cd4bcb88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I HVAC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Industrial</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ef261e61b55089042ff0d01cd4bcb8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I Industrial</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Institutional</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2f261e61b55089042ff0d01cd4bcb95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I Institutional</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Mid-Stream</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6f261e61b55089042ff0d01cd4bcb9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I Mid-Stream</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I New Construction</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaf261e61b55089042ff0d01cd4bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I New Construction</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Other</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6f261e61b55089042ff0d01cd4bcbb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I PC Power Management</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ef261e61b55089042ff0d01cd4bcbba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:11</sys_updated_on>
+            <value>C&amp;I PC Power Management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Retrocommissioning (RCx)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2f261e61b55089042ff0d01cd4bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>C&amp;I Retrocommissioning (RCx)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Small Business</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6af261e61b55089042ff0d01cd4bcbc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>C&amp;I Small Business</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C&amp;I Strategic Energy Mgt (SEM)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eef261e61b55089042ff0d01cd4bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>C&amp;I Strategic Energy Mgt (SEM)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contact Center Inbound</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66f261e61b55089042ff0d01cd4bcbd4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>Contact Center Inbound</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contact Center Outbound</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaf261e61b55089042ff0d01cd4bcbda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>Contact Center Outbound</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Design Build</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62f261e61b55089042ff0d01cd4bcbe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>Design Build</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Digital Data</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6f261e61b55089042ff0d01cd4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>Digital Data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Direct-to-Customer (non-DB)</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ef261e61b55089042ff0d01cd4bcbed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>Direct-to-Customer (non-DB)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electric Vehicles</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>baf2a1e61b55089042ff0d01cd4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>Electric Vehicles</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPS Data Centers</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32f2a1e61b55089042ff0d01cd4bcb07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:12</sys_updated_on>
+            <value>EPS Data Centers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPS Resource Management</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36f2a1e61b55089042ff0d01cd4bcb26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>EPS Resource Management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>eScore</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>baf2a1e61b55089042ff0d01cd4bcb2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>eScore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Instant Rebate</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6f2a1e61b55089042ff0d01cd4bcb3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>Instant Rebate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Item</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ef2a1e61b55089042ff0d01cd4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>Item</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Multifamily Midstream</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2f2a1e61b55089042ff0d01cd4bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>Multifamily Midstream</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Consumer Products</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7af2a1e61b55089042ff0d01cd4bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>Res Consumer Products</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Demand Response</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cff2a1e61b55089042ff0d01cd4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>Res Demand Response</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Energy Advisor</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>47f2a1e61b55089042ff0d01cd4bcb5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>Res Energy Advisor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Existing Homes</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83f2a1e61b55089042ff0d01cd4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:13</sys_updated_on>
+            <value>Res Existing Homes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res HVAC</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bf2a1e61b55089042ff0d01cd4bcb78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:14</sys_updated_on>
+            <value>Res HVAC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Incentive Processing</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3f2a1e61b55089042ff0d01cd4bcb8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:14</sys_updated_on>
+            <value>Res Incentive Processing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Low Income</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ff2a1e61b55089042ff0d01cd4bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:14</sys_updated_on>
+            <value>Res Low Income</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Midstream</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07f2a1e61b55089042ff0d01cd4bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:14</sys_updated_on>
+            <value>Res Midstream</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Multifamily</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bf2a1e61b55089042ff0d01cd4bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:14</sys_updated_on>
+            <value>Res Multifamily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res New Construction</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ff2a1e61b55089042ff0d01cd4bcbb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:14</sys_updated_on>
+            <value>Res New Construction</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Other</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17f265e61b55089042ff0d01cd4bcbd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:14</sys_updated_on>
+            <value>Res Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Res Whole Home Weatherization</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bf265e61b55089042ff0d01cd4bcbd9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:15</sys_updated_on>
+            <value>Res Whole Home Weatherization</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Data Analytics</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7f265e61b55089042ff0d01cd4bcbec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:15</sys_updated_on>
+            <value>Service Data Analytics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Design</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ff265e61b55089042ff0d01cd4bcbf2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:15</sys_updated_on>
+            <value>Service Design</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Education and Training</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dff2a5e61b55089042ff0d01cd4bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:15</sys_updated_on>
+            <value>Service Education and Training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Evaluation</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3f2a5e61b55089042ff0d01cd4bcb18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:16</sys_updated_on>
+            <value>Service Evaluation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Marketing</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ff2e5e61b55089042ff0d01cd4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:17</sys_updated_on>
+            <value>Service Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Other</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73f2e5e61b55089042ff0d01cd4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:17</sys_updated_on>
+            <value>Service Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Policy</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33f269e61b55089042ff0d01cd4bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:17</sys_updated_on>
+            <value>Service Policy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solar</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7f269e61b55089042ff0d01cd4bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:17</sys_updated_on>
+            <value>Solar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_service_line</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UPG</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c0369e61b55089042ff0d01cd4bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:17</sys_updated_on>
+            <value>UPG</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_service_line</element>
+            <name>sc_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2019-11-26 15:54:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>def261e61b55089042ff0d01cd4bcb4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_service_line</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sc_task_u_service_line</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2019-11-26 15:54:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5bfaa6401be6489066d6c91e1e4bcb31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_service_line</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_5bfaa6401be6489066d6c91e1e4bcb31</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:29</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

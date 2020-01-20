@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>848760e513d4fa40aa025cc12244b082</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_enhancement_type" table="rm_enhancement" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_enhancement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>List Load</label>
+            <language>en</language>
+            <name>rm_enhancement</name>
+            <sequence/>
+            <sys_created_by>admrmi</sys_created_by>
+            <sys_created_on>2017-01-13 11:02:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9587a0e513d4fa40aa025cc12244b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admrmi</sys_updated_by>
+            <sys_updated_on>2017-01-13 11:02:19</sys_updated_on>
+            <value>List Load</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_enhancement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Misc</label>
+            <language>en</language>
+            <name>rm_enhancement</name>
+            <sequence/>
+            <sys_created_by>admrmi</sys_created_by>
+            <sys_created_on>2017-01-13 11:01:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4077a8a913d4fa40aa025cc12244b01e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admrmi</sys_updated_by>
+            <sys_updated_on>2017-01-13 11:01:51</sys_updated_on>
+            <value>Misc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_enhancement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reporting</label>
+            <language>en</language>
+            <name>rm_enhancement</name>
+            <sequence/>
+            <sys_created_by>admrmi</sys_created_by>
+            <sys_created_on>2017-01-13 11:02:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0a72ca913d4fa40aa025cc12244b006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admrmi</sys_updated_by>
+            <sys_updated_on>2017-01-13 11:02:37</sys_updated_on>
+            <value>Reporting</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_enhancement_type</element>
+            <name>rm_enhancement</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admrmi</sys_created_by>
+            <sys_created_on>2017-01-13 11:01:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>848760e513d4fa40aa025cc12244b082</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>u_enhancement_type</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_rm_enhancement_u_enhancement_type</sys_update_name>
+            <sys_updated_by>admrmi</sys_updated_by>
+            <sys_updated_on>2017-01-13 11:02:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0aea2e001be6489066d6c91e1e4bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_enhancement_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_0aea2e001be6489066d6c91e1e4bcb0c</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:07</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

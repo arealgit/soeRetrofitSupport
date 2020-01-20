@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>080ebdb34f302200e0cbd49f0310c7bc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="action_event" table="sys_embedded_tour_step" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>click</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>040ebdb34f302200e0cbd49f0310c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:21</sys_updated_on>
+            <value>click</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>change</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>440ebdb34f302200e0cbd49f0310c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:21</sys_updated_on>
+            <value>change</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>select</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>840ebdb34f302200e0cbd49f0310c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:21</sys_updated_on>
+            <value>select</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>keypress</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c40ebdb34f302200e0cbd49f0310c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:21</sys_updated_on>
+            <value>keypress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Double Click</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fd23f454f660300e0cbd49f0310c7a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:05:48</sys_updated_on>
+            <value>dblclick</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Right Click</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bd23f454f660300e0cbd49f0310c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:05:48</sys_updated_on>
+            <value>contextmenu</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Press Enter</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07d23f454f660300e0cbd49f0310c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:05:48</sys_updated_on>
+            <value>keypress_13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mouseover</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 05:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfd23f454f660300e0cbd49f0310c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 05:05:48</sys_updated_on>
+            <value>mouseover</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Next</label>
+            <language>en</language>
+            <name>sys_embedded_tour_step</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:01:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69d473604f9523001a6e28928110c75a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:01:18</sys_updated_on>
+            <value>next</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>action_event</element>
+            <name>sys_embedded_tour_step</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 17:26:21</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>080ebdb34f302200e0cbd49f0310c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>action_event</sys_name>
+            <sys_package display_value="Embedded Help" source="com.glide.embedded_help">23fdbdb34f302200e0cbd49f0310c75f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_embedded_tour_step_action_event</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 17:26:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3e2ba2801be6489066d6c91e1e4bcb72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>action_event</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_3e2ba2801be6489066d6c91e1e4bcb72</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:16</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

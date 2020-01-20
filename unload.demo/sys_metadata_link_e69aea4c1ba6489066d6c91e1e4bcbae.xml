@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>2e0dd2b61b010010b40d10e58d4bcb10</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="roster_escalation" table="cmn_rota_esc_step_def" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>roster_escalation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Current member</label>
+            <language>en</language>
+            <name>cmn_rota_esc_step_def</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:30:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e60dd2b61b010010b40d10e58d4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:30:39</sys_updated_on>
+            <value>current_member</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>roster_escalation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All members</label>
+            <language>en</language>
+            <name>cmn_rota_esc_step_def</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:30:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a0dd2b61b010010b40d10e58d4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:30:39</sys_updated_on>
+            <value>all_members</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>roster_escalation</element>
+            <name>cmn_rota_esc_step_def</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:30:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2e0dd2b61b010010b40d10e58d4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>roster_escalation</sys_name>
+            <sys_package display_value="On-Call Scheduling" source="com.snc.on_call_rotation">ce7cc8a9132d2e00aa025cc12244b0d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmn_rota_esc_step_def_roster_escalation</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:30:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e69aea4c1ba6489066d6c91e1e4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>roster_escalation</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_e69aea4c1ba6489066d6c91e1e4bcbae</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:47</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

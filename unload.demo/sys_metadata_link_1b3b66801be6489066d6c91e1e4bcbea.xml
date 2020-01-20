@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>5ffb2bc94f620300e0cbd49f0310c7e2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type_mapping" table="sys_report_map_source" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_mapping</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Use data on table</label>
+            <language>en</language>
+            <name>sys_report_map_source</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-02-16 11:13:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e6ab622d7211200bd4a4ebfae6103e3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-02-16 14:04:32</sys_updated_on>
+            <value>location</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_mapping</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Use mapping</label>
+            <language>en</language>
+            <name>sys_report_map_source</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-02-16 11:13:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e6ab622d7211200bd4a4ebfae6103e3</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-02-17 09:11:25</sys_updated_on>
+            <value>mapping</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_mapping</element>
+            <hint>Use latitude and longitude</hint>
+            <inactive>false</inactive>
+            <label>Use latitude and longitude</label>
+            <language>en</language>
+            <name>sys_report_map_source</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-02-16 11:13:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce6ab622d7211200bd4a4ebfae6103e3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-02-17 08:48:58</sys_updated_on>
+            <value>use_lat_lon</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type_mapping</element>
+            <name>sys_report_map_source</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-19 04:35:47</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5ffb2bc94f620300e0cbd49f0310c7e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type_mapping</sys_name>
+            <sys_package display_value="Reporting" source="com.glideapp.report">353e55314f0331007c0cacb14210c7ba</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_report_map_source_type_mapping</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-19 04:35:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1b3b66801be6489066d6c91e1e4bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type_mapping</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_1b3b66801be6489066d6c91e1e4bcbea</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:34</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

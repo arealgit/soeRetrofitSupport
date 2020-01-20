@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>dc421b7f4f70220063b93d828110c7e5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="scope" table="sys_text_snippet" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scope</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Global</label>
+            <language>en</language>
+            <name>sys_text_snippet</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 23:34:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c421b7f4f70220063b93d828110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 23:34:27</sys_updated_on>
+            <value>global</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scope</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group</label>
+            <language>en</language>
+            <name>sys_text_snippet</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 23:34:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c421b7f4f70220063b93d828110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 23:34:27</sys_updated_on>
+            <value>group</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>scope</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>User</label>
+            <language>en</language>
+            <name>sys_text_snippet</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 23:34:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c421b7f4f70220063b93d828110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 23:34:27</sys_updated_on>
+            <value>user</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>scope</element>
+            <name>sys_text_snippet</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 23:34:27</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>dc421b7f4f70220063b93d828110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>scope</sys_name>
+            <sys_package display_value="Text Snippets" source="com.glide.ui.snippets">c0421b7f4f70220063b93d828110c7d6</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_text_snippet_scope</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 23:34:27</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:04:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a26bee801be6489066d6c91e1e4bcb2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scope</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_a26bee801be6489066d6c91e1e4bcb2b</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:04:20</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

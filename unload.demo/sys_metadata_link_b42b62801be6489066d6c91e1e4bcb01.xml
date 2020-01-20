@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>4f31e6761b410010b40d10e58d4bcbc7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="file_retrieval_method" table="sys_data_source" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attachment</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c61bd84580202300d1f97c3f8309a5be</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>Attachment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FTP</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce1bd84580202300d1f97c3f8309a5bd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>FTP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FTPS (Auth SSL) [not recommended]</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>821bd84580202300d1f97c3f8309a5be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>FTPS (Auth SSL)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FTPS (Auth TLS) [not recommended]</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c21bd84580202300d1f97c3f8309a5be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>FTPS (Auth TLS)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FTPS (Implicit SSL) [not recommended]</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>021bd84580202300d1f97c3f8309a5be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>FTPS (Implicit SSL)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FTPS (Implicit TLS) [not recommended]</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>421bd84580202300d1f97c3f8309a5be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>FTPS (Implicit TLS)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HTTP</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>461bd84580202300d1f97c3f8309a5be</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>HTTP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HTTPS</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>861bd84580202300d1f97c3f8309a5be</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>HTTPS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SCP</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e1bd84580202300d1f97c3f8309a5bd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>SCP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>file_retrieval_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SFTP</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>061bd84580202300d1f97c3f8309a5be</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-13 23:51:35</sys_updated_on>
+            <value>SFTP</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>file_retrieval_method</element>
+            <name>sys_data_source</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-09-12 19:39:50</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4f31e6761b410010b40d10e58d4bcbc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>file_retrieval_method</sys_name>
+            <sys_package display_value="System Import Data Source" source="com.glide.system_import_data_source">00aedd314f0331007c0cacb14210c74a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_data_source_file_retrieval_method</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-09-12 19:39:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b42b62801be6489066d6c91e1e4bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>file_retrieval_method</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_b42b62801be6489066d6c91e1e4bcb01</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:08</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

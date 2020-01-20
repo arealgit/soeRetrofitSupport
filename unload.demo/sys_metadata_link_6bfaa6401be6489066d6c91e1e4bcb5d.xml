@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>9d4ea8de4f4c274063b93d828110c733</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_wd_priority" table="sc_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_wd_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P1 - Required Same Week</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-08-22 17:13:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0100ff824fc423009136d49f0310c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-08-22 17:13:09</sys_updated_on>
+            <value>p1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_wd_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P2 - Significant 30 days</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-08-22 17:13:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe20fb424fc423009136d49f0310c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-08-22 17:13:39</sys_updated_on>
+            <value>p2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_wd_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P3 - Moderate 60 days</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-08-22 17:14:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a403b824fc423009136d49f0310c798</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-08-22 17:14:08</sys_updated_on>
+            <value>p3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_wd_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P4 - Minor 90 days</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-08-22 17:14:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2560ff824fc423009136d49f0310c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-08-22 17:14:30</sys_updated_on>
+            <value>p4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_wd_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P5 - Low When possible</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-08-22 17:14:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58807f824fc423009136d49f0310c7e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-08-22 17:14:58</sys_updated_on>
+            <value>p5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_wd_priority</element>
+            <name>sc_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admjes</sys_created_by>
+            <sys_created_on>2018-08-22 17:13:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9d4ea8de4f4c274063b93d828110c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_wd_priority</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sc_task_u_wd_priority</sys_update_name>
+            <sys_updated_by>admjes</sys_updated_by>
+            <sys_updated_on>2018-08-22 17:13:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6bfaa6401be6489066d6c91e1e4bcb5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_wd_priority</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_6bfaa6401be6489066d6c91e1e4bcb5d</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:30</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

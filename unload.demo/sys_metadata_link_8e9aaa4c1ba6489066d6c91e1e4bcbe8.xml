@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>35e89e984ff0870063b93d828110c7ce</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_status" table="cmn_location" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>0</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-08-21 14:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79e89e984ff0870063b93d828110c7cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rkresko</sys_updated_by>
+            <sys_updated_on>2017-08-21 14:47:28</sys_updated_on>
+            <value>Open</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Open</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>1</sequence>
+            <sys_created_by>admbkr</sys_created_by>
+            <sys_created_on>2018-05-30 18:45:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df9f9fcf13da1704aa025cc12244b02e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2018-05-30 18:45:02</sys_updated_on>
+            <value>Pending Open</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>2</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-08-21 14:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5e89e984ff0870063b93d828110c7ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2018-05-30 18:45:02</sys_updated_on>
+            <value>Closed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Closure</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>3</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-08-21 14:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1e89e984ff0870063b93d828110c7cf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2018-05-30 18:45:02</sys_updated_on>
+            <value>Pending Closure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Consolidation</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>4</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-08-21 14:58:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>837b96dc4ff0870063b93d828110c7ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2018-05-30 18:45:02</sys_updated_on>
+            <value>Pending Consolidation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Move</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>5</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-08-21 15:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a1d5e104f34870063b93d828110c735</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2018-05-30 18:45:02</sys_updated_on>
+            <value>Pending Move</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_status</element>
+            <name>cmn_location</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-08-21 14:47:28</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>35e89e984ff0870063b93d828110c7ce</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>u_status</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmn_location_u_status</sys_update_name>
+            <sys_updated_by>rkresko</sys_updated_by>
+            <sys_updated_on>2017-08-21 15:05:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8e9aaa4c1ba6489066d6c91e1e4bcbe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_status</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_8e9aaa4c1ba6489066d6c91e1e4bcbe8</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:46</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

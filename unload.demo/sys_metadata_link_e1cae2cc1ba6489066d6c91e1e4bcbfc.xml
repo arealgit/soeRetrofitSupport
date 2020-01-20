@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>15b6d4a24f634fc463b93d828110c7e6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="mapping_type" table="itfm_chg_item_drilldown" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mapping_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weighted</label>
+            <language>en</language>
+            <name>itfm_chg_item_drilldown</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddb6d4a24f634fc463b93d828110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:38</sys_updated_on>
+            <value>metric</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mapping_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mapping field</label>
+            <language>en</language>
+            <name>itfm_chg_item_drilldown</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11b6d4a24f634fc463b93d828110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:38</sys_updated_on>
+            <value>field</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>mapping_type</element>
+            <name>itfm_chg_item_drilldown</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 21:57:38</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>15b6d4a24f634fc463b93d828110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mapping_type</sys_name>
+            <sys_package display_value="Showback" source="com.snc.service_charging">f8b694a24f634fc463b93d828110c7dd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_itfm_chg_item_drilldown_mapping_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 21:57:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e1cae2cc1ba6489066d6c91e1e4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mapping_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_e1cae2cc1ba6489066d6c91e1e4bcbfc</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:33</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

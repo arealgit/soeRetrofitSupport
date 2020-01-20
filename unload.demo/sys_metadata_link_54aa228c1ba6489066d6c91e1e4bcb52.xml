@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>3f2d3cff131fe24090307c004244b0a9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="use_snmp_version" table="discovery_schedule" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>use_snmp_version</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>v1/v2c</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b2d3cff131fe24090307c004244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:08</sys_updated_on>
+            <value>v1_v2c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>use_snmp_version</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>v3</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb2d3cff131fe24090307c004244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:08</sys_updated_on>
+            <value>v3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>use_snmp_version</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb2d3cff131fe24090307c004244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:08</sys_updated_on>
+            <value>all</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>use_snmp_version</element>
+            <name>discovery_schedule</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3f2d3cff131fe24090307c004244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>use_snmp_version</sys_name>
+            <sys_package display_value="Discovery Core" source="com.snc.discovery.core">f12d3cff131fe24090307c004244b013</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_discovery_schedule_use_snmp_version</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>54aa228c1ba6489066d6c91e1e4bcb52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>use_snmp_version</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_54aa228c1ba6489066d6c91e1e4bcb52</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:54</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>c73e106a4f274fc463b93d828110c707</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="contact_type" table="sn_si_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Endpoint Security</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>endpoint_security</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Firewall</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:25:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3da9e6f21b450010b40d10e58d4bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:25:45</sys_updated_on>
+            <value>firewall</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IDS/IPS</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c728</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>ids_ips</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network Monitoring</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c72e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>network_monitoring</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Phone</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b3e106a4f274fc463b93d828110c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>phone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Self-service</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c724</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>self-service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SIEM</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c726</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>siem</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vulnerability Response</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3e106a4f274fc463b93d828110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>vulnerability_response</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Walk-in</label>
+            <language>en</language>
+            <name>sn_si_incident</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b3e106a4f274fc463b93d828110c709</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+            <value>walk-in</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <name>sn_si_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:30:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c73e106a4f274fc463b93d828110c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>contact_type</sys_name>
+            <sys_package display_value="Security Incident Response" source="sn_si">82878663ff123100158bffffffffff67</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Security Incident Response">82878663ff123100158bffffffffff67</sys_scope>
+            <sys_update_name>sys_choice_sn_si_incident_contact_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:30:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>570b6a401be6489066d6c91e1e4bcb8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contact_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_570b6a401be6489066d6c91e1e4bcb8a</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:45</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

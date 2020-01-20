@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>735d6f494fa20300e0cbd49f0310c7f0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="format" table="sys_data_source" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>JDBC</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>DB2 Universal</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39c1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:48</sys_updated_on>
+            <value>com.ibm.db2.jcc.DB2Driver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>JDBC</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SQLServer</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5c1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:45</sys_updated_on>
+            <value>com.microsoft.sqlserver.jdbc.SQLServerDriver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>JDBC</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Sybase</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79c1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:48</sys_updated_on>
+            <value>com.sybase.jdbc3.jdbc.SybDriver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>File</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSV</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9c1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:45</sys_updated_on>
+            <value>CSV</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>File</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSV (tab)</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dc1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:45</sys_updated_on>
+            <value>CSV (tab)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>File</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Excel (.xlsx/.xls)</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9c1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-01-06 19:45:41</sys_updated_on>
+            <value>Excel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>File</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Excel (.xlsx/.xls)</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 04:30:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7acdabe44f5123001a6e28928110c762</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 04:30:32</sys_updated_on>
+            <value>Excel (.xlsx/.xls)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>File</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JSON</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-21 20:43:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81e60aa29f2222005cf3ffa4677fcfbb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-21 20:47:26</sys_updated_on>
+            <value>JSON</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>JDBC</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oracle</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75c1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:45</sys_updated_on>
+            <value>oracle.jdbc.OracleDriver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>JDBC</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MySQL</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5c1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:45</sys_updated_on>
+            <value>org.mariadb.jdbc.Driver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>File</dependent_value>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XML</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dc1e543d72012002e52a2eb9e610350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:45</sys_updated_on>
+            <value>XML</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>format</element>
+            <name>sys_data_source</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-12-30 01:00:45</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>735d6f494fa20300e0cbd49f0310c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>format</sys_name>
+            <sys_package display_value="System Import Data Source" source="com.glide.system_import_data_source">00aedd314f0331007c0cacb14210c74a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sys_data_source_format</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-12-30 01:00:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b82b62801be6489066d6c91e1e4bcb03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>format</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_b82b62801be6489066d6c91e1e4bcb03</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:08</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

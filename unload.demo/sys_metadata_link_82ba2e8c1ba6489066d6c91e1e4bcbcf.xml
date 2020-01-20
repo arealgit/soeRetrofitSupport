@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>7b7d46b74f702200e0cbd49f0310c7f0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="hr_task_type" table="hr_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hr_task_type</element>
+            <hint>Requires document to be attached to the task</hint>
+            <inactive>false</inactive>
+            <label>Document attachment</label>
+            <language>en</language>
+            <name>hr_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:34:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>777d46b74f702200e0cbd49f0310c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:34:03</sys_updated_on>
+            <value>document_attachment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hr_task_type</element>
+            <hint>Employee needs to provide their credentials to acknowledge the document</hint>
+            <inactive>false</inactive>
+            <label>Credential</label>
+            <language>en</language>
+            <name>hr_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:34:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b77d46b74f702200e0cbd49f0310c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:34:03</sys_updated_on>
+            <value>credential</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hr_task_type</element>
+            <hint>Employee needs to sign the document</hint>
+            <inactive>false</inactive>
+            <label>E-Signature</label>
+            <language>en</language>
+            <name>hr_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:34:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f77d46b74f702200e0cbd49f0310c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:34:03</sys_updated_on>
+            <value>e_signature</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hr_task_type</element>
+            <hint>A link to a page for user to work on</hint>
+            <inactive>false</inactive>
+            <label>URL</label>
+            <language>en</language>
+            <name>hr_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:34:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b7d46b74f702200e0cbd49f0310c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:34:03</sys_updated_on>
+            <value>url</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>hr_task_type</element>
+            <name>hr_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-07-30 18:34:03</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7b7d46b74f702200e0cbd49f0310c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>hr_task_type</sys_name>
+            <sys_package display_value="Human Resources Service Management: Core" source="com.snc.hr.core">81d6407b4f6dd2404b2de28d0210c7ec</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_hr_task_hr_task_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-07-30 18:34:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>82ba2e8c1ba6489066d6c91e1e4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hr_task_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_82ba2e8c1ba6489066d6c91e1e4bcbcf</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:18</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

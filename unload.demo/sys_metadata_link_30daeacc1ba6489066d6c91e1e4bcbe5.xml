@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>296165754f0331007c0cacb14210c710</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="default_chart_type" table="pa_indicators" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>default_chart_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Line Chart</label>
+            <language>en</language>
+            <name>pa_indicators</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>256165754f0331007c0cacb14210c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:22</sys_updated_on>
+            <value>line</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>default_chart_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Column Chart</label>
+            <language>en</language>
+            <name>pa_indicators</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>656165754f0331007c0cacb14210c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:22</sys_updated_on>
+            <value>column</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>default_chart_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spline Chart</label>
+            <language>en</language>
+            <name>pa_indicators</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a56165754f0331007c0cacb14210c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:22</sys_updated_on>
+            <value>spline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>default_chart_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Area Chart</label>
+            <language>en</language>
+            <name>pa_indicators</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e56165754f0331007c0cacb14210c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:22</sys_updated_on>
+            <value>area</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>default_chart_type</element>
+            <name>pa_indicators</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:22</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>296165754f0331007c0cacb14210c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>default_chart_type</sys_name>
+            <sys_package display_value="Performance Analytics - Data Collector" source="com.snc.pa.dc">186125754f0331007c0cacb14210c784</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_pa_indicators_default_chart_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>30daeacc1ba6489066d6c91e1e4bcbe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_chart_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_30daeacc1ba6489066d6c91e1e4bcbe5</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:46</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>992d90a24f274fc463b93d828110c7e4</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="match_type" table="sn_sec_cmn_security_tag_rule" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>match_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Exact match</label>
+            <language>en</language>
+            <name>sn_sec_cmn_security_tag_rule</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>912d90a24f274fc463b93d828110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:45</sys_updated_on>
+            <value>exact</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>match_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contains</label>
+            <language>en</language>
+            <name>sn_sec_cmn_security_tag_rule</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d12d90a24f274fc463b93d828110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:45</sys_updated_on>
+            <value>contains</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>match_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Starts with</label>
+            <language>en</language>
+            <name>sn_sec_cmn_security_tag_rule</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>152d90a24f274fc463b93d828110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:45</sys_updated_on>
+            <value>startswith</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>match_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ends with</label>
+            <language>en</language>
+            <name>sn_sec_cmn_security_tag_rule</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>552d90a24f274fc463b93d828110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:45</sys_updated_on>
+            <value>endswith</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>match_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Regular expression</label>
+            <language>en</language>
+            <name>sn_sec_cmn_security_tag_rule</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>952d90a24f274fc463b93d828110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:45</sys_updated_on>
+            <value>regex</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>match_type</element>
+            <name>sn_sec_cmn_security_tag_rule</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:25:45</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>992d90a24f274fc463b93d828110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>match_type</sys_name>
+            <sys_package display_value="Security Support Common" source="sn_sec_cmn">f38c97005301120034c69816a11c081d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Security Support Common">f38c97005301120034c69816a11c081d</sys_scope>
+            <sys_update_name>sys_choice_sn_sec_cmn_security_tag_rule_match_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:25:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>760b6a401be6489066d6c91e1e4bcb56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>match_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_760b6a401be6489066d6c91e1e4bcb56</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:43</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

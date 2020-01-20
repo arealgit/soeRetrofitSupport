@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>8114ae321bc10010b40d10e58d4bcbcb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="price_type" table="sys_app_version" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>price_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Free</label>
+            <language>en</language>
+            <name>sys_app_version</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:01:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0914ae321bc10010b40d10e58d4bcbca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:01:24</sys_updated_on>
+            <value>free</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>price_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paid</label>
+            <language>en</language>
+            <name>sys_app_version</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:01:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4914ae321bc10010b40d10e58d4bcbca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:01:24</sys_updated_on>
+            <value>paid</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>price_type</element>
+            <name>sys_app_version</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:01:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>8114ae321bc10010b40d10e58d4bcbcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>price_type</sys_name>
+            <sys_package display_value="Scoped App Client" source="sn_appclient">781f36a96fef21005be8883e6b3ee43d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Scoped App Client">781f36a96fef21005be8883e6b3ee43d</sys_scope>
+            <sys_update_name>sys_choice_sys_app_version_price_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:01:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:03:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5b1b6e401be6489066d6c91e1e4bcb2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>price_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_5b1b6e401be6489066d6c91e1e4bcb2f</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:03:01</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

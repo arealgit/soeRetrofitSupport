@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>8da3bb924fc8034463b93d828110c7f6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_cost_type" table="fm_expense_line" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Expense</label>
+            <language>en</language>
+            <name>fm_expense_line</name>
+            <sequence>0</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-07-21 19:44:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89a3bb924fc8034463b93d828110c7f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rkresko</sys_updated_by>
+            <sys_updated_on>2017-07-21 19:44:40</sys_updated_on>
+            <value>Expense</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Capital</label>
+            <language>en</language>
+            <name>fm_expense_line</name>
+            <sequence>1</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-07-21 19:44:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41a3bb924fc8034463b93d828110c7f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rkresko</sys_updated_by>
+            <sys_updated_on>2017-07-21 19:44:40</sys_updated_on>
+            <value>Capital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Leasehold Improvement</label>
+            <language>en</language>
+            <name>fm_expense_line</name>
+            <sequence>2</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-07-21 19:56:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5076b7d24fc8034463b93d828110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rkresko</sys_updated_by>
+            <sys_updated_on>2017-07-21 19:56:54</sys_updated_on>
+            <value>Leasehold Improvement</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_cost_type</element>
+            <name>fm_expense_line</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-07-21 19:44:40</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>8da3bb924fc8034463b93d828110c7f6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>u_cost_type</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_fm_expense_line_u_cost_type</sys_update_name>
+            <sys_updated_by>rkresko</sys_updated_by>
+            <sys_updated_on>2017-07-21 19:56:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>70baaa8c1ba6489066d6c91e1e4bcb2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_cost_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_70baaa8c1ba6489066d6c91e1e4bcb2b</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:13</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

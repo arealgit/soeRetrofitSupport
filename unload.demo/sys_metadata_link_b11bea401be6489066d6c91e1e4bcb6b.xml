@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>c56125754f0331007c0cacb14210c7d6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="score_relative_start_interval" table="sysauto_pa" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>score_relative_start_interval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>days ago</label>
+            <language>en</language>
+            <name>sysauto_pa</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>056125754f0331007c0cacb14210c7d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:19</sys_updated_on>
+            <value>days</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>score_relative_start_interval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>weeks ago</label>
+            <language>en</language>
+            <name>sysauto_pa</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>456125754f0331007c0cacb14210c7d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:19</sys_updated_on>
+            <value>weeks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>score_relative_start_interval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>months ago</label>
+            <language>en</language>
+            <name>sysauto_pa</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>856125754f0331007c0cacb14210c7d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:19</sys_updated_on>
+            <value>months</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>score_relative_start_interval</element>
+            <name>sysauto_pa</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 18:01:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c56125754f0331007c0cacb14210c7d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>score_relative_start_interval</sys_name>
+            <sys_package display_value="Performance Analytics - Data Collector" source="com.snc.pa.dc">186125754f0331007c0cacb14210c784</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sysauto_pa_score_relative_start_interval</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 18:01:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b11bea401be6489066d6c91e1e4bcb6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>score_relative_start_interval</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_b11bea401be6489066d6c91e1e4bcb6b</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:55</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>3c5b16034f03030047d83d828110c711</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="agreement_type" table="samp_software_model_result" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic</label>
+            <language>en</language>
+            <name>samp_software_model_result</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b45b16034f03030047d83d828110c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:36</sys_updated_on>
+            <value>generic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise License Agreement</label>
+            <language>en</language>
+            <name>samp_software_model_result</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f45b16034f03030047d83d828110c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:36</sys_updated_on>
+            <value>enterprise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unlimited License Agreement</label>
+            <language>en</language>
+            <name>samp_software_model_result</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>385b16034f03030047d83d828110c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:36</sys_updated_on>
+            <value>unlimited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise Purchasing Program (EPP)</label>
+            <language>en</language>
+            <name>samp_software_model_result</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:19:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2193f684fd523001a6e28928110c7a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:19:56</sys_updated_on>
+            <value>enterprise_purchase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>International Program License Agreement (IPLA)</label>
+            <language>en</language>
+            <name>samp_software_model_result</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:19:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26193f684fd523001a6e28928110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:19:56</sys_updated_on>
+            <value>international</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IBM Customer Agreement (ICA)</label>
+            <language>en</language>
+            <name>samp_software_model_result</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:19:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee193f684fd523001a6e28928110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:19:56</sys_updated_on>
+            <value>customer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volume Purchasing Program (VPP)</label>
+            <language>en</language>
+            <name>samp_software_model_result</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:19:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa193f684fd523001a6e28928110c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:19:56</sys_updated_on>
+            <value>volume_purchase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>agreement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software License Agreement</label>
+            <language>en</language>
+            <name>samp_software_model_result</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 05:21:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ba8ea7e1b050010b40d10e58d4bcb8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 05:21:29</sys_updated_on>
+            <value>sw_license_agreement</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>agreement_type</element>
+            <name>samp_software_model_result</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-12-20 00:22:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3c5b16034f03030047d83d828110c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>agreement_type</sys_name>
+            <sys_package display_value="SAM Premium Core" source="com.snc.samp.core">df3b12034f03030047d83d828110c7e1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_samp_software_model_result_agreement_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-12-20 00:22:36</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9beaee001be6489066d6c91e1e4bcb39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>agreement_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_9beaee001be6489066d6c91e1e4bcb39</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:12</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

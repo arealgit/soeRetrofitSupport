@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>aea637814fe60300e0cbd49f0310c7dc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="discover" table="discovery_schedule" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Configuration items</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-02-06 09:45:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b0a5731c30231003e76741e81d3aec3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>yair.leibkowiz</sys_updated_by>
+            <sys_updated_on>2015-02-06 10:02:27</sys_updated_on>
+            <value>CIs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IP addresses</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-02-06 09:45:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>130a5731c30231003e76741e81d3aec4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>yair.leibkowiz</sys_updated_by>
+            <sys_updated_on>2015-02-06 10:02:27</sys_updated_on>
+            <value>IPs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Networks</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-02-06 09:45:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>570a5731c30231003e76741e81d3aec4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>yair.leibkowiz</sys_updated_by>
+            <sys_updated_on>2015-02-06 10:02:27</sys_updated_on>
+            <value>Nets</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-02-06 10:02:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28ed9b71c30231003e76741e81d3ae18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>yair.leibkowiz</sys_updated_by>
+            <sys_updated_on>2015-02-06 10:02:27</sys_updated_on>
+            <value>Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Service</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65b7ffa04fd523001a6e28928110c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:13:52</sys_updated_on>
+            <value>Web Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Serverless</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-30 12:13:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dad19e9b9f932200904f91aec32e7078</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>yair.leibkowiz</sys_updated_by>
+            <sys_updated_on>2016-12-25 12:16:31</sys_updated_on>
+            <value>Hostless</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pattern</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1b7ffa04fd523001a6e28928110c78a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:13:52</sys_updated_on>
+            <value>Pattern</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud Application</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-25 12:16:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03020b539f732200904f91aec32e7034</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>yair.leibkowiz</sys_updated_by>
+            <sys_updated_on>2016-12-25 12:19:35</sys_updated_on>
+            <value>Cloud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discover</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud Resources</label>
+            <language>en</language>
+            <name>discovery_schedule</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5b7ffa04fd523001a6e28928110c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:13:52</sys_updated_on>
+            <value>Cloud Resources</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>discover</element>
+            <name>discovery_schedule</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-11-30 11:21:50</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>aea637814fe60300e0cbd49f0310c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>discover</sys_name>
+            <sys_package display_value="Discovery Core" source="com.snc.discovery.core">f12d3cff131fe24090307c004244b013</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_discovery_schedule_discover</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-11-30 11:21:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0caa228c1ba6489066d6c91e1e4bcb21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>discover</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_0caa228c1ba6489066d6c91e1e4bcb21</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:54</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

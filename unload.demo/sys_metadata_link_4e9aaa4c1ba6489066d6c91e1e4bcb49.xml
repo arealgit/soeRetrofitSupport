@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>5acb4eb34fcf12404b2de28d0210c707</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_badges_managed_by" table="cmn_location" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_badges_managed_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Help Desk</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>0</sequence>
+            <sys_created_by>admbkr</sys_created_by>
+            <sys_created_on>2016-05-04 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff11bdf34fc75a009136d49f0310c714</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2016-05-04 16:40:12</sys_updated_on>
+            <value>Help Desk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_badges_managed_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security Team</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>1</sequence>
+            <sys_created_by>admbkr</sys_created_by>
+            <sys_created_on>2016-05-04 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f311bdf34fc75a009136d49f0310c715</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2016-05-04 16:40:12</sys_updated_on>
+            <value>Security Team</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_badges_managed_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reception</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>2</sequence>
+            <sys_created_by>admbkr</sys_created_by>
+            <sys_created_on>2016-05-04 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f311bdf34fc75a009136d49f0310c7f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2016-05-04 16:40:12</sys_updated_on>
+            <value>Reception</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_badges_managed_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Local Building Mgmt</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>3</sequence>
+            <sys_created_by>rkresko</sys_created_by>
+            <sys_created_on>2017-04-27 18:50:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>822871834f12b2c063b93d828110c79a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rkresko</sys_updated_by>
+            <sys_updated_on>2017-04-27 18:50:42</sys_updated_on>
+            <value>Local Building Mgmt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_badges_managed_by</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Local Staff</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <sequence>4</sequence>
+            <sys_created_by>admbkr</sys_created_by>
+            <sys_created_on>2018-09-17 18:06:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4a5bd6e4fe82f0063b93d828110c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admbkr</sys_updated_by>
+            <sys_updated_on>2018-09-17 18:06:17</sys_updated_on>
+            <value>Local Staff</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_badges_managed_by</element>
+            <name>cmn_location</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admbkr</sys_created_by>
+            <sys_created_on>2016-05-04 16:40:12</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5acb4eb34fcf12404b2de28d0210c707</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_badges_managed_by</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmn_location_u_badges_managed_by</sys_update_name>
+            <sys_updated_by>rkresko</sys_updated_by>
+            <sys_updated_on>2017-04-27 18:50:42</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4e9aaa4c1ba6489066d6c91e1e4bcb49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_badges_managed_by</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_4e9aaa4c1ba6489066d6c91e1e4bcb49</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:45</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

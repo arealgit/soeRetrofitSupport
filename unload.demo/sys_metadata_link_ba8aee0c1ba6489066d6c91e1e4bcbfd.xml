@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>1b6858a24fa34fc463b93d828110c7f0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="audience_type" table="cmdb_ci_business_app" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>audience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business to Business</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d36858a24fa34fc463b93d828110c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:08</sys_updated_on>
+            <value>b2b</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>audience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business to Consumer</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db6858a24fa34fc463b93d828110c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:08</sys_updated_on>
+            <value>b2c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>audience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business to Government</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b6898a24fa34fc463b93d828110c700</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:08</sys_updated_on>
+            <value>b2g</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>audience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Consumer to Consumer</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f6898a24fa34fc463b93d828110c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:08</sys_updated_on>
+            <value>c2c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>audience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department to Department</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>176898a24fa34fc463b93d828110c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:08</sys_updated_on>
+            <value>d2d</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>audience_type</element>
+            <name>cmdb_ci_business_app</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-01-11 22:05:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1b6858a24fa34fc463b93d828110c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>audience_type</sys_name>
+            <sys_package display_value="Application Portfolio Management" source="sn_apm">65c1ca2cdbb2120091285411cf961963</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Application Portfolio Management">65c1ca2cdbb2120091285411cf961963</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_business_app_audience_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-01-11 22:05:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ba8aee0c1ba6489066d6c91e1e4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>audience_type</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_ba8aee0c1ba6489066d6c91e1e4bcbfd</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:32</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

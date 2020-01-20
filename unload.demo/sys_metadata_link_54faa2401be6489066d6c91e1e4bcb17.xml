@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>df5d7033135fe24090307c004244b05c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="target" table="sa_context_menu" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>target</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All Application Service maps</label>
+            <language>en</language>
+            <name>sa_context_menu</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-10-19 05:06:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f067f284f9523001a6e28928110c70f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-10-19 05:06:36</sys_updated_on>
+            <value>all</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>target</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service mapping</label>
+            <language>en</language>
+            <name>sa_context_menu</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f5d7033135fe24090307c004244b05c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:56</sys_updated_on>
+            <value>mapping</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>target</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service mapping and Event management</label>
+            <language>en</language>
+            <name>sa_context_menu</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f5d7033135fe24090307c004244b05c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:56</sys_updated_on>
+            <value>mappingAndSnac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>target</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Event management</label>
+            <language>en</language>
+            <name>sa_context_menu</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f5d7033135fe24090307c004244b05c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:56</sys_updated_on>
+            <value>snac</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>target</element>
+            <name>sa_context_menu</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2016-12-01 19:20:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>df5d7033135fe24090307c004244b05c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>target</sys_name>
+            <sys_package display_value="Event Management and Service Mapping Core" source="com.snc.service-watch">712d3cff131fe24090307c004244b013</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_sa_context_menu_target</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2016-12-01 19:20:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:02:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>54faa2401be6489066d6c91e1e4bcb17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>target</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_54faa2401be6489066d6c91e1e4bcb17</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:02:17</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

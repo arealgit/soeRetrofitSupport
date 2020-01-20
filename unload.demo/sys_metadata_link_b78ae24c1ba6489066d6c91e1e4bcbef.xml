@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>a7de55714f0331007c0cacb14210c7ef</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="load_balancing_method" table="cmdb_ci_lb_pool" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Request Counting</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efde55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>bybusyness</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request Counting</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fde55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>byrequests</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weighted Traffic Counting</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afde55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>bytraffic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dynamic Ratio: Member</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afde55714f0331007c0cacb14210c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>dynamic-ratio-member</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dynamic Ratio: Node</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efde55714f0331007c0cacb14210c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>dynamic-ratio-node</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fastest: Application</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63de55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>fastest-application</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fastest: Node</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23de55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>fastest-node</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IP Hash</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67de55714f0331007c0cacb14210c7ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>ip-hash</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>L3 Address</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6bde55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>l3-address</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Least Connections</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27de55714f0331007c0cacb14210c7ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>least-connections</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Least Connections: Member</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3de55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>least-connections-member</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Least Connections: Node</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3de55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>least-connections-node</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Least Sessions</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2bde55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>least-sessions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Observed: Member</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27de55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>observed-member</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Observed: Node</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67de55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>observed-node</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Predictive: Member</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7de55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>predictive-member</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Predictive: Node</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7de55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>predictive-node</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ratio: Member</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fde55714f0331007c0cacb14210c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>ratio-member</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ratio: Node</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fde55714f0331007c0cacb14210c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>ratio-node</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ratio: Session</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fde55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>ratio-session</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Round Robin</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebde55714f0331007c0cacb14210c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>round-robin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Source</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3de55714f0331007c0cacb14210c7ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>source</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Satic Round Robin</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3de55714f0331007c0cacb14210c7ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>static-rr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>URI</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63de55714f0331007c0cacb14210c7ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>uri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>URL Parameter</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23de55714f0331007c0cacb14210c7ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>url-param</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weighted Least Connections: Member</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>abde55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>weighted-least-connections-member</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>load_balancing_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weighted Least Connections: Node</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_pool</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebde55714f0331007c0cacb14210c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+            <value>weighted-least-connections-node</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>load_balancing_method</element>
+            <name>cmdb_ci_lb_pool</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:50:18</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a7de55714f0331007c0cacb14210c7ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>load_balancing_method</sys_name>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">39ce91714f0331007c0cacb14210c7f3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_lb_pool_load_balancing_method</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:50:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b78ae24c1ba6489066d6c91e1e4bcbef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>load_balancing_method</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_b78ae24c1ba6489066d6c91e1e4bcbef</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:36</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>e1cf5db14f0331007c0cacb14210c7fb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="privacy_protocol" table="discovery_credentials" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>privacy_protocol</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AES128</label>
+            <language>en</language>
+            <name>discovery_credentials</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adcf5db14f0331007c0cacb14210c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:54:15</sys_updated_on>
+            <value>aes_128</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>privacy_protocol</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AES192</label>
+            <language>en</language>
+            <name>discovery_credentials</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edcf5db14f0331007c0cacb14210c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:54:15</sys_updated_on>
+            <value>aes_192</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>privacy_protocol</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AES256</label>
+            <language>en</language>
+            <name>discovery_credentials</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21cf5db14f0331007c0cacb14210c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:54:15</sys_updated_on>
+            <value>aes_256</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>privacy_protocol</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DES</label>
+            <language>en</language>
+            <name>discovery_credentials</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61cf5db14f0331007c0cacb14210c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:54:15</sys_updated_on>
+            <value>des</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>privacy_protocol</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3DES</label>
+            <language>en</language>
+            <name>discovery_credentials</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:54:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1cf5db14f0331007c0cacb14210c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:54:15</sys_updated_on>
+            <value>triple_des</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>privacy_protocol</element>
+            <name>discovery_credentials</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-03-27 17:54:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e1cf5db14f0331007c0cacb14210c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>privacy_protocol</sys_name>
+            <sys_package display_value="Core Automation" source="com.snc.core.automation">d5bf1db14f0331007c0cacb14210c76e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_discovery_credentials_privacy_protocol</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-03-27 17:54:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:00:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f39aee4c1ba6489066d6c91e1e4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>privacy_protocol</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_f39aee4c1ba6489066d6c91e1e4bcb81</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:00:52</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

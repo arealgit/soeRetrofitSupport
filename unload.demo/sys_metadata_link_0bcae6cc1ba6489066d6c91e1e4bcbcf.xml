@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>d773c25f13c0220090307c004244b0b3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_article_template" table="kb_knowledge" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use for reference articles that contain information but not procedures or other how-to info.</hint>
+            <inactive>false</inactive>
+            <label>About article</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>0</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:51:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e840a5f13c0220090307c004244b0c0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-06-22 21:08:27</sys_updated_on>
+            <value>about article</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use for a list of Frequently Asked Questions with answers.</hint>
+            <inactive>false</inactive>
+            <label>FAQ article</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>1</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:52:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88e44a5f13c0220090307c004244b0c9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-06-22 21:08:27</sys_updated_on>
+            <value>faq article</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use for short How To articles with small or narrow images that can be placed to the right of related steps.</hint>
+            <inactive>false</inactive>
+            <label>How To - short, side image</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>2</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:47:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba93c25f13c0220090307c004244b0e2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-06-22 21:08:27</sys_updated_on>
+            <value>how to short side image</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use for short How To articles with no images or wide images placed under related steps.</hint>
+            <inactive>false</inactive>
+            <label>How To - short, simple</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>3</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:46:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b33065f13c0220090307c004244b050</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-06-22 21:08:27</sys_updated_on>
+            <value>how to short simple</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use as the landing page for any type of attached article.</hint>
+            <inactive>false</inactive>
+            <label>Long article landing page</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>4</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:50:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70444a1f13c0220090307c004244b083</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-06-22 21:08:27</sys_updated_on>
+            <value>long article landing page</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use for News articles designed to scroll up the ServiceNow home page/dashboard.</hint>
+            <inactive>false</inactive>
+            <label>Newsflash article</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>5</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:56:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84b5c25f13c0220090307c004244b0bd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-06-22 21:08:27</sys_updated_on>
+            <value>newsflash article</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use for short policies.</hint>
+            <inactive>false</inactive>
+            <label>Policy - short article</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>6</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:53:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7115ca5f13c0220090307c004244b070</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-06-22 21:08:27</sys_updated_on>
+            <value>policy short article</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use for process articles of 2 pages or less. Process articles contain two or more related procedures.</hint>
+            <inactive>false</inactive>
+            <label>Process - short article</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>7</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-08-04 16:45:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a346f1d4f89260063b93d828110c7d9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-09-06 22:11:46</sys_updated_on>
+            <value>process short article</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_article_template</element>
+            <hint>Use for short Troubleshooting articles for Service Desk Techs.</hint>
+            <inactive>false</inactive>
+            <label>Troubleshooting - short article</label>
+            <language>en</language>
+            <name>kb_knowledge</name>
+            <sequence>8</sequence>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:55:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73758e1f13c0220090307c004244b031</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-09-06 22:11:46</sys_updated_on>
+            <value>troubleshooting short article</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_article_template</element>
+            <name>kb_knowledge</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>holly.williams</sys_created_by>
+            <sys_created_on>2016-06-21 21:46:16</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d773c25f13c0220090307c004244b0b3</sys_id>
+            <sys_mod_count>12</sys_mod_count>
+            <sys_name>u_article_template</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_kb_knowledge_u_article_template</sys_update_name>
+            <sys_updated_by>holly.williams</sys_updated_by>
+            <sys_updated_on>2016-09-06 22:11:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0bcae6cc1ba6489066d6c91e1e4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_article_template</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_0bcae6cc1ba6489066d6c91e1e4bcbcf</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:39</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>

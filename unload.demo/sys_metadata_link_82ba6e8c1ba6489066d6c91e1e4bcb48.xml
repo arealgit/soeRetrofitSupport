@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>2accd2761b010010b40d10e58d4bcb25</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="http_method" table="http_retry_conditions" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>http_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DELETE</label>
+            <language>en</language>
+            <name>http_retry_conditions</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:29:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26ccd2761b010010b40d10e58d4bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:29:33</sys_updated_on>
+            <value>delete</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>http_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GET</label>
+            <language>en</language>
+            <name>http_retry_conditions</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:29:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22ccd2761b010010b40d10e58d4bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:29:33</sys_updated_on>
+            <value>get</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>http_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PATCH</label>
+            <language>en</language>
+            <name>http_retry_conditions</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:29:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2ccd2761b010010b40d10e58d4bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:29:33</sys_updated_on>
+            <value>patch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>http_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>POST</label>
+            <language>en</language>
+            <name>http_retry_conditions</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:29:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62ccd2761b010010b40d10e58d4bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:29:33</sys_updated_on>
+            <value>post</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>http_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PUT</label>
+            <language>en</language>
+            <name>http_retry_conditions</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:29:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2ccd2761b010010b40d10e58d4bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:29:33</sys_updated_on>
+            <value>put</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>http_method</element>
+            <name>http_retry_conditions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-11-15 04:29:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2accd2761b010010b40d10e58d4bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>http_method</sys_name>
+            <sys_package display_value="Centralized Connection and Credential" source="com.snc.core.automation.connection_credential">e2f9e7a84f1123001a6e28928110c739</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_choice_http_retry_conditions_http_method</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-11-15 04:29:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-01-20 06:01:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>82ba6e8c1ba6489066d6c91e1e4bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>http_method</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_metadata_link_82ba6e8c1ba6489066d6c91e1e4bcb48</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-01-20 06:01:18</sys_updated_on>
+        <tablename>sys_metadata</tablename>
+    </sys_metadata_link>
+</record_update>
