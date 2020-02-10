@@ -7,9 +7,9 @@
         <element label="Calculations" max_length="40" name="calculations" type="boolean"/>
         <element choice="1" label="Caller Type" max_length="100" name="caller_type" type="string">
             <choice>
+                <element inactive_on_update="false" label="LDC" value="ldc"/>
                 <element inactive_on_update="false" label="Applicant" sequence="10" value="applicant"/>
                 <element inactive_on_update="false" label="Applicant Representative" sequence="20" value="applicant representative"/>
-                <element inactive_on_update="false" label="LDC" sequence="30" value="ldc"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Closed" max_length="40" name="closed" type="glide_date_time"/>
@@ -21,7 +21,7 @@
             <choice>
                 <element inactive_on_update="false" label="Phone" sequence="10" value="Phone"/>
                 <element inactive_on_update="false" label="Email" sequence="20" value="Email"/>
-                <element inactive_on_update="false" label="Self-service" sequence="30" value="Self-service"/>
+                <element inactive_on_update="false" label="Self-Service" sequence="30" value="Self-service"/>
                 <element inactive_on_update="false" label="Voicemail" sequence="60" value="Voicemail"/>
             </choice>
         </element>
@@ -163,6 +163,7 @@
         </element>
         <element choice="1" dependent="caller_type" dependent_on_field="caller_type" label="Sector" mandatory="true" max_length="40" name="sector" type="string" use_dependent_field="true">
             <choice>
+                <element inactive_on_update="false" label="Burlington Hydro Inc." value="Burlington Hydro Inc."/>
                 <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Cattle Farm" sequence="10" value="Agricultural - Cattle Farm"/>
                 <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Poultry Farm" sequence="20" value="Agricultural - Poultry Farm"/>
                 <element dependent_value="Applicant" inactive_on_update="false" label="Agricultural - Dairy Farm" sequence="30" value="Agricultural - Dairy Farm"/>
