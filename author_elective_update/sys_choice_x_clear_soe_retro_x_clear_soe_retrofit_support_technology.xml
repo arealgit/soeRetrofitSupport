@@ -5,19 +5,19 @@
             <element>technology</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Lighting</label>
+            <label>Chillers</label>
             <language>en</language>
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sequence>10</sequence>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 16:37:17</sys_created_on>
+            <sys_created_on>2019-12-09 16:37:50</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7777e0fe1b65c01466d6c91e1e4bcb81</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>3b89e4f21ba5c01466d6c91e1e4bcb02</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:37:23</sys_updated_on>
-            <value>Lighting</value>
+            <sys_updated_on>2020-02-13 17:22:21</sys_updated_on>
+            <value>Chillers</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -43,57 +43,57 @@
             <element>technology</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Chillers</label>
+            <label>Control Systems</label>
             <language>en</language>
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sequence>30</sequence>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 16:37:50</sys_created_on>
+            <sys_created_on>2019-12-09 16:39:29</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3b89e4f21ba5c01466d6c91e1e4bcb02</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>8ef9a0361ba5c01466d6c91e1e4bcbab</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:38:05</sys_updated_on>
-            <value>Chillers</value>
+            <sys_updated_on>2020-02-13 17:22:26</sys_updated_on>
+            <value>Control Systems</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>technology</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Motors</label>
+            <label>Fans</label>
             <language>en</language>
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sequence>40</sequence>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 16:38:00</sys_created_on>
+            <sys_created_on>2019-12-09 16:39:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>eca9e0b21ba5c01466d6c91e1e4bcb71</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>2fd920361ba5c01466d6c91e1e4bcb56</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:38:09</sys_updated_on>
-            <value>Motors</value>
+            <sys_updated_on>2020-02-13 17:22:29</sys_updated_on>
+            <value>Fans</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>technology</element>
             <hint/>
             <inactive>false</inactive>
-            <label>VFD's</label>
+            <label>Lighting</label>
             <language>en</language>
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sequence>50</sequence>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 16:38:17</sys_created_on>
+            <sys_created_on>2019-12-09 16:37:17</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8fa968f21ba5c01466d6c91e1e4bcb71</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>7777e0fe1b65c01466d6c91e1e4bcb81</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:38:23</sys_updated_on>
-            <value>VFD's</value>
+            <sys_updated_on>2020-02-13 17:22:32</sys_updated_on>
+            <value>Lighting</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -119,56 +119,18 @@
             <element>technology</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Pumps</label>
-            <language>en</language>
-            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
-            <sequence>70</sequence>
-            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 16:38:51</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>f3c9acfe1b65c01466d6c91e1e4bcb68</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:38:55</sys_updated_on>
-            <value>Pumps</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>technology</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Fans</label>
-            <language>en</language>
-            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
-            <sequence>80</sequence>
-            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 16:39:02</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>2fd920361ba5c01466d6c91e1e4bcb56</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:39:07</sys_updated_on>
-            <value>Fans</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>technology</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>M&amp;T</label>
             <language>en</language>
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
-            <sequence>90</sequence>
+            <sequence>70</sequence>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
             <sys_created_on>2019-12-09 16:39:17</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>52e9e8f21ba5c01466d6c91e1e4bcbda</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:39:22</sys_updated_on>
+            <sys_updated_on>2020-02-13 17:22:35</sys_updated_on>
             <value>M&amp;T</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -176,19 +138,57 @@
             <element>technology</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Control Systems</label>
+            <label>Motors</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>80</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-09 16:38:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eca9e0b21ba5c01466d6c91e1e4bcb71</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-13 17:22:37</sys_updated_on>
+            <value>Motors</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>90</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2019-12-09 16:39:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>451a2cf21ba5c01466d6c91e1e4bcbc2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-13 17:22:41</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pumps</label>
             <language>en</language>
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sequence>100</sequence>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 16:39:29</sys_created_on>
+            <sys_created_on>2019-12-09 16:38:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8ef9a0361ba5c01466d6c91e1e4bcbab</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>f3c9acfe1b65c01466d6c91e1e4bcb68</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:39:32</sys_updated_on>
-            <value>Control Systems</value>
+            <sys_updated_on>2020-02-13 17:22:45</sys_updated_on>
+            <value>Pumps</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -214,19 +214,19 @@
             <element>technology</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Other</label>
+            <label>VFD's</label>
             <language>en</language>
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sequence>120</sequence>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-09 16:39:58</sys_created_on>
+            <sys_created_on>2019-12-09 16:38:17</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>451a2cf21ba5c01466d6c91e1e4bcbc2</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>8fa968f21ba5c01466d6c91e1e4bcb71</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-09 16:40:08</sys_updated_on>
-            <value>Other</value>
+            <sys_updated_on>2020-02-13 17:22:50</sys_updated_on>
+            <value>VFD's</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>technology</element>

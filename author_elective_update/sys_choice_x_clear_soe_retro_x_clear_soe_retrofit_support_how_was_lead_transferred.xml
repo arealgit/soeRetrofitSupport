@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="how_was_lead_transferred" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>how_was_lead_transferred</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warm transfer, vendor answered</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>10</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-14 13:38:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba1345d81b8fcc10f783bb39cd4bcbb2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-14 13:38:40</sys_updated_on>
+            <value>Warm transfer, vendor answered</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>how_was_lead_transferred</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warm transfer, no answer from vendor, agent emailed details</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>20</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-14 13:39:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>502389d81b8fcc10f783bb39cd4bcb4a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-14 13:39:11</sys_updated_on>
+            <value>Warm transfer, no answer from vendor, agent emailed details</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>how_was_lead_transferred</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email to RSS forwarded to vendor</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>30</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-14 13:39:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c4301981b8fcc10f783bb39cd4bcbc9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-14 13:39:27</sys_updated_on>
+            <value>Email to RSS forwarded to vendor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>how_was_lead_transferred</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Voicemail to RSS, ticket emailed to vendor</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>40</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-14 13:39:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f43c1d81b8fcc10f783bb39cd4bcb3b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-14 13:39:47</sys_updated_on>
+            <value>Voicemail to RSS, ticket emailed to vendor</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>how_was_lead_transferred</element>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-14 13:38:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>182349d81b8fcc10f783bb39cd4bcb3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>how_was_lead_transferred</sys_name>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_how_was_lead_transferred</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-14 13:38:36</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

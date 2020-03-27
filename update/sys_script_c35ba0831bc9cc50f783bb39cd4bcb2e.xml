@@ -15,8 +15,7 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_clear_soe_retro_x_clear_soe_retrofit_support">status=3^ORstatus=4^EQ<item display_value="Awaiting User Input" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="3"/>
-            <item display_value="Awaiting Vendor Input" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="4"/>
+        <filter_condition table="x_clear_soe_retro_x_clear_soe_retrofit_support">ticket_status=2^EQ<item display_value="Awaiting Vendor Input" endquery="false" field="ticket_status" goto="false" newquery="false" operator="=" or="false" value="2"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
@@ -42,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c35ba0831bc9cc50f783bb39cd4bcb2e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Set Awaiting Date</sys_name>
         <sys_overrides/>
         <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
@@ -51,7 +50,7 @@
         <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
         <sys_update_name>sys_script_c35ba0831bc9cc50f783bb39cd4bcb2e</sys_update_name>
         <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-        <sys_updated_on>2019-12-09 16:08:59</sys_updated_on>
+        <sys_updated_on>2020-03-03 13:31:16</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

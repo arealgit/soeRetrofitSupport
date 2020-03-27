@@ -1,5 +1,1962 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="DELETE" field="sector" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="sector" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agricultural - Cattle Farm</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>10</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:38:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f24312b61bbe4010f783bb39cd4bcb32</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:38:30</sys_updated_on>
+            <value>Agricultural - Cattle Farm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agricultural - Poultry Farm</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>20</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:38:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be53d2b61bbe4010f783bb39cd4bcb62</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:38:49</sys_updated_on>
+            <value>Agricultural - Poultry Farm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agricultural - Dairy Farm</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>30</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:39:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1973dab61bbe4010f783bb39cd4bcbc8</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:39:08</sys_updated_on>
+            <value>Agricultural - Dairy Farm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agricultural - Swine Farm</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>40</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:39:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e835eb61bbe4010f783bb39cd4bcb3e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:39:27</sys_updated_on>
+            <value>Agricultural - Swine Farm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agricultural - Greenhouse</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>50</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:39:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c39356761bbe4010f783bb39cd4bcb2b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:39:42</sys_updated_on>
+            <value>Agricultural - Greenhouse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agricultural - Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>60</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:39:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fa35ab61bbe4010f783bb39cd4bcb06</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:39:59</sys_updated_on>
+            <value>Agricultural - Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Small Office</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>70</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ab31af61bbe4010f783bb39cd4bcbfc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:40:21</sys_updated_on>
+            <value>Commercial - Small Office</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Large Office</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>80</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cd396f61bbe4010f783bb39cd4bcb49</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:40:40</sys_updated_on>
+            <value>Commercial - Large Office</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Small Retail</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>90</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:40:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bce3daf61bbe4010f783bb39cd4bcb53</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:40:53</sys_updated_on>
+            <value>Commercial - Small Retail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Large Retail</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>100</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:41:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10f31af61bbe4010f783bb39cd4bcbf9</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:41:11</sys_updated_on>
+            <value>Commercial - Large Retail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Hotel</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>110</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:41:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a80456f61bbe4010f783bb39cd4bcbb3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:41:24</sys_updated_on>
+            <value>Commercial - Hotel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Motel</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>120</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:41:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff049ef61bbe4010f783bb39cd4bcbfc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:41:44</sys_updated_on>
+            <value>Commercial - Motel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Food Retail</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>130</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4245af61bbe4010f783bb39cd4bcb06</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:42:02</sys_updated_on>
+            <value>Commercial - Food Retail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Restaurant</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>140</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:42:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f434d23a1bbe4010f783bb39cd4bcbb9</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:42:19</sys_updated_on>
+            <value>Commercial - Restaurant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Warehouse / Wholesale</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>150</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:42:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9544d23a1bbe4010f783bb39cd4bcbbb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:42:34</sys_updated_on>
+            <value>Commercial - Warehouse / Wholesale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Entertainment / Sport</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>160</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:42:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a854d23a1bbe4010f783bb39cd4bcbd3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:42:50</sys_updated_on>
+            <value>Commercial - Entertainment / Sport</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Data Centre</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>170</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:42:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7064563a1bbe4010f783bb39cd4bcbca</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:43:04</sys_updated_on>
+            <value>Commercial - Data Centre</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial - Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>180</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:43:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5074d63a1bbe4010f783bb39cd4bcb96</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:43:18</sys_updated_on>
+            <value>Commercial - Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Administrative Buildings</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>190</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:43:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b745e3a1bbe4010f783bb39cd4bcb89</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:43:41</sys_updated_on>
+            <value>Government / Public Institution - Administrative Buildings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Culture and Tourism</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>200</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:43:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d94d23a1bbe4010f783bb39cd4bcbc3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:43:58</sys_updated_on>
+            <value>Government / Public Institution - Culture and Tourism</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Emergency Services</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>210</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59a4927a1bbe4010f783bb39cd4bcb01</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:44:15</sys_updated_on>
+            <value>Government / Public Institution - Emergency Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Parks and recreation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>220</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:44:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9b4927a1bbe4010f783bb39cd4bcb0f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:44:31</sys_updated_on>
+            <value>Government / Public Institution - Parks and recreation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Public Works</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>230</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:44:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdc4127a1bbe4010f783bb39cd4bcb75</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:44:47</sys_updated_on>
+            <value>Government / Public Institution - Public Works</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Long Term Care Facility</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>240</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:45:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15d4167a1bbe4010f783bb39cd4bcbc7</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:45:06</sys_updated_on>
+            <value>Government / Public Institution - Long Term Care Facility</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Hospital</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>250</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:45:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46e41a7a1bbe4010f783bb39cd4bcb02</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:45:21</sys_updated_on>
+            <value>Government / Public Institution - Hospital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - School (K-12)</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>260</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:45:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5df4127a1bbe4010f783bb39cd4bcb27</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:45:36</sys_updated_on>
+            <value>Government / Public Institution - School (K-12)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - University / College</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>270</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:45:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9505927a1bbe4010f783bb39cd4bcb19</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:45:54</sys_updated_on>
+            <value>Government / Public Institution - University / College</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Place of Worship</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>280</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:46:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9151e3a1bbe4010f783bb39cd4bcb13</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:46:23</sys_updated_on>
+            <value>Government / Public Institution - Place of Worship</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government / Public Institution - Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>290</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:46:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb2592ba1bbe4010f783bb39cd4bcb79</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:46:44</sys_updated_on>
+            <value>Government / Public Institution - Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Industrial / Manufacturing - Iron / Steel</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>300</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:46:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>784512ba1bbe4010f783bb39cd4bcbed</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:47:07</sys_updated_on>
+            <value>Industrial / Manufacturing - Iron / Steel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Industrial / Manufacturing - Food and Beverage</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>310</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:47:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e5512ba1bbe4010f783bb39cd4bcb82</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:47:27</sys_updated_on>
+            <value>Industrial / Manufacturing - Food and Beverage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Industrial / Manufacturing - Pulp and Paper</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>320</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:47:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2765967a1bbe4010f783bb39cd4bcb52</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:47:43</sys_updated_on>
+            <value>Industrial / Manufacturing - Pulp and Paper</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Industrial / Manufacturing - Petroleum / Plastic</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>330</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:47:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5485d6ba1bbe4010f783bb39cd4bcb82</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:48:00</sys_updated_on>
+            <value>Industrial / Manufacturing - Petroleum / Plastic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Industrial / Manufacturing - Industrial Strip Mall / Unit</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>340</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:48:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7859aba1bbe4010f783bb39cd4bcb12</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:48:16</sys_updated_on>
+            <value>Industrial / Manufacturing - Industrial Strip Mall / Unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Industrial / Manufacturing - Mining</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>350</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:48:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ca512ba1bbe4010f783bb39cd4bcb84</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:48:32</sys_updated_on>
+            <value>Industrial / Manufacturing - Mining</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Industrial / Manufacturing - Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>360</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:48:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33a55eba1bbe4010f783bb39cd4bcbab</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:48:47</sys_updated_on>
+            <value>Industrial / Manufacturing - Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Multi-Residential - Condominium</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>370</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:48:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbb5deba1bbe4010f783bb39cd4bcb36</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:49:01</sys_updated_on>
+            <value>Multi-Residential - Condominium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Multi-Residential - Social Housing Provider</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>380</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:49:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbc5d6ba1bbe4010f783bb39cd4bcb5b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:49:15</sys_updated_on>
+            <value>Multi-Residential - Social Housing Provider</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Multi-Residential - Rental Apartment</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>390</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:49:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36d592fa1bbe4010f783bb39cd4bcb84</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:49:30</sys_updated_on>
+            <value>Multi-Residential - Rental Apartment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Multi-Residential - Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>400</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 03:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52e516fa1bbe4010f783bb39cd4bcb69</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 03:49:44</sys_updated_on>
+            <value>Multi-Residential - Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>410</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:14:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d416deba1bbe4010f783bb39cd4bcb5f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:14:15</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lighting</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>420</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:14:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>149b1a321bfe4010f783bb39cd4bcbca</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:14:45</sys_updated_on>
+            <value>Lighting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refrigeration</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>430</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:14:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99ab527a1bfe4010f783bb39cd4bcb37</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:15:01</sys_updated_on>
+            <value>Refrigeration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HVAC</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>440</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:15:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ccb5e3a1bfe4010f783bb39cd4bcb01</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:15:27</sys_updated_on>
+            <value>HVAC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Building Envelope</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>450</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:15:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98dbd2f21bfe4010f783bb39cd4bcbaf</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:15:52</sys_updated_on>
+            <value>Building Envelope</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Metering</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>460</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:16:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>caeb967a1bfe4010f783bb39cd4bcb33</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:16:14</sys_updated_on>
+            <value>Metering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Compressed Air</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>470</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:16:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>250c5a7a1bfe4010f783bb39cd4bcbf3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:16:30</sys_updated_on>
+            <value>Compressed Air</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pumping Systems</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>480</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:16:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f11cda3a1bfe4010f783bb39cd4bcb18</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:17:05</sys_updated_on>
+            <value>Pumping Systems</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Motors and VFD's</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>490</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:17:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d2c9e7a1bfe4010f783bb39cd4bcb76</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:18:52</sys_updated_on>
+            <value>Motors and VFD's</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Building Automation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>500</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:17:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>085cdaba1bfe4010f783bb39cd4bcb10</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:18:52</sys_updated_on>
+            <value>Building Automation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Specialty</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>510</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:17:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>375c9aba1bfe4010f783bb39cd4bcb4a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:18:52</sys_updated_on>
+            <value>Specialty</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Applicant Representative</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>520</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:18:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>936c9aba1bfe4010f783bb39cd4bcb50</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:18:52</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Alectra Utilities</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>530</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:18:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be7cdeba1bfe4010f783bb39cd4bcb4c</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:18:37</sys_updated_on>
+            <value>Alectra Utilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Algoma Power</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>540</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:19:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e8c5e7a1bfe4010f783bb39cd4bcb34</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:20:42</sys_updated_on>
+            <value>Algoma Power</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Atikokan Hydro Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>550</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:19:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fbcdeba1bfe4010f783bb39cd4bcb74</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:20:42</sys_updated_on>
+            <value>Atikokan Hydro Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attawapiskat Power Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>560</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:20:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcdc96fa1bfe4010f783bb39cd4bcb4c</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:20:42</sys_updated_on>
+            <value>Attawapiskat Power Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bluewater Power Distribution Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>570</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:20:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>47ec96fa1bfe4010f783bb39cd4bcb51</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:20:42</sys_updated_on>
+            <value>Bluewater Power Distribution Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brantford Power Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>580</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:20:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3afc5efa1bfe4010f783bb39cd4bcb6a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:20:42</sys_updated_on>
+            <value>Brantford Power Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Burlington Hydro Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>590</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:21:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da4d1efa1bfe4010f783bb39cd4bcb61</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:22:03</sys_updated_on>
+            <value>Burlington Hydro Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Niagara Power Co. Ltd.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>600</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:22:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c5d5efa1bfe4010f783bb39cd4bcb19</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:22:21</sys_updated_on>
+            <value>Canadian Niagara Power Co. Ltd.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Centre Wellington Hydro Ltd.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>610</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:22:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c76d563e1bfe4010f783bb39cd4bcb99</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:22:34</sys_updated_on>
+            <value>Centre Wellington Hydro Ltd.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chapleau Public Utilities Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>620</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:22:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>727d563e1bfe4010f783bb39cd4bcbcd</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:22:54</sys_updated_on>
+            <value>Chapleau Public Utilities Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Co-operative Hydro Embrun</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>630</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:23:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d38d963e1bfe4010f783bb39cd4bcbf2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:23:13</sys_updated_on>
+            <value>Co-operative Hydro Embrun</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cornwall Electric</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>640</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:23:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b9dd27e1bfe4010f783bb39cd4bcbbc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:23:35</sys_updated_on>
+            <value>Cornwall Electric</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E.L.K. Energy Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>650</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:23:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dbd567e1bfe4010f783bb39cd4bcba5</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:23:49</sys_updated_on>
+            <value>E.L.K. Energy Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Energy+ Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>660</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:23:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81cdd67e1bfe4010f783bb39cd4bcb2b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:24:02</sys_updated_on>
+            <value>Energy+ Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Entegrus Powerlines Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>670</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:24:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10dd967e1bfe4010f783bb39cd4bcbab</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:24:15</sys_updated_on>
+            <value>Entegrus Powerlines Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EnWin Utilities Ltd.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>680</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:24:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fdd967e1bfe4010f783bb39cd4bcbab</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:24:29</sys_updated_on>
+            <value>EnWin Utilities Ltd.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPCOR</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>690</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:24:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7eedd2be1bfe4010f783bb39cd4bcb91</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:24:42</sys_updated_on>
+            <value>EPCOR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ERTH Power</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>700</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:24:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2fd9a7e1bfe4010f783bb39cd4bcb98</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:24:55</sys_updated_on>
+            <value>ERTH Power</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Espanola Regional Hydro Distribution Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>710</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:25:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>510e9a7e1bfe4010f783bb39cd4bcb99</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:25:08</sys_updated_on>
+            <value>Espanola Regional Hydro Distribution Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Essex Power Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>720</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:25:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f01e9a7e1bfe4010f783bb39cd4bcb46</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:25:21</sys_updated_on>
+            <value>Essex Power Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Festival Hydro Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>730</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:25:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>771e1abe1bfe4010f783bb39cd4bcb4d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:25:35</sys_updated_on>
+            <value>Festival Hydro Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fort Albany Power Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>740</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:25:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>872e9abe1bfe4010f783bb39cd4bcbd4</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:25:46</sys_updated_on>
+            <value>Fort Albany Power Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fort Frances Power Corp.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>750</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:26:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>863edabe1bfe4010f783bb39cd4bcbe1</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:26:06</sys_updated_on>
+            <value>Fort Frances Power Corp.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Greater Sudbury Hydro</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>760</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:26:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>364edabe1bfe4010f783bb39cd4bcbe2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:26:18</sys_updated_on>
+            <value>Greater Sudbury Hydro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grimsby Power Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>770</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:26:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>395e92be1bfe4010f783bb39cd4bcbad</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:26:31</sys_updated_on>
+            <value>Grimsby Power Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Guelph Hydro</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>780</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:26:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc6e5abe1bfe4010f783bb39cd4bcb9e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:26:47</sys_updated_on>
+            <value>Guelph Hydro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Halton Hills Hydro</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>790</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:27:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c7e9ebe1bfe4010f783bb39cd4bcb55</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:27:08</sys_updated_on>
+            <value>Halton Hills Hydro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hearst Power Distribution Company Limited</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>800</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:27:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f18e92fe1bfe4010f783bb39cd4bcbc1</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:27:25</sys_updated_on>
+            <value>Hearst Power Distribution Company Limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hydro 2000 Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>810</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:27:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d9e5abe1bfe4010f783bb39cd4bcba0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:27:38</sys_updated_on>
+            <value>Hydro 2000 Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hydro Hawkesbury Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>820</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:27:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dae56fe1bfe4010f783bb39cd4bcbda</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:27:53</sys_updated_on>
+            <value>Hydro Hawkesbury Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hydro One Networks</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>830</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:28:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28be5abe1bfe4010f783bb39cd4bcb3e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:28:07</sys_updated_on>
+            <value>Hydro One Networks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hydro Ottawa</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>840</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:28:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33be9efe1bfe4010f783bb39cd4bcba6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:28:23</sys_updated_on>
+            <value>Hydro Ottawa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>InnPower Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>850</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:28:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44dedafe1bfe4010f783bb39cd4bcb7e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:28:38</sys_updated_on>
+            <value>InnPower Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kashechewan Power Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>860</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:28:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fde92321b328010f783bb39cd4bcb6b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:28:52</sys_updated_on>
+            <value>Kashechewan Power Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Utilities Kingston</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>870</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3ee9afe1bfe4010f783bb39cd4bcb39</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:29:06</sys_updated_on>
+            <value>Utilities Kingston</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kitchener-Wilmot Hydro Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>880</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:29:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1afe56321b328010f783bb39cd4bcbd5</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:29:19</sys_updated_on>
+            <value>Kitchener-Wilmot Hydro Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lakefront Utilities Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>890</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:29:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>310f96321b328010f783bb39cd4bcbc4</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:29:33</sys_updated_on>
+            <value>Lakefront Utilities Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lakeland Power Distribution Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>900</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:29:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>811f5a321b328010f783bb39cd4bcb8f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:29:46</sys_updated_on>
+            <value>Lakeland Power Distribution Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London Hydro Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>910</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:29:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d02f9a321b328010f783bb39cd4bcb8c</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:30:04</sys_updated_on>
+            <value>London Hydro Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Midland Power Utility Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>920</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:30:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>803f9a321b328010f783bb39cd4bcb8e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:30:18</sys_updated_on>
+            <value>Midland Power Utility Corporation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Milton Hydro</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>930</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:30:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>884f52721b328010f783bb39cd4bcb7a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:30:32</sys_updated_on>
+            <value>Milton Hydro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Newmarket-Tay Power Distribution Ltd.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>940</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:30:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b34f52721b328010f783bb39cd4bcbba</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:30:47</sys_updated_on>
+            <value>Newmarket-Tay Power Distribution Ltd.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Niagara-on-the-Lake Hydro Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>950</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>075f5a321b328010f783bb39cd4bcbcb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:31:10</sys_updated_on>
+            <value>Niagara-on-the-Lake Hydro Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Niagara Peninsula Energy Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>960</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:31:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b47f52721b328010f783bb39cd4bcb59</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:31:24</sys_updated_on>
+            <value>Niagara Peninsula Energy Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>North Bay Hydro</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>970</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:31:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>377f5e321b328010f783bb39cd4bcbe9</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:31:39</sys_updated_on>
+            <value>North Bay Hydro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Northern Ontario Wires Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>980</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:31:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>278f52721b328010f783bb39cd4bcb5a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:31:53</sys_updated_on>
+            <value>Northern Ontario Wires Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oakville Hydro Electricity Distribution Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>990</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>639fd2721b328010f783bb39cd4bcb72</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:32:05</sys_updated_on>
+            <value>Oakville Hydro Electricity Distribution Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orangeville Hydro</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1000</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:32:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6aaf96721b328010f783bb39cd4bcb35</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:32:18</sys_updated_on>
+            <value>Orangeville Hydro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orillia Power</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1010</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:32:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61bf9e721b328010f783bb39cd4bcbf2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:32:39</sys_updated_on>
+            <value>Orillia Power</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oshawa PUC Networks Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1020</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:32:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05cfd2721b328010f783bb39cd4bcbc8</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:32:53</sys_updated_on>
+            <value>Oshawa PUC Networks Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ottawa River Power Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1030</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9df1e721b328010f783bb39cd4bcbec</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:33:07</sys_updated_on>
+            <value>Ottawa River Power Corporation</value>
+        </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>LDC</dependent_value>
             <element>sector</element>
@@ -10,23 +1967,308 @@
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sequence>1040</sequence>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2019-12-18 04:50:00</sys_created_on>
+            <sys_created_on>2020-02-10 04:33:13</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fbed5ca91bfdc81003d2433fbd4bcb24</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>9def96b21b328010f783bb39cd4bcb54</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2019-12-18 04:51:06</sys_updated_on>
+            <sys_updated_on>2020-02-10 04:33:19</sys_updated_on>
             <value>Peterborough Distribution Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PUC Distribution Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1050</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:33:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0ff12b21b328010f783bb39cd4bcb0b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:33:34</sys_updated_on>
+            <value>PUC Distribution Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Renfrew Hydro</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1060</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:33:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33ff56b21b328010f783bb39cd4bcb9a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:33:50</sys_updated_on>
+            <value>Renfrew Hydro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rideau St. Lawrence Distribution Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1070</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:33:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c1066b21b328010f783bb39cd4bcb9a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:34:03</sys_updated_on>
+            <value>Rideau St. Lawrence Distribution Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sioux Lookout Hydro Electric Commission</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1080</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:34:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f106eb21b328010f783bb39cd4bcb6e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:34:18</sys_updated_on>
+            <value>Sioux Lookout Hydro Electric Commission</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Synergy North</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1090</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:34:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66202ab21b328010f783bb39cd4bcbde</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:34:31</sys_updated_on>
+            <value>Synergy North</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tillsonburg Hydro Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1100</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:34:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca306eb21b328010f783bb39cd4bcb0e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:34:50</sys_updated_on>
+            <value>Tillsonburg Hydro Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Toronto Hydro Electric System</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1110</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:34:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad4066b21b328010f783bb39cd4bcb9f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:35:04</sys_updated_on>
+            <value>Toronto Hydro Electric System</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Veridian</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1120</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:35:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31506eb21b328010f783bb39cd4bcb3c</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:35:19</sys_updated_on>
+            <value>Veridian</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wasaga Distribution Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1130</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:35:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd60aab21b328010f783bb39cd4bcbd3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:35:44</sys_updated_on>
+            <value>Wasaga Distribution Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Waterloo North Hydro</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1140</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:35:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e70aab21b328010f783bb39cd4bcbd4</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:36:01</sys_updated_on>
+            <value>Waterloo North Hydro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Welland Hydro-Electric System Corp</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1150</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:36:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1380a6f21b328010f783bb39cd4bcb90</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:36:17</sys_updated_on>
+            <value>Welland Hydro-Electric System Corp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wellington North Power Inc.</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1160</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:36:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5390aeb21b328010f783bb39cd4bcb16</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:36:32</sys_updated_on>
+            <value>Wellington North Power Inc.</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>West Coast Huron Energy</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1170</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6a0e2f21b328010f783bb39cd4bcb46</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:36:46</sys_updated_on>
+            <value>West Coast Huron Energy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Westario Power</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1180</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:36:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6b0aef21b328010f783bb39cd4bcbcc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:36:58</sys_updated_on>
+            <value>Westario Power</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>LDC</dependent_value>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Whitby Hydro Electric Corporation</label>
+            <language>en</language>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <sequence>1190</sequence>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-02-10 04:37:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31c0a6f21b328010f783bb39cd4bcb96</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-02-10 04:37:11</sys_updated_on>
+            <value>Whitby Hydro Electric Corporation</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>sector</element>
             <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2020-01-19 23:29:01</sys_created_on>
+            <sys_created_on>2020-02-10 03:38:14</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>33e011001bea089066d6c91e1e4bcb57</sys_id>
+            <sys_id>3a535ab61bbe4010f783bb39cd4bcb9d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sector</sys_name>
             <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
@@ -35,54 +2277,7 @@
             <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
             <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector</sys_update_name>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2020-01-19 23:29:01</sys_updated_on>
+            <sys_updated_on>2020-02-10 03:38:14</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
-    <sys_update_version action="INSERT_OR_UPDATE">
-        <action>DELETE</action>
-        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
-        <file_path/>
-        <instance_id>687a55f16f4ff9004c327b2f5d3ee4e6</instance_id>
-        <instance_name>clrdev</instance_name>
-        <name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector</name>
-        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="sector" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value>LDC</dependent_value><element>sector</element><hint/><inactive>false</inactive><label>Peterborough Distribution Inc.</label><language>en</language><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sequence>1040</sequence><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-18 04:50:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fbed5ca91bfdc81003d2433fbd4bcb24</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-18 04:51:06</sys_updated_on><value>Peterborough Distribution Inc.</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>sector</element><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-01-19 23:29:01</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>33e011001bea089066d6c91e1e4bcb57</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sector</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-01-19 23:29:01</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
-        <payload_hash>1631299772</payload_hash>
-        <record_name>SOE Retrofit Support Cases.Sector</record_name>
-        <reverted_from/>
-        <source>2657257f1b494810b40d10e58d4bcb09</source>
-        <source_table>sys_update_set</source_table>
-        <state>previous</state>
-        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-        <sys_created_on>2020-02-10 03:37:54</sys_created_on>
-        <sys_id>71435ab61bbe4010f783bb39cd4bcb96</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_recorded_at>1702d2cc7350000001</sys_recorded_at>
-        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-        <sys_updated_on>2020-02-10 03:37:54</sys_updated_on>
-        <type>Choice list</type>
-        <update_guid>39435ab60bbe4010b9e15ca325d16d95</update_guid>
-        <update_guid_history>39435ab60bbe4010b9e15ca325d16d95:1631299772,b5435ab686be40109c5cb13db3246b91:-1471513264,35435ab6d0be4010e77c599ae5c9b98d:-322300200,b1435ab623be40107a94f429334ddd89:1490044306,31435ab6cbbe4010463fab763a7b3985:-1347201448,bd435ab6fdbe4010c8a4914663c6b180:578557486,3d435ab63cbe4010721e60bc9544597c:19967763,b9435ab654be40103f25de2e74de4678:-1351283766,39435ab6dfbe40102e21e8e314a05b74:-167914617,b5435ab65ebe40108980e76570901f70:1024007805,35435ab6e0be40100fdf5a27ada0b46c:75516941,b1435ab639be401067cdeb3e46428368:959709891,31435ab6cabe4010beabcdc8156fee64:1428815785,bd435ab6d8be40106cab1ecb487bee5f:-1736335361,3d435ab675be40100b5b7085e193875b:-1941161204,b9435ab6f5be401060bba5159d33f057:-1278164485,39435ab6f7be401095d5934775d4cf53:1482541916,a5435ab6febe4010eefcbdd747bbcc4f:1634629707,2533d6b6d1be40100eb8e03700973c3a:1041065804,a133d6b69abe4010f461ddb425697136:-533739339,6933d6b692be4010d22622d4c3340f25:-2095417944,e533d6b6dcbe4010c0f4598325950121:-152983861,5533d6b658be40107bb91a1d5a72511d:62097831,d133d6b646be4010c6f68320182dae19:-2042524567,5133d6b612be40102aa0668fcb5ee215:2031128705,dd33d6b642be40103f1e6d484c0a1d10:134146938,5d33d6b6e9be4010ca1f309294af900c:390821320,d933d6b670be401005bceb0ae717fc08:169340296,5933d6b6ecbe40102137aabba927e504:1390405662,113396b674be4010f4c5fc5cb1fa22f4:-2118582961,9d3396b6fcbe401083d04fcb7e856aef:-692861525,1d3396b60fbe4010d16d42a40027e8eb:57820100,1d3396b6f1be401093369ae4d890dece:-1970659964,993396b66fbe40108741d986e22b71ca:-177122005,193396b628be4010cfa837cf029462c6:-1450189907,dd3396b660be4010a960d6e894df57b5:1773638018,5d3396b6d6be4010e918dc2cf77402b1:1910541117,d93396b679be4010ab4d1a6e07ff47ad:231345251,493396b6cabe401077599af1839750a9:54210678,c53396b61fbe401084f99c6013e1e4a5:-1898421077,453396b65bbe40108d5493a8927be8a1:-528229363,0d3396b665be4010482d60766acdd490:-40144156,893396b62fbe4010ed1d092fd1a44d8c:-641259876,093396b64dbe4010a213c043a2a9da88:1094018216,853396b61bbe40102eb220e40f0cb284:-671177674,053396b67bbe40104390ec73f11c2e80:-1192009094,813396b613be4010189a027ce479c27c:1769827197,493396b62cbe4010ed3ee7908ae26a6b:426755485,c53396b616be4010493bfbdef116fa67:675207580,453396b622be40102a53f8d329c8be63:1421077627,c13396b625be401083670f6eea528c5f:-1208790050,703396b696be4010b3e06b59078ede5b:125544321,fc3396b62ebe40106c0980d9185dec56:632545059,7c3396b627be40105a8c4e03ee211252:1852811175,f83396b6fdbe4010ad5c99fe0e50d54e:-421610431,783396b6cabe4010b1bbc4bb7529d34a:228845664,f43396b62cbe401005ba673ea1d56446:1418092708,743396b6bbbe4010717e26e9e433b342:384187397,f03396b613be401014a52b2d57a54a3e:1447370463,703396b66bbe4010459a9d03bb28d43a:-1707115227,fc3396b6babe401090f10ac98d46bc35:138125578,7c3396b672be4010ec963a6efebbfe31:-954264638,f83396b6c5be401034923d5d62b4552d:-2082674838,683396b67ebe4010fbb44f085f5f6d29:-373315570,e43396b668be4010acb3e18fd41a5125:1862110869,643396b644be40103adde3e342b98f21:816676601,e03396b654be40109bc54929b05a721d:412989622,603396b66fbe4010439c53a02d57f819:1564181255,ec3396b6aabe4010b65898973659fd14:-2024153468,6c3396b68fbe4010d638bcda05dde010:-2118680158,e83396b6e6be4010b725e86fdc7a4d0c:1311148799,a03356b60bbe4010b8cf53ff80ece2fc:1164350366,203356b6d6be40104c3b878f2160fdf8:-887136194,ac3356b612be401060053e11ad7f7ef3:-268385185,103356b684be401016c985341ef741be:-402434952,9c3356b686be4010b947a866bad007b9:-252847912,1c3356b62abe4010da2b380a71bdbcb5:-109355111,543356b6f2be401044ced1b1221ed38c:1716457024,d03356b61dbe40103400a8e0abdec988:-515730185,503356b676be4010d347fca15a518084:660293066,dc3356b6c3be4010df1a241f9acee57f:1348663479,5c3356b6b8be4010105b21e497577c7b:1709450233,d83356b680be40108f77db1410a98277:-1407460209,903356b6d5be4010942f99aca2431b67:1827855212,103356b6a6be4010e85de4eb13e31563:-716862923,8c3356b64fbe401031bb8530419ac35e:-825602842,0c3356b664be4010951388a19c69d65a:1744295398,883356b601be40107999288f03d42256:-492087186,083356b6b9be4010635de3f2bf528552:-1765827002,843356b609be4010253c98766070754e:782600921,043356b662be4010e3e838a29cd8524a:289252979,803356b6bebe4010ff8c12bf3ef02146:-967060591,483356b6c9be4010ecc5bafb3f1ed235:-2131712794,c43356b69abe40108964d3b743dfbc31:39820481,443356b6f8be4010f7427475e8b1702d:166690201,f32356b631be40108539f0dfd19ba329:-1442837301,732356b685be4010d2c5c2f365919825:-14816143,ff2356b61abe4010bb17a03184576520:9743383,7f2356b687be40104fdbb6ad2b7dac1c:253363997,fb2356b6e5be4010c7fb2ecfbd2e3518:2071179184,7b2356b680be4010d27f951d96bc2214:-1803679810,772356b606be40105952a87deaa3ca10:913354327,732356b654be40104785781431a8720c:-111539988,7f2356b6c9be4010148c43dc0b0e4107:1448792139,6b2356b632be40104a58acde13b23b03:-1349971910,672316b63fbe4010cf6f455438da58ff:-1048801602,632316b689be40108d5243e690d08dfb:716319794,6f2316b62fbe401008cdd941349263f6:1557436573,6b2316b6f6be4010b6398106628efef2:458254026,672316b608be40109ce210daf824c9ee:-1225808853,632316b634be40109fb89069a9c529ea:1320400121,6f2316b6cdbe401011fd4bd4bbc4f6e5:1249573313,6b2316b60abe40103d9c8233b3056ae1:-1969121663,932316b646be4010ca42e9243b25e09f:1151053214,9f2316b694be4010ccdbb815c509309a:-610267008,9b2316b669be401066d8db23ec554a96:-462097314,572316b649be40103e68d3af067e9e3b:-1883168041,932316b62ebe401044e1423ae3e10237:1240610945,61e0ddcc0daa089077f1f1cc5866611e:1751030387,25e0ddccecaa0890aa80ae6627014d06:1631299772,21e0ddcc0baa089056a123faa92a5a03:-1917347716,2de09dcc2daa0890972f08333d60d8ff:-1314795337,e5e09dccfaaa089096a7a14bd8ad52f8:-1392999636,55e09dcc36aa08902953eb1b71a468cc:1895752899,51e09dcc47aa0890c5fab4f2d5ae07c9:1883479147,5de09dcc44aa08905cd9bae04b4684c5:1544408847,55e09dccdfaa0890b628c2b86e4388bf:-542724034,91e09dcc28aa0890fa0806eb3cd316a6:1367063163,91e09dccb4aa08905e0fdb59e0214499:-1247040978,9de09dcc88aa089027f38b0fd36fef95:1266270510,81e09dcc4daa0890e42b0eeb7a55bd8c:-1359745023,8de09dcc23aa08907fc89952a3011b88:-2057362913,0de09dcc8daa089017f8e16e588cd456:-717809932,09e09dccaeaa08901a80567161b98353:-684903383,05e09dcc30aa0890b67fbd9ef332c350:-2028373263,01e09dccdeaa08909a80c95c0e3d0e4d:1600571313,09e09dcc3daa0890c1097c0b7b537046:206924051,62c099cc70aa0890a6e553d0f1f599ab:467767529,6ec099cc3daa08904bcd6304769826a7:-1882584512,6ac099cca7aa0890f4562f2307b07ba4:-2132646611,66c099ccbcaa089092adbbadf21a34a1:2090381887,62c099cc97aa08902d07523e7be6ca9e:-1774084868,6ec099cc52aa08902198588a1b2b469a:-469514848,6ac099cc44aa0890f73297305ab9e397:800685982,66c099cc93aa0890c606a0269d89a094:-476130378,62c099cc8faa0890f1010abebd3efa91:-557668558,6ec099ccf0aa089018349e2b6a70908d:694078635,6ac099cc27aa08901abe5512be6d668a:-248875591,66c099cc04aa08900390a9277fd2c087:80060921,62c099cca1aa089040c603046b2bea84:811008847,6ec099cca9aa089079204dc1e9bacf80:-664900066,6ac099cce3aa0890789b7004f646417d:-1928578694,56c099cc1daa089051bee81401e6707a:111139888,52c099cc53aa08908ae52f4e4055f577:999744873,5ec099cc3aaa0890a48dff4f73037973:-1471009930,5ac099cc0aaa0890828374f2028ac970:-1684016968,56c099cca4aa089041a2e9f307cc556d:1190476493,52c099ccf6aa089029a722e8d9fcf26a:570642547,5ec099cc42aa0890c763dc284fefb566:-932743040,5ac099ccf5aa089042e82812f6cfe463:1327214814,56c099cc1aaa08900102ce9a8e752360:967646604,52c099ccc0aa089086346fe72cdaf15d:-1617738118,5ec099cc46aa0890d77a152926ec6a59:75796018,5ac099ccffaa0890e3383ffdc274b456:1235601062,56c099cc23aa08903c45499fa8325053:-755179170,52c099cc12aa08904c03132a3a22eb50:-1096157960,dec099cce3aa0890022ab897edc77d33:168678715,dac099cc45aa0890a5917a7b05aa1a30:-29834138,c6c099ccb4aa089051cee48f3b968e2d:1758563590,c2c099ccfaaa0890d94ed86128d8362a:1578680197,cec099ccfbaa089006164381b53d3426:1687812580,cac099ccdeaa0890f64085926cf3ca23:349864865,c6c099cc79aa0890ff2f2d7a3f625320:1612672196,c2c099cc17aa0890ce4a0ce34213861d:-707088026,cec099cc85aa0890334420219c745419:173121080,cac099cc75aa089057c9cb9fd7e61c16:-1393531298,c6c099cc33aa089097a99ddc57912413:1390607903,c2c099cca0aa08908ab5481c01992210:1820877923,cec099cc8aaa089019dceaece80b330c:-863723964,cac099cc4aaa089056ddd81342468309:-1251739094,c6c099ccb4aa0890a773914fef878606:-853471341,0ec059cc5daa0890ac69f898fc70def6:-903349591,39c059cc2aaa0890374a1f97901e66f3:-394996594,35c059cc2faa0890737628d1be75b6f0:-833669290,31c059cce6aa0890bf24c4868e75efed:-1576804741,75c059ccacaa0890a488b95c62e6d1dd:1188593161,71c059cc95aa08901d39183001fa63da:1607185253,7dc059cc8baa08902ed735e4c3610bd6:-870342604,79c059ccc4aa08904f9582c302d2e5d3:1116025910,bdc059cc7daa0890f160f58e55b6d0c3:-2010657293,b9c059cc12aa08902aa881f1a61ebfc0:1657497489,b5c059cc5aaa0890f5907b89f75506bd:1668438975,b1c059cc5eaa0890c5d376548270edba:-1471648674,79c059cc56aa089024a8398a856d2191:-2017998817,65c059ccfbaa0890fdb9c6441578d08e:1629667455,61c059cc2baa08905a5986513d352d8b:1901100862,6dc059ccd9aa0890b22dfbd1118e6d87:1629341125,69c059cc4faa0890aa23fe0022058884:-209475867,65c059ccbeaa0890f7ef73face835c81:-1132075644,61c059cc20aa0890da25d112dcd3067e:18023165,6dc059cc6daa0890a512ae22b7ac0a7a:-1223163738,69c059cc16aa0890f41cb203cde54c77:1956650995,65c059ccddaa0890b7d003f53d0c7774:-2117547535,61c059ccf2aa0890f641e8c593edf571:262977221,6dc059cc66aa08901e75f96719fc396d:-705711513,59c059ccedaa0890b2c9ff8b3229e16a:788164100,55c059ccefaa0890ac74f08168eaf767:744163789,51c059cc9daa08905605c8161f155364:-1528643928,5dc059cce9aa0890ff924893012a8160:1783936800,59c059cc19aa08905d2e784652ab355d:-2103220158,55c059ccaeaa08902620f46318ce095a:1329280426,51c059cca6aa089044eee5786ef9ee57:-2104496176,ddc059cc60aa0890db95a7077cd9183a:1870026453,d9c059cc58aa08905164b02060f5eb37:916724477,d5c059cce5aa08907caa7354ade96d34:-1064706293,d1c059cc2caa0890f0560aed5613e931:-311570048,41c059cc23aa0890ca9b7ea6e2101d15:-117526426,4dc059cc6baa0890ef6f0f2e1ce04211:218542156,49c059cc07aa0890b84f667e9894eb0e:856673490,45c059cc5aaa0890f72243c17672bb0b:127138267,cdc059cc77aa08905292c04991df8a07:-2032623063,49c059ccc8aa089017812eb489f8c004:-903580478,c1c059ccfaaa08907772f66b1054ed01:446261911,4dc019cc40aa08903f300b755b1c50fd:540710454,c5c019cce7aa08902c1b76079bc95efa:2137798629,70c019cc97aa089038c6a003d0c3e8f7:865783161,f8c019cc2daa089056bedcfeedcb8df3:696606830,b0c019cc93aa0890a7ec0bf16cb40eb2:-295028294,3cc019cc03aa08903d099cce2d097cae:432547693,b4c019ccc9aa08906a01fe594f3372ab:1866637228,30c019cc02aa0890dce514786d44a8a8:999618078,b8c019ccb3aa089064e1f9586d29eea4:-486131687,34c019cc22aa08903b37e2aec68894a1:675386934,bcc019cc90aa08909d487dde77ba109d:301601432,e0c019cc34aa089032886c4033ae1775:2092354703,6cc019cc90aa0890e146de947da5a671:-1194635018,60c019cc11aa0890cfed08afc0a0ea6e:1151879881,d8a1246919310c10d6569959eaf8e64b:1751030387,b04e98e9e9fdc81012429e4061bc191c:862198802,384e98e901fdc810ab2d7f6bd29aa218:-2118748646,bc4e98e9ccfdc810674c74f22b9c4c14:1917440871,344e98e9dffdc8102988c59813bcd811:2139209481,f04e98e974fdc810d90fe2d581ae9101:1921418790,684e58e922fdc81049aa1e50f73b0efd:1177002346,ec4e58e99bfdc81047a0ac91bf1d40f9:862767847,644e58e954fdc810768c3e956c787ef6:729353867,e84e58e9d1fdc810d9e94c703a3ec3f2:698396600,604e58e976fdc810a1f68f20007ec9ef:-1539343333,e44e58e9f1fdc810e179b46682a205eb:-102545223,6c4e58e954fdc81025ff4c469b8f6ce7:738957137,e04e58e92ffdc8106266648f74b209e4:-475043583,584e58e950fdc810443a0a8241d673e0:27883758,184e58e93cfdc8101529326eaea913d0:148086198,9c4e58e9b9fdc810634d6855c6bf61cc:214308759,144e58e9d1fdc81091dca17ae04e1fc9:-1177224386,d04e18e918fdc810c1887eea056b42f2:-1834687660,584e18e991fdc81023ac7e0c155f9fee:-539057770,ce3e18e951fdc810e8c2298ccb1c13b6:1051432679,823e18e944fdc81020245a5588f8d98e:-563908699,8a3e18e976fdc8109c302c9abb15538a:-1958985552,823e18e9c4fdc810a4d4976d39e45487:-1776785960,8a3e18e9b5fdc8103c21e446b096cf83:17817013,823e18e952fdc8103cae738b4d4cee80:1839387195,b93e18e90cfdc810fa7e12946c4b597c:-217475598,b13e18e9a9fdc810041c965a806abc79:-1174929134,b93e18e94cfdc81020e45684e33f0575:-403411537,b13e18e98afdc8104dc4bdf3b6cd8472:-1080174995,b93e18e931fdc8102de0690da7e7716e:1323135367,b13e18e9b5fdc810995785d53661f96b:-323280474,3d3e18e9b1fdc810ef953075e323a74e:64075783,253e18e951fdc810747e4bf5624b6f4b:700538887,2d3e18e9d2fdc8109c205c2d69e6e347:-1534804622,253e18e911fdc810c298605c4c76bd44:2088368777,2d3e18e955fdc810ce78b3a9c95ad340:-804079096,253e18e919fdc8109d6ca9a68b7da33d:-107205919,2d3e18e9fbfdc810991af483044c8839:-2067307,293e18e9a6fdc8103213af4ffcdf3404:1295480376,213e18e98dfdc810e908f07a56f6c701:1405690062,293ed4e95efdc81039442abe0da4befd:-114151054,593ed4e92bfdc81011e715bad3e895ed:-1745345140,513ed4e9fcfdc810eab76bce157ef2ea:-1437603827,593ed4e934fdc81025b91e74b00aa3e6:512435642,513ed4e955fdc8109b385db7562f82e3:-1470147210,913ed4e9d0fdc8104fdaa04db5e9f0d3:891361940,993ed4e9edfdc8107ee3bed512bf4ecf:-1265636563,913ed4e9bcfdc810bc0375ee8ddd50cc:-1045016749,993ed4e9c0fdc8108e3749c2c792e8c8:-23358418,913ed4e96efdc8107b9b7eaf9be412c5:-1250769004,993ed4e91afdc810f9ccbcbca9d465c1:2139063095,813ed4e931fdc810eff23eb1326ddfbe:1284846047,893ed4e9f1fdc810485c74065b5bc4ba:704008643,813ed4e9c7fdc8104b6210cb7c80b5b7:2074098808,893ed4e9c5fdc81086e4395823003ab3:-2100520768,813ed4e925fdc810c429e6c9f77f48b0:-726328851,893ed4e9ddfdc81006cea7e8adaa4cac:-1903681777,813ed4e942fdc810874939d8e848a0a9:2027154002,893ed4e9bafdc810eb9e805343b346a5:1260863928,4d3ed4e983fdc810c2cac1f1cf25eb7c:73863132,453ed4e983fdc810516878a4da58c679:635566646,7c3ed4e92ffdc810b95e3ff4e4e99a75:-720234843,743ed4e979fdc81073622876796f0172:393851289,b43ed4e9dbfdc81073a054e3e8d71262:1725033526,bc3ed4e965fdc81093484cb9ffffdb5e:1178994600,b43ed4e9e0fdc8103b0da77d9a450b5b:-952068057,f43ed4e907fdc810d6fd85e125f0324b:-646109585,fc3ed4e9c4fdc81040d00488e1777247:569731452,f43ed4e9aefdc810a50e08ce80f34944:1543436855,fc3ed4e9f3fdc8108237d5b42095fc40:-1824658471,f43ed4e931fdc810e6adc7265a86553d:479023190,fc3ed4e9adfdc810447a01a9808aaf39:669761598,e43ed4e942fdc810a353014253914536:-200924540,ec3ed4e90efdc8103bbb964a4c2a8d32:-904355331,e43ed4e96bfdc8109677976351a8462f:34007706,ec3ed4e9edfdc8108e324924317d7b2b:1711025988,e43ed4e978fdc810015c1832f2e27f28:-269379325,ec3ed4e963fdc810590cbfb937619224:887396067,e43ed4e9acfdc810087433c18d229b21:-1984099356,ec3ed4e93afdc810eaf0b47da4f09f1d:701976790,203ed4e931fdc810e4d5ad8abe29a90e:-2073265329,283ed4e959fdc81056c5d6ac5927730a:1710917800,203ed4e98cfdc810c4ac10954bf3ac07:-581716920,283ed4e908fdc810d87e4737ab257b03:786453071,d83e94e95cfdc810cbd351cb6795c7da:1529865245,d03e94e928fdc810463dd36a25bdf0d7:1570852508,d83e94e9a2fdc81010b11b2054741ed3:2023087994,d03e94e919fdc810461a7a6bb0b93cd0:2119890113,d83e94e9d9fdc810137eb41ff85407cc:-1962242608,d03e94e920fdc81006a8d313ce3020c9:1501461436,d83e94e91cfdc810ebfb01a1458497c5:308794510,d03e94e908fdc810b6c1bc91b8b883c2:-103742448,d83e94e946fdc810c5fa96ed9e2d98be:1541996354,d03e94e9fbfdc810b3e3738b05b7f8bb:1378643840,d83e94e918fdc8105d0c6cbe78dd24b7:-191260250,d03e94e937fdc8105644ce9f1abeacb4:261926571,d83e94e928fdc81075a4fd33609b74b0:1880635518,c03e94e99bfdc810b60454129f23d3ad:-242439691,c83e94e918fdc810390bb485ddb9bba9:799490907,c03e94e938fdc8109b389bad427126a6:749263598,c83e94e9d6fdc810703c4c434fe05da2:-362833075,c03e94e957fdc81057fafc17bed5049f:-1778077555,c83e94e907fdc8102fd16657063a699b:363624536,c03e94e9f2fdc810c25b1a18ef71c098:2111254970,c83e94e938fdc810aa33c86eb0668b94:1932437778,c03e94e97afdc81034914a787c9f5191:-965814785,c83e94e966fdc8104a0af5135542688d:867314744,c03e94e940fdc810ec802aeb8bf2dc8a:1035510881,c83e94e98ffdc81039e2a4e0beba0986:-1650870773,c03e94e9cbfdc810e1676a8c32e70e83:1090394614,c83e94e922fdc810a6409f4f8a497a7f:1685719890,f32e94e96cfdc810b56d85cc6c259d7c:1670447965,fb2e94e909fdc810c9d8d220df8b5178:-1090643717,f32e94e90cfdc8109d51f8a9e6414775:993062416,fb2e94e9d6fdc8101b6a60aa4a018d71:50257093,f32e94e961fdc8108912c053f8d2806e:1748533710,fb2e14e979fdc81075b719574bfa03dc:-1223792782,f32e14e9fafdc810b857870f215136d9:-1505286912,bb2e14e906fdc8104eadfb05066359d5:704247768,e0ad14a9bffdc810577e93953a7cd97e:1751030387,acad14a95afdc810c223ee91ed3fe97a:-649491689,28ad14a99cfdc8100ce8613bd7036e77:166017642,a0ad14a914fdc81020519ec0b4267474:-1400024236,2cad14a96cfdc8105907399f70709770:-652169923,a4ad14a960fdc81037a01ba398c5896d:-6926312,20ad14a9c0fdc81086289d6585825a6a:-801272994,a8ad14a983fdc810498701f325033066:-1206799839,ecad14a9ebfdc810be6a354c55e5af3d:-1769965197,68ad14a9bafdc8107ba411dd80a8533a:-853418573,e0ad14a971fdc81021edeaab52df6437:-1825015659,6cad14a9aafdc810f61200fa9f7ff133:1644698314,e4ad14a975fdc81001573d1e3f4c9930:389088301,60ad14a9d1fdc810f828666db6b40f2d:-1612094262,e8ad14a92bfdc8107563ee0cb0b82429:-1803945139,64ad14a945fdc810b99996e644d60d26:-983206044,ecad14a991fdc810395980073e5ee322:2049484441,68ad14a968fdc810ec3f0ff32c29011f:-1489701049,d0ad14a94efdc810d5d7999fc652b51c:-576718653,a19d90a91cfdc810ef632735be7516ea:-1590487111,2d9d90a94dfdc8107a42c4523edac8e6:959227908,ed9d90a956fdc810fd8320e306a1cad6:-846146296,599d90a9b2fdc810ff502971fcad8bd3:304357168,d19d90a955fdc81033900f4c751a49d0:-890606938,5d9d90a93efdc810bf3f3871d2dd18cc:397446687,d59d90a91cfdc810ba547a49ca46aac9:1152985700,519d90a9fefdc810ce43b2b3462b79c6:-1383804203,d99d90a91cfdc810b39e2d81c7f3bbc2:-961233970,559d90a9a6fdc81076403dfa817f7ebf:-1004497772,dd9d90a9a9fdc81051c7b5c299747dbb:1498121688,599d90a902fdc810d33c80a6fe7f2ab8:-810108009,d19d90a964fdc810da34e69c350ab4b5:1271526683,959d90a967fdc8103872495df17773a5:-1716859779,119d90a9b0fdc8105b27679b79b0aaa2:1741349057,999d90a921fdc810b8c62858ad98159e:-1563389515,159d90a920fdc8101295d154c5c30c9b:-326916162,599d90a9e7fdc8108e28e14e58035e72:-1820385791,d19d90a9e8fdc8103249f44ed6d2c96f:1584026362,4d9d90a94bfdc810f2e373eef7ffd86b:2089836769,c59d90a9d8fdc810b72adab4f308e768:245663716,419d90a9e2fdc81007bd41b18f6cd265:-1430563935,c99d90a951fdc810aec1bec683505461:1095340624,459d90a9cbfdc810d4a4d0df3488ce5e:-280467313,cd9d90a9e6fdc810c7deb0618347915a:1656153444,499d90a99cfdc8107ba4fd1ef3225e57:-1583436549,c19d90a91efdc81053f84c6f15119d54:241111701,4d9d90a993fdc810c734b68ac0c6ed50:-601452274,c59d90a95bfdc8109e4057d1fc417c4d:-306479310,419d90a967fdc810d2f8cf43769d6c4a:-1801585910,c99d90a994fdc810cc5190c362155f46:-1991942800,459d90a927fdc810f9ded137d99ccc43:-1269459222,709d90a904fdc810e4cfc76f57eff227:-477876245,f89d90a92bfdc81022770ef3e254f723:1813650703,749d90a9dafdc81007d75d934c950120:2049978270,b89d50a921fdc81017867b0e6b15d9f7:-277631315,349d50a93ffdc81099e0006b3b740ff4:-63534847,bc9d50a9a6fdc810ad3e03bdd15b5bf0:705837661,389d50a91ffdc810f1548fd78267d5ed:-1776568645,b09d50a912fdc810768a891190ef8aea:147500012,3c9d50a9affdc810cbfaf780752ca5e6:-1376253303,b49d50a952fdc810d253324dafd325e3:1517203872,309d50a9affdc8109619d2ad9cdb0de0:2122971348,649d50a9a7fdc810308e91b8606fd6b7:1366534539,ec9d50a978fdc8100e923e963a7026b3:-1339228218,689d50a965fdc810e3226980267870b0:403629286,e09d50a990fdc8104cc010372939bead:-1425928245,6c9d50a921fdc8100f577e328141e7a9:549525167,e49d50a919fdc810194c08a65e1019a6:176021624,609d50a936fdc810d4317ff90ddadda3:-1554174610,e89d50a9e7fdc810a1a5cec29fc7089f:1102400632,649d50a94efdc8107c7e1fe581a4879c:354774574,ec9d50a956fdc81037b2e0e066c68298:206850232,689d50a9d5fdc81021ecf321ffd4ad95:299517871,1c9d50a9d7fdc810c14c5efe403cf985:55437448,949d50a938fdc81052df5c74960c4782:-1745845250,109d50a93afdc8104d1af6c11cbdd87f:429575772,989d50a99cfdc81049d441960b3ba07b:545570756,149d50a9c4fdc8106284c5f14ed21778:-1628656183,9c9d50a95cfdc810f1f13ec15a3b5274:1916254499,189d50a93ffdc8107968fe16cc416671:-1836189352,909d50a95ffdc810e3cd52385e37ee6e:1190471006,1c9d50a96bfdc810a2e024c87b8a8e6a:-774267885,949d50a922fdc810bbc9d88e07e0bf67:674118815,009d50a9e4fdc81052a524bd5ec4da64:-48688547,c09d50a9ebfdc8102f3df05cbdb59e54:650969624,4c9d50a988fdc810c7c099938b530850:-328366792,c49d50a97bfdc81067487f4e04345a4d:-442271975,409d50a954fdc810264933144435274a:-1437750658,c89d50a9e8fdc810a161ecb1d62df546:-266267028,449d50a9d4fdc81094e5b3be680f0d43:132558526,cc9d50a912fdc8101f58164f8e17883f:-748525080,489d50a998fdc8105e30c1044f41d23c:1399380876,f38d50a911fdc810e469ab062c4bbc39:1355043890,7f8d50a99cfdc81092c70870d5ba4535:126004702,f78d50a9a5fdc8104cef52a68476b132:1636407872,738d50a9c0fdc81064b43587d11b652f:1345787781,fb8d50a9a6fdc81072c9b21ed7fb4a2b:-1069012048,778d50a932fdc8102b2b0c8e9a0f2828:-146698640,ff8d50a976fdc810880a99d0272d6d24:-735824331,7b8d50a96cfdc810c33c97e5761b1621:217345373,f38d50a90efdc8104001e0ad66d27d1e:-4076864,6f8d50a91dfdc810420c0972b9930c1a:-1082089833,a38d10a929fdc810c3450ddfa1f7ebd9:-806184404,ab8d10a907fdc810b5785297ead02bd5:1131220387,a38d10a94afdc8105dffffc1bb925ad2:-1280844151,ab8d10a970fdc810f5b7b6a8b83574ce:-757994303,eb8d10a914fdc810cf88e019935fc0be:-532667457,e38d10a955fdc81083f6245ea667b4bb:1074679351,eb8d10a9b5fdc810b069758a5ca95ab7:-5435186,1f8d10a944fdc8103291214371bc7da7:-419639891,178d10a9a9fdc8105fcedc9637b50da4:57706140,1f8d10a9f4fdc81013e03478e0e733a0:-936824230,178d10a9effdc8102b7f85f8b585aa9d:1367100161,1f8d10a9d1fdc810eb778d9aa1a4a999:413325179,178d10a99dfdc810f9fd33106486fa96:277599732,1f8d10a99bfdc810f6d3cca7a66e8792:-1255609428,078d10a9a8fdc8101a56b7c9b6b5be8f:252276659,cb8d10a997fdc81077c4c02486b1ed8b:-77723057,038d10a9acfdc810b8facb226d6dc888:-552291156,53bb18e185fdc8106eff3c197ba3aa13:-1216260322,53bb18e1d4fdc810c0b30a747c952e0f:614790353,9bbbd4e140fdc8109064bdb3304659fe:381235539,9bbbd4e17cfdc810e209f482e387eefa:-935042912,9bbbd4e1a7fdc81014d446bc9f1fcef6:216893234,8bbbd4e15dfdc810e8405c532567c5f2:1747017889,8bbbd4e15bfdc810aaedd08d4b2a3aee:-72371373,8bbbd4e173fdc810c73da44787a7f8ea:-1118466974,8bbbd4e15afdc8102c3e183b2fd9dce6:-932968148,8bbbd4e173fdc810b82a92b83de547e2:615797674,8bbbd4e1abfdc810f8cbbe86ec6eb3de:740151501,47bbd4e159fdc810d0f49b9c49d88fb5:-80330944,47bbd4e172fdc8109914d53f057b45b1:-1529924445,76bbd4e164fdc810661021cba37d7dad:1986292239,76bbd4e197fdc810df65887b4ce7e6a9:1829453304,76bbd4e1abfdc810bbf136c4cbe07ea5:1026710680,76bbd4e1d1fdc810f4759b991ffe57a1:-1675053614,32bb94e18afdc81054da79d136daf4b1:1442385063,32bb94e1cafdc810cdce29033f5c60ad:-484595354,77ab94e14bfdc8103429f013a9908c48:-1812743782,f7ab94e1b7fdc81078650ffa916c4d44:1270122325,6bab94e1eefdc81084fe1042b1d37640:-786736103,ebab94e1b9fdc810d901d5532a79463c:1314532285,6fab94e1cafdc810ced429d69ab1a138:817936755,abab94e181fdc810373552dcb5938b0f:-1558120064</update_guid_history>
-    </sys_update_version>
-    <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete/>
-        <sys_class_name>sys_metadata_delete</sys_class_name>
-        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-        <sys_created_on>2020-02-10 03:37:54</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
-        <sys_id>33e011001bea089066d6c91e1e4bcb57</sys_id>
-        <sys_metadata>33e011001bea089066d6c91e1e4bcb57</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>sector</sys_name>
-        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
-        <sys_parent/>
-        <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
-        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
-        <sys_update_name>sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector</sys_update_name>
-        <sys_update_version display_value="sys_choice_x_clear_soe_retro_x_clear_soe_retrofit_support_sector">71435ab61bbe4010f783bb39cd4bcb96</sys_update_version>
-        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-        <sys_updated_on>2020-02-10 03:37:54</sys_updated_on>
-    </sys_metadata_delete>
 </record_update>

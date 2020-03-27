@@ -37,8 +37,7 @@ function autoClose() {
 	//var ps = gs.getProperty('glide.ui.autoclose.time');
 	var pn = parseInt(3);
 	var gr = new GlideRecord('x_clear_soe_retro_x_clear_soe_retrofit_support');
-	gr.addQuery('status', '3');
-	gr.addOrCondition('status', '4');
+	gr.addQuery('ticket_status', '2');
 	gr.addQuery('awaiting_date', '<', gs.daysAgoStart(pn));
 	gr.query();
 	while(gr.next()) {
@@ -56,7 +55,7 @@ function autoClose() {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1819280f1b89cc50f783bb39cd4bcb85</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Auto resolve - no response</sys_name>
         <sys_overrides/>
         <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
@@ -65,7 +64,7 @@ function autoClose() {
         <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
         <sys_update_name>sys_script_1819280f1b89cc50f783bb39cd4bcb85</sys_update_name>
         <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-        <sys_updated_on>2019-11-15 15:01:05</sys_updated_on>
+        <sys_updated_on>2020-03-03 13:32:55</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>

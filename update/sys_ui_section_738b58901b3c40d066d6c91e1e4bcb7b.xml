@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2020-01-19 23:00:44</sys_created_on>
-            <sys_id>217acdcc1b6a089066d6c91e1e4bcb8e</sys_id>
+            <sys_created_on>2020-03-03 14:38:03</sys_created_on>
+            <sys_id>e65df14e1b9bc014f783bb39cd4bcb29</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2020-01-19 23:00:44</sys_updated_on>
+            <sys_updated_on>2020-03-03 14:38:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,55 +18,97 @@
             <element>status</element>
             <position>1</position>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2020-01-19 23:00:44</sys_created_on>
-            <sys_id>a57acdcc1b6a089066d6c91e1e4bcb8e</sys_id>
+            <sys_created_on>2020-03-03 14:38:03</sys_created_on>
+            <sys_id>625df14e1b9bc014f783bb39cd4bcb2a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2020-01-19 23:00:44</sys_updated_on>
+            <sys_updated_on>2020-03-03 14:38:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ticket_status</element>
+            <position>2</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 14:38:03</sys_created_on>
+            <sys_id>e65df14e1b9bc014f783bb39cd4bcb2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 14:38:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_issues_resolved_by_rss</element>
+            <position>3</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 14:38:03</sys_created_on>
+            <sys_id>6e5df14e1b9bc014f783bb39cd4bcb2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 14:38:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>4</position>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2020-01-19 23:00:44</sys_created_on>
-            <sys_id>2d7acdcc1b6a089066d6c91e1e4bcb8e</sys_id>
+            <sys_created_on>2020-03-03 14:38:03</sys_created_on>
+            <sys_id>e25df14e1b9bc014f783bb39cd4bcb2b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2020-01-19 23:00:44</sys_updated_on>
+            <sys_updated_on>2020-03-03 14:38:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_on</element>
-            <position>3</position>
+            <position>5</position>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2020-01-19 23:00:44</sys_created_on>
-            <sys_id>a17acdcc1b6a089066d6c91e1e4bcb8f</sys_id>
+            <sys_created_on>2020-03-03 14:38:03</sys_created_on>
+            <sys_id>6a5df14e1b9bc014f783bb39cd4bcb2b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2020-01-19 23:00:44</sys_updated_on>
+            <sys_updated_on>2020-03-03 14:38:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>implementer</element>
-            <position>4</position>
+            <position>6</position>
             <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
-            <sys_created_on>2020-01-19 23:00:44</sys_created_on>
-            <sys_id>297acdcc1b6a089066d6c91e1e4bcb8f</sys_id>
+            <sys_created_on>2020-03-03 14:38:03</sys_created_on>
+            <sys_id>ee5df14e1b9bc014f783bb39cd4bcb2b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
             <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-            <sys_updated_on>2020-01-19 23:00:44</sys_updated_on>
+            <sys_updated_on>2020-03-03 14:38:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lead_generated_by_clearesult_staff</element>
+            <position>7</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 14:38:03</sys_created_on>
+            <sys_id>665df14e1b9bc014f783bb39cd4bcb2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SOE Retrofit Support Case" display_value="SOE Retrofit Support Case" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">738b58901b3c40d066d6c91e1e4bcb7b</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 14:38:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

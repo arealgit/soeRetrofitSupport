@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="98661ace1bd7401466d6c91e1e4bcb04" sys_domain="global" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f8661ace1bd7401466d6c91e1e4bcbda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <text>Application Status Request</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>bc661ace1bd7401466d6c91e1e4bcbda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <text>Application Support</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>70661ace1bd7401466d6c91e1e4bcbdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <text>Technical Support</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>34661ace1bd7401466d6c91e1e4bcbdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <text>General Program Info</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f4661ace1bd7401466d6c91e1e4bcbdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <text>Complaints &amp; Other</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>fc661ace1bd7401466d6c91e1e4bcbdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>74661ace1bd7401466d6c91e1e4bcbdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f8661ace1bd7401466d6c91e1e4bcbdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>primary_inquiry_type_tier_1</element>
+            <position>3</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>70661ace1bd7401466d6c91e1e4bcbdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>primary_inquiry_type_tier_2</element>
+            <position>4</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f4661ace1bd7401466d6c91e1e4bcbdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>f8661ace1bd7401466d6c91e1e4bcbda</element>
+            <position>5</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>7c661ace1bd7401466d6c91e1e4bcbdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>application_review_status_or_timeline</element>
+            <position>6</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f0661ace1bd7401466d6c91e1e4bcbde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incentive_cheque_status</element>
+            <position>7</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>78661ace1bd7401466d6c91e1e4bcbde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority_review_request</element>
+            <position>8</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>fc661ace1bd7401466d6c91e1e4bcbde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bc661ace1bd7401466d6c91e1e4bcbda</element>
+            <position>9</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>74661ace1bd7401466d6c91e1e4bcbdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>creating_and_submitting_an_application</element>
+            <position>10</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f8661ace1bd7401466d6c91e1e4bcbdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>creating_mv_plan</element>
+            <position>11</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>70661ace1bd7401466d6c91e1e4bcbe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calculations</element>
+            <position>12</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f4661ace1bd7401466d6c91e1e4bcbe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>creating_worksheets</element>
+            <position>13</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>7c661ace1bd7401466d6c91e1e4bcbe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paperwork</element>
+            <position>14</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f0661ace1bd7401466d6c91e1e4bcbe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>training_sessions_request</element>
+            <position>15</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>78661ace1bd7401466d6c91e1e4bcbe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assistance_with_edits</element>
+            <position>16</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>fc661ace1bd7401466d6c91e1e4bcbe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>switching_applications_representatives</element>
+            <position>17</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>74661ace1bd7401466d6c91e1e4bcbe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_visit_walkthrough</element>
+            <position>18</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f8661ace1bd7401466d6c91e1e4bcbe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_visit_metering</element>
+            <position>19</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>70661ace1bd7401466d6c91e1e4bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_for_support_with_information_request</element>
+            <position>20</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f4661ace1bd7401466d6c91e1e4bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>70661ace1bd7401466d6c91e1e4bcbdb</element>
+            <position>21</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>7c661ace1bd7401466d6c91e1e4bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>retrofit_portal_login_issues</element>
+            <position>22</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>f0661ace1bd7401466d6c91e1e4bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>retrofit_portal_navigation</element>
+            <position>23</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>78661ace1bd7401466d6c91e1e4bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>retrofit_portal_bugs</element>
+            <position>24</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>fc661ace1bd7401466d6c91e1e4bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>25</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>45661ace1bd7401466d6c91e1e4bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>secondary_inquiry_type_tier_1</element>
+            <position>26</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>c9661ace1bd7401466d6c91e1e4bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>secondary_inquiry_type_tier_2</element>
+            <position>27</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>41661ace1bd7401466d6c91e1e4bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>34661ace1bd7401466d6c91e1e4bcbdb</element>
+            <position>28</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>c5661ace1bd7401466d6c91e1e4bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dlc_energy_star</element>
+            <position>29</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>4d661ace1bd7401466d6c91e1e4bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mv_lighting</element>
+            <position>30</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>c1661ace1bd7401466d6c91e1e4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>worksheets</element>
+            <position>31</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>49661ace1bd7401466d6c91e1e4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>program_changes</element>
+            <position>32</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>cd661ace1bd7401466d6c91e1e4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rules_and_elibility</element>
+            <position>33</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>45661ace1bd7401466d6c91e1e4bcbe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>marketing_inquiries</element>
+            <position>34</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>c9661ace1bd7401466d6c91e1e4bcbe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mv_non_lighting</element>
+            <position>35</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>41661ace1bd7401466d6c91e1e4bcbe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>f4661ace1bd7401466d6c91e1e4bcbdb</element>
+            <position>36</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>c5661ace1bd7401466d6c91e1e4bcbe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_service_complaints</element>
+            <position>37</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>4d661ace1bd7401466d6c91e1e4bcbe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>technical_issue_complaints</element>
+            <position>38</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>c1661ace1bd7401466d6c91e1e4bcbea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_feedback_recommendations</element>
+            <position>39</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>49661ace1bd7401466d6c91e1e4bcbea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>greenhouse</element>
+            <position>40</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>cd661ace1bd7401466d6c91e1e4bcbea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>miscellanous</element>
+            <position>41</position>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+            <sys_id>45661ace1bd7401466d6c91e1e4bcbeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_clear_soe_retro_x_clear_soe_retrofit_support</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+            <sys_created_on>2020-03-03 16:27:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98661ace1bd7401466d6c91e1e4bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+            <sys_update_name>sys_ui_section_98661ace1bd7401466d6c91e1e4bcb04</sys_update_name>
+            <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:27:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>687a55f16f4ff9004c327b2f5d3ee4e6</instance_id>
+        <instance_name>clrdev</instance_name>
+        <name>sys_ui_section_98661ace1bd7401466d6c91e1e4bcb04</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="98661ace1bd7401466d6c91e1e4bcb04" sys_domain="global" table="x_clear_soe_retro_x_clear_soe_retrofit_support" version="3" view=""><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f8661ace1bd7401466d6c91e1e4bcbda</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><text>Application Status Request</text><type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>bc661ace1bd7401466d6c91e1e4bcbda</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><text>Application Support</text><type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>70661ace1bd7401466d6c91e1e4bcbdb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><text>Technical Support</text><type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>34661ace1bd7401466d6c91e1e4bcbdb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><text>General Program Info</text><type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f4661ace1bd7401466d6c91e1e4bcbdb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><text>Complaints &amp; Other</text><type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type></sys_ui_annotation><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>fc661ace1bd7401466d6c91e1e4bcbdb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>74661ace1bd7401466d6c91e1e4bcbdc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>2</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f8661ace1bd7401466d6c91e1e4bcbdc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>primary_inquiry_type_tier_1</element><position>3</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>70661ace1bd7401466d6c91e1e4bcbdd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>primary_inquiry_type_tier_2</element><position>4</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f4661ace1bd7401466d6c91e1e4bcbdd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>f8661ace1bd7401466d6c91e1e4bcbda</element><position>5</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>7c661ace1bd7401466d6c91e1e4bcbdd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>application_review_status_or_timeline</element><position>6</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f0661ace1bd7401466d6c91e1e4bcbde</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>incentive_cheque_status</element><position>7</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>78661ace1bd7401466d6c91e1e4bcbde</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority_review_request</element><position>8</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>fc661ace1bd7401466d6c91e1e4bcbde</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>bc661ace1bd7401466d6c91e1e4bcbda</element><position>9</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>74661ace1bd7401466d6c91e1e4bcbdf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>creating_and_submitting_an_application</element><position>10</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f8661ace1bd7401466d6c91e1e4bcbdf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>creating_mv_plan</element><position>11</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>70661ace1bd7401466d6c91e1e4bcbe0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>calculations</element><position>12</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f4661ace1bd7401466d6c91e1e4bcbe0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>creating_worksheets</element><position>13</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>7c661ace1bd7401466d6c91e1e4bcbe0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>paperwork</element><position>14</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f0661ace1bd7401466d6c91e1e4bcbe1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>training_sessions_request</element><position>15</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>78661ace1bd7401466d6c91e1e4bcbe1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assistance_with_edits</element><position>16</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>fc661ace1bd7401466d6c91e1e4bcbe1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>switching_applications_representatives</element><position>17</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>74661ace1bd7401466d6c91e1e4bcbe2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>site_visit_walkthrough</element><position>18</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f8661ace1bd7401466d6c91e1e4bcbe2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>site_visit_metering</element><position>19</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>70661ace1bd7401466d6c91e1e4bcbe3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>request_for_support_with_information_request</element><position>20</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f4661ace1bd7401466d6c91e1e4bcbe3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>70661ace1bd7401466d6c91e1e4bcbdb</element><position>21</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>7c661ace1bd7401466d6c91e1e4bcbe3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>retrofit_portal_login_issues</element><position>22</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>f0661ace1bd7401466d6c91e1e4bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>retrofit_portal_navigation</element><position>23</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>78661ace1bd7401466d6c91e1e4bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>retrofit_portal_bugs</element><position>24</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>fc661ace1bd7401466d6c91e1e4bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>25</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>45661ace1bd7401466d6c91e1e4bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>secondary_inquiry_type_tier_1</element><position>26</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>c9661ace1bd7401466d6c91e1e4bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>secondary_inquiry_type_tier_2</element><position>27</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>41661ace1bd7401466d6c91e1e4bcbe6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>34661ace1bd7401466d6c91e1e4bcbdb</element><position>28</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>c5661ace1bd7401466d6c91e1e4bcbe6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>dlc_energy_star</element><position>29</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>4d661ace1bd7401466d6c91e1e4bcbe6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>mv_lighting</element><position>30</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>c1661ace1bd7401466d6c91e1e4bcbe7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>worksheets</element><position>31</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>49661ace1bd7401466d6c91e1e4bcbe7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>program_changes</element><position>32</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>cd661ace1bd7401466d6c91e1e4bcbe7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>rules_and_elibility</element><position>33</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>45661ace1bd7401466d6c91e1e4bcbe8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>marketing_inquiries</element><position>34</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>c9661ace1bd7401466d6c91e1e4bcbe8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>mv_non_lighting</element><position>35</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>41661ace1bd7401466d6c91e1e4bcbe9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>f4661ace1bd7401466d6c91e1e4bcbdb</element><position>36</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>c5661ace1bd7401466d6c91e1e4bcbe9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>customer_service_complaints</element><position>37</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>4d661ace1bd7401466d6c91e1e4bcbe9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>technical_issue_complaints</element><position>38</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>c1661ace1bd7401466d6c91e1e4bcbea</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>user_feedback_recommendations</element><position>39</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>49661ace1bd7401466d6c91e1e4bcbea</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>greenhouse</element><position>40</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>cd661ace1bd7401466d6c91e1e4bcbea</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>miscellanous</element><position>41</position><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:26</sys_created_on><sys_id>45661ace1bd7401466d6c91e1e4bcbeb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_clear_soe_retro_x_clear_soe_retrofit_support" sys_domain="global" view="Default view">98661ace1bd7401466d6c91e1e4bcb04</sys_ui_section><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_clear_soe_retro_x_clear_soe_retrofit_support</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2020-03-03 16:27:24</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>98661ace1bd7401466d6c91e1e4bcb04</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Section</sys_name><sys_overrides/><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>sys_ui_section_98661ace1bd7401466d6c91e1e4bcb04</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2020-03-03 16:27:24</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1992235586</payload_hash>
+        <record_name>SOE Retrofit Support Cases</record_name>
+        <reverted_from/>
+        <source>2657257f1b494810b40d10e58d4bcb09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-03-03 16:27:26</sys_created_on>
+        <sys_id>09661ace1bd7401466d6c91e1e4bcbef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170a139376a0000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-03-03 16:27:26</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>81661aced9d740143895820c167914ef</update_guid>
+        <update_guid_history>81661aced9d740143895820c167914ef:-1992235586</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-03-03 16:28:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>42c23d281fcf4e56809a7ffce80896f9</sys_id>
+        <sys_metadata>98661ace1bd7401466d6c91e1e4bcb04</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent display_value="SOE Retrofit Support Cases">f1f89cd81bf840d066d6c91e1e4bcb0b</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_ui_section_98661ace1bd7401466d6c91e1e4bcb04</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_98661ace1bd7401466d6c91e1e4bcb04">09661ace1bd7401466d6c91e1e4bcbef</sys_update_version>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-03-03 16:28:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

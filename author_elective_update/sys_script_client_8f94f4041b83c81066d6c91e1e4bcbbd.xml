@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>application_number</field>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Unlock Technology list</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   $("x_clear_soe_retro_x_clear_soe_retrofit_support.technology_unlock").click();
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-02-13 17:57:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f94f4041b83c81066d6c91e1e4bcbbd</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Unlock Technology list</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>sys_script_client_8f94f4041b83c81066d6c91e1e4bcbbd</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-02-13 18:14:12</sys_updated_on>
+        <table>x_clear_soe_retro_x_clear_soe_retrofit_support</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>687a55f16f4ff9004c327b2f5d3ee4e6</instance_id>
+        <instance_name>clrdev</instance_name>
+        <name>sys_script_client_8f94f4041b83c81066d6c91e1e4bcbbd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;application_number&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Unlock Technology list&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   $("x_clear_soe_retro_x_clear_soe_retrofit_support.technology_unlock").click();
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Anthony.Sheculski-ad&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-02-13 17:57:31&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;8f94f4041b83c81066d6c91e1e4bcbbd&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;Unlock Technology list&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro"&gt;8a2718d41bf840d066d6c91e1e4bcbbf&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="SOE Retrofit Support"&gt;8a2718d41bf840d066d6c91e1e4bcbbf&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_8f94f4041b83c81066d6c91e1e4bcbbd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Anthony.Sheculski-ad&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-02-13 18:14:12&lt;/sys_updated_on&gt;&lt;table&gt;x_clear_soe_retro_x_clear_soe_retrofit_support&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1301281496</payload_hash>
+        <record_name>Unlock Technology list</record_name>
+        <reverted_from/>
+        <source>2657257f1b494810b40d10e58d4bcb09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-02-13 18:14:12</sys_created_on>
+        <sys_id>fb9878cc1b83c81066d6c91e1e4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1703fc2238a0000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-02-13 18:14:12</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>b39878cc5e83c8104e4e61f72b770ec9</update_guid>
+        <update_guid_history>b39878cc5e83c8104e4e61f72b770ec9:1301281496,c758f4cc5d83c810bf3ec713ceaa6b22:-1328800200,3f08b48c4383c810e77d6ce3ea26090d:1635010111,7af7788cd183c81035cba92a4ea6a23e:1966379836,53d7340c0483c8107004c8a4839b6be2:1943556834,8887f84c1e83c810961e15a05c47b15a:-1074963432,93c47c046683c81017cfb1c56378c556:-868206614</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-02-13 18:14:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>297491f90c034f5194696b3529d82879</sys_id>
+        <sys_metadata>8f94f4041b83c81066d6c91e1e4bcbbd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unlock Technology list</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent display_value="SOE Retrofit Support Cases">f1f89cd81bf840d066d6c91e1e4bcb0b</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>sys_script_client_8f94f4041b83c81066d6c91e1e4bcbbd</sys_update_name>
+        <sys_update_version display_value="sys_script_client_8f94f4041b83c81066d6c91e1e4bcbbd">fb9878cc1b83c81066d6c91e1e4bcbc9</sys_update_version>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-02-13 18:14:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

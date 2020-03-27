@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_clear_soe_retro_imp_cases</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-16 14:29:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c97f40c11bf9441045500dc2cd4bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_clear_soe_retro_imp_cases</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_update_name>ua_table_licensing_config_c97f40c11bf9441045500dc2cd4bcb95</sys_update_name>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-12-16 14:29:46</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</application>
+        <file_path/>
+        <instance_id>607a55f16f4ff9004c327b2f5d3ee4d0</instance_id>
+        <instance_name>clr</instance_name>
+        <name>ua_table_licensing_config_c97f40c11bf9441045500dc2cd4bcb95</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_clear_soe_retro_imp_cases</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>Anthony.Sheculski-ad</sys_created_by><sys_created_on>2019-12-16 14:29:46</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>c97f40c11bf9441045500dc2cd4bcb95</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_clear_soe_retro_imp_cases</sys_name><sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope><sys_update_name>ua_table_licensing_config_c97f40c11bf9441045500dc2cd4bcb95</sys_update_name><sys_updated_by>Anthony.Sheculski-ad</sys_updated_by><sys_updated_on>2019-12-16 14:29:46</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-174735370</payload_hash>
+        <record_name>x_clear_soe_retro_imp_cases</record_name>
+        <reverted_from/>
+        <source>2657257f1b494810b40d10e58d4bcb09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2019-12-16 14:29:46</sys_created_on>
+        <sys_id>817f40c11bf9441045500dc2cd4bcb99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f0f1d77280000001</sys_recorded_at>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2019-12-16 14:29:46</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>897f40c1ccf94410977c6002005a1498</update_guid>
+        <update_guid_history>897f40c1ccf94410977c6002005a1498:-174735370</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Anthony.Sheculski-ad</sys_created_by>
+        <sys_created_on>2020-03-27 14:53:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>04f020fa065d4718a016bb5c492d7440</sys_id>
+        <sys_metadata>c97f40c11bf9441045500dc2cd4bcb95</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_clear_soe_retro_imp_cases</sys_name>
+        <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">066514a866424e3b8328b367e8c4b751</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_c97f40c11bf9441045500dc2cd4bcb95</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_c97f40c11bf9441045500dc2cd4bcb95">817f40c11bf9441045500dc2cd4bcb99</sys_update_version>
+        <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
+        <sys_updated_on>2020-03-27 14:53:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

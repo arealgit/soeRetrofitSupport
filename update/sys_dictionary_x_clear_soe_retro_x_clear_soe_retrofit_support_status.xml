@@ -11,13 +11,13 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>3</choice>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Status</column_label>
         <comments/>
         <create_roles/>
-        <default_value>1</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -55,7 +55,7 @@
         <sys_created_on>2019-10-25 14:27:23</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>80c831fd1b05c8d042ff0d01cd4bcba7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Status</sys_name>
         <sys_package display_value="SOE Retrofit Support" source="x_clear_soe_retro">8a2718d41bf840d066d6c91e1e4bcbbf</sys_package>
         <sys_policy/>
@@ -63,7 +63,7 @@
         <sys_scope display_value="SOE Retrofit Support">8a2718d41bf840d066d6c91e1e4bcbbf</sys_scope>
         <sys_update_name>sys_dictionary_x_clear_soe_retro_x_clear_soe_retrofit_support_status</sys_update_name>
         <sys_updated_by>Anthony.Sheculski-ad</sys_updated_by>
-        <sys_updated_on>2019-12-18 05:04:36</sys_updated_on>
+        <sys_updated_on>2020-03-03 13:16:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
